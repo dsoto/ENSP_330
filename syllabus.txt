@@ -1,0 +1,94 @@
+# Energy, Technology, and Society, ENSP 330, Fall 2013
+
+4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC <br />
+Daniel Soto <br />
+Rachel Carson Hall 12 <br />
+sotod@sonoma.edu <br />
+Department of Environmental Studies and Planning <br />
+Sonoma State University <br />
+
+<!--
+http://www.sonoma.edu/uaffairs/policies/courseoutline.htm
+pandoc -s % -c soto.css -o syllabus.html
+-->
+
+
+## Course Description
+
+A lecture/discussion course designed to assist students in understanding
+energy as a fundamental measure of organization, structure, and
+transformation in society.  Principal topics include: energy history;
+thermodynamics; energy resources and conversion technologies; global
+issues and trends; environmental impacts; energy economics,
+institutions, and politics.  Elementary quantitative analysis.
+
+
+## Learning Objectives
+- development of critical thinking skills applied to global energy issues
+- develop model thinking and quantitative estimation skills for energy use
+- understanding of the multiple technical, social, and policy issues
+  surrounding energy implementations
+
+
+## Assignments
+- quizzes on content and concepts 25%
+- homework 25%
+- midterm 20%
+- final exam 30%
+
+
+## Agreements
+- respectful tone in classroom
+- minimize electronic distractions
+
+
+## Required Texts
+
+*Energy For Sustainability*, Randolph and Masters.
+Text available at Campus Bookstore and Northlight Books.
+Also on reserve at the library.
+
+*Sustainability without all the Hot Air*, MacKay.
+You can download the text in PDF format at
+[withouthotair.com](http://www.withouthotair.com)
+
+*Natural Capitalism*, Lovins.
+Available for download in PDF format at
+[natcap.org](http://www.natcap.org/)
+
+
+## Course Schedule
+<table>
+<tr><td>20 Aug 2013 </td><td>	Introduction and Overview</td>
+<tr><td>22 Aug 2013 </td><td>	History of energy</td>
+<tr><td>27 Aug 2013 </td><td>	Physics of Energy</td>
+<tr><td>29 Aug 2013 </td><td>	Biological Processes</td>
+<tr><td>3 Sept 2013 </td><td>	Energy Conversion</td>
+<tr><td>5 Sept 2013 </td><td>	Thermodynamics</td>
+<tr><td>10 Sept 2013 </td><td>	Fossil Fuel</td>
+<tr><td>12 Sept 2013 </td><td>	Nuclear Energy</td>
+<tr><td>17 Sept 2013 </td><td>	Hydropower</td>
+<tr><td>19 Sept 2013 </td><td>	Wind</td>
+<tr><td>24 Sept 2013 </td><td>	Solar</td>
+<tr><td>26 Sept 2013 </td><td>	Electricity</td>
+<tr><td>1 Oct 2013 </td><td>	Heat</td>
+<tr><td>3 Oct 2013 </td><td>	Mechanical Work</td>
+<tr><td>8 Oct 2013 </td><td>	Midterm</td>
+<tr><td>10 Oct 2013 </td><td>	Transportation</td>
+<tr><td>15 Oct 2013 </td><td>	Buildings</td>
+<tr><td>17 Oct 2013 </td><td>	Energy Efficiency</td>
+<tr><td>22 Oct 2013 </td><td>	Climate Impacts of Energy</td>
+<tr><td>24 Oct 2013 </td><td>	Health Impacts of Energy</td>
+<tr><td>29 Oct 2013 </td><td>	Global Access</td>
+<tr><td>31 Oct 2013 </td><td>	Life Cycle Energy Analysis</td>
+<tr><td>5 Nov 2013 </td><td>	Life Cycle Cost Analysis</td>
+<tr><td>7 Nov 2013 </td><td>	Local Energy Policy</td>
+<tr><td>12 Nov 2013 </td><td>	National Energy Policy</td>
+<tr><td>14 Nov 2013 </td><td>	Global Energy Policy</td>
+<tr><td>19 Nov 2013 </td><td>	Local Energy Solution</td>
+<tr><td>21 Nov 2013 </td><td>	Global Energy Solutions</td>
+</table>
+
+## Office Hours
+- sign up for office hours on the sheet at RCH 12 to get priority
+
