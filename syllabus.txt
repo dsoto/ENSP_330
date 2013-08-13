@@ -24,28 +24,41 @@ institutions, and politics.  Elementary quantitative analysis.
 
 
 ## Learning Objectives
-- development of critical thinking skills applied to global energy issues
-- develop model thinking and quantitative estimation skills for energy use
-- understanding of the multiple technical, social, and policy issues
+- Development of critical thinking skills applied to global energy issues
+- Develop model thinking and quantitative estimation skills for energy use
+- Understanding of the multiple technical, social, and policy issues
   surrounding energy implementations
 
 
-## Assignments
-- quizzes on content and concepts 25%
-- homework 25%
-- midterm 20%
-- final exam 30%
+## Course Requirements
+This course will have two main components, quantitative analysis and
+critical thinking. In addition to learning the relevant material,
+students will be challenged to integrate and interrogate new ideas
+presented during readings and discussion.
+Homework will consist of both quantitative assignments and essay
+questions.
+Quizzes will be given weekly to review material.
+Students will come to class prepared to participate in and sometimes
+lead discussion.
+
+
+## Grading
+- Classroom work (quizzes, participation) 25%
+- Homework 25%
+- Midterm 20%
+- Research project 10%
+- Final exam 20%
 
 
 ## Agreements
-- respectful tone in classroom
-- minimize electronic distractions
+- Respectful tone in classroom
+- Minimize electronic distractions
 
 
 ## Required Texts
 
 *Energy For Sustainability*, Randolph and Masters.
-Text available at Campus Bookstore and Northlight Books.
+Text available at the Campus Bookstore and at Northlight Books.
 Also on reserve at the library.
 
 *Sustainability without all the Hot Air*, MacKay.
@@ -56,39 +69,55 @@ You can download the text in PDF format at
 Available for download in PDF format at
 [natcap.org](http://www.natcap.org/)
 
+Other readings will be posted online to Moodle.
+
 
 ## Course Schedule
+
 <table>
-<tr><td>20 Aug 2013 </td><td>	Introduction and Overview</td>
-<tr><td>22 Aug 2013 </td><td>	History of energy</td>
-<tr><td>27 Aug 2013 </td><td>	Physics of Energy</td>
-<tr><td>29 Aug 2013 </td><td>	Biological Processes</td>
-<tr><td>3 Sept 2013 </td><td>	Energy Conversion</td>
-<tr><td>5 Sept 2013 </td><td>	Thermodynamics</td>
-<tr><td>10 Sept 2013 </td><td>	Fossil Fuel</td>
-<tr><td>12 Sept 2013 </td><td>	Nuclear Energy</td>
-<tr><td>17 Sept 2013 </td><td>	Hydropower</td>
-<tr><td>19 Sept 2013 </td><td>	Wind</td>
-<tr><td>24 Sept 2013 </td><td>	Solar</td>
-<tr><td>26 Sept 2013 </td><td>	Electricity</td>
-<tr><td>1 Oct 2013 </td><td>	Heat</td>
-<tr><td>3 Oct 2013 </td><td>	Mechanical Work</td>
-<tr><td>8 Oct 2013 </td><td>	Midterm</td>
-<tr><td>10 Oct 2013 </td><td>	Transportation</td>
-<tr><td>15 Oct 2013 </td><td>	Buildings</td>
-<tr><td>17 Oct 2013 </td><td>	Energy Efficiency</td>
-<tr><td>22 Oct 2013 </td><td>	Climate Impacts of Energy</td>
-<tr><td>24 Oct 2013 </td><td>	Health Impacts of Energy</td>
-<tr><td>29 Oct 2013 </td><td>	Global Access</td>
-<tr><td>31 Oct 2013 </td><td>	Life Cycle Energy Analysis</td>
-<tr><td>5 Nov 2013 </td><td>	Life Cycle Cost Analysis</td>
-<tr><td>7 Nov 2013 </td><td>	Local Energy Policy</td>
-<tr><td>12 Nov 2013 </td><td>	National Energy Policy</td>
-<tr><td>14 Nov 2013 </td><td>	Global Energy Policy</td>
-<tr><td>19 Nov 2013 </td><td>	Local Energy Solution</td>
-<tr><td>21 Nov 2013 </td><td>	Global Energy Solutions</td>
+<tr><td> Date       </td><td> Topic                      </td><td> Assignment     </td></tr>
+<tr><td> 2013-08-20 </td><td> Introduction and Overview  </td><td>                </td></tr>
+<tr><td> 2013-08-22 </td><td> History of energy          </td><td>                </td></tr>
+<tr><td> 2013-08-27 </td><td> Physics of Energy          </td><td>                </td></tr>
+<tr><td> 2013-08-29 </td><td> Biological Processes       </td><td>                </td></tr>
+<tr><td> 2013-09-03 </td><td> Energy Conversion          </td><td>                </td></tr>
+<tr><td> 2013-09-05 </td><td> Thermodynamics             </td><td>                </td></tr>
+<tr><td> 2013-09-10 </td><td> Fossil Fuel                </td><td> Homework 1 Due </td></tr>
+<tr><td> 2013-09-12 </td><td> Nuclear Energy             </td><td>                </td></tr>
+<tr><td> 2013-09-17 </td><td> Hydropower                 </td><td>                </td></tr>
+<tr><td> 2013-09-19 </td><td> Wind                       </td><td>                </td></tr>
+<tr><td> 2013-09-24 </td><td> Solar                      </td><td> Homework 2 Due </td></tr>
+<tr><td> 2013-09-26 </td><td> Electricity                </td><td>                </td></tr>
+<tr><td> 2013-10-01 </td><td> Heat                       </td><td>                </td></tr>
+<tr><td> 2013-10-03 </td><td> Mechanical Work            </td><td>                </td></tr>
+<tr><td> 2013-10-08 </td><td> Transportation             </td><td> Homework 3 Due </td></tr>
+<tr><td> 2013-10-10 </td><td> Buildings                  </td><td>                </td></tr>
+<tr><td> 2013-10-15 </td><td> Midterm                    </td><td>                </td></tr>
+<tr><td> 2013-10-17 </td><td> Energy Efficiency          </td><td>                </td></tr>
+<tr><td> 2013-10-22 </td><td> Climate Impacts of Energy  </td><td> Homework 4 Due </td></tr>
+<tr><td> 2013-10-24 </td><td> Health Impacts of Energy   </td><td>                </td></tr>
+<tr><td> 2013-10-29 </td><td> Global Access to Energy    </td><td>                </td></tr>
+<tr><td> 2013-10-31 </td><td> Life Cycle Energy Analysis </td><td>                </td></tr>
+<tr><td> 2013-11-05 </td><td> Life Cycle Cost Analysis   </td><td> Homework 5 Due </td></tr>
+<tr><td> 2013-11-07 </td><td> Local Energy Policy        </td><td>                </td></tr>
+<tr><td> 2013-11-12 </td><td> National Energy Policy     </td><td>                </td></tr>
+<tr><td> 2013-11-14 </td><td> Global Energy Policy       </td><td>                </td></tr>
+<tr><td> 2013-11-19 </td><td> Local Energy Solutions     </td><td>                </td></tr>
+<tr><td> 2013-11-21 </td><td> Global Energy Solutions    </td><td>                </td></tr>
+<tr><td> 2013-11-26 </td><td> Presentations              </td><td>                </td></tr>
+<tr><td> 2013-12-03 </td><td> Presentations              </td><td>                </td></tr>
+<tr><td> 2013-12-05 </td><td> Presentations              </td><td>                </td></tr>
+<tr><td> 2013-12-10 </td><td> Final Exam                 </td><td>                </td></tr>
 </table>
 
 ## Office Hours
-- sign up for office hours on the sheet at RCH 12 to get priority
+- Monday and Tuesday 12:00 - 13:00.  Sign up information will be posted
+  on Moodle.
 
+## University Policies
+
+There are important University policies that you should be aware of,
+such as the add/drop policy; cheating and plagiarism policy, grade
+appeal procedures; accommodations for students with disabilities and the
+diversity vision statement.  Go to this URL to find them.
+[http://www.sonoma.edu/uaffairs/policies/studentinfo.shtml](http://www.sonoma.edu/uaffairs/policies/studentinfo.shtml)
