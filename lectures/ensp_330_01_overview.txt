@@ -1,0 +1,113 @@
+% Lecture 1  Introduction and Overview
+% ENSP 330
+% Daniel Soto
+
+<!--
+- take attendance
+- introduce myself
+- make myself approachable
+-->
+
+
+## Vision
+- The combination of knowledge and skills you gain in this class will
+  create a foundation for a lifetime of informed discussion and
+  influence in the space of energy.
+
+<!--
+- this course is guided by what i want you to be able to do in your
+  careers 5, 10, 20, and 50 years from now.
+- we will do some things differently and you may find them strange, they
+  are all designed to prepare you for what you will actually do in the
+  future
+-->
+
+## Interview
+- What do you want to get out of this class?
+- How do you hope to use what you learn here in your career?
+- What are you most curious about in the field of energy?
+- What are you most concerned about in the field of energy?
+
+<!--
+- pick a partner and write down responses for the following questions
+- this will be an ungraded assignment
+- when finished, briefly introduce your partner to the class
+-->
+
+## Syllabus Review
+[My Website](http://danielrsoto.com/teaching/syllabus_330.html)
+
+<!--
+- course organization
+- we begin with a discussion of energy and mathematical fundamentals
+- we then cover different sources of energy
+- how we use energy
+- impacts of energy
+- economics and policy
+- discuss how tentative schedule is
+- talk about selection of texts
+-->
+
+## Learning objectives
+- You will gain knowledge of energy issues
+- You will develop quantitative estimation skills and model thinking
+- You will enhance your critical thinking skills
+- You will apply research skills to energy issues
+
+<!--
+- some of these are related to the content
+- some of these are not related to the content
+-->
+
+## Transfer of knowledge
+- Certain energy facts will not change
+    - Physics of energy, thermodynamics, economics
+- Others will definitely change
+    - Cheapest energy source, state of the art in technology, financing
+      options
+
+<!--
+- can anyone name something in the world of energy that has changed
+  significantly in the past several years?
+-->
+
+## Quantitative Estimation Skills
+- You will leave this class with the ability to quantitatively evaluate
+  new ideas for feasibility
+- We will develop analytical tools and techniques for energy estimation
+
+<!--
+- show of hands, how comfortable are you with mathematics?
+- how comfortable are you with physics?
+- algebra?
+- calculus?
+-->
+
+## Model thinking
+- A model is an approximation that allows us to think about the world
+- All models are wrong, some are useful
+- How do we separate facts from opinions?
+
+<!--
+- who can name an example of a model?
+- who can think of a place where models are useful?
+- who knows who nate silver is?
+-->
+
+## Critical thinking skills
+- How do you gain information about a topic?
+- How do evaluate the quality of that information?
+- How do you assess the quality of an argument?
+
+<!--
+- show of hands, how many are comfortable with this topic?
+- i don't feel like i developed this until midway through graduate
+  school
+-->
+
+## Research skills
+- How do you discover more about a topic?
+- How do you synthesize this information to answer a question?
+- How do you find the right question to ask?
+
+## Questions
