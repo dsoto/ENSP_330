@@ -1,0 +1,143 @@
+% ENSP 330, Lecture 4, Energy in the Biosphere
+% Professor Daniel Soto, Sonoma State University
+% 29 Aug 2013
+
+## Major sources of energy on Earth
+- Sunlight
+- Internal radioactive decay
+- Gravitational Potential
+- Tidal Energy
+
+## Solar radiation
+- Conversion of mass energy to radiation
+- Converts hydrogen to helium
+
+## Solar radiation
+- [Solar
+  Reaction](http://m.teachastronomy.com/astropedia/article/Nuclear-Reactions-in-Main-Sequence-Stars)
+![](./figures/proton-proton_chain.jpg)
+
+## Solar Energy
+- Approximately 1000 watts per square meter on the surface of the earth
+  at peak
+- 170 watts per square meter average insolation
+
+## Solar Spectrum
+[Solar
+Spectrum](http://upload.wikimedia.org/wikipedia/commons/4/4c/Solar_Spectrum.png)
+![](./figures/Solar_Spectrum.png)
+
+## Solar Energy Budget
+[Solar Energy Budget
+(nasa.gov)](http://science-edu.larc.nasa.gov/EDDOCS/images/Erb/components2.gif)
+![](./figures/solar_energy_budget.png)
+
+## Solar radiation
+- Solar radiation drives many processes on Earth
+- Wind
+- Waves
+- Ocean Currents
+- Atmospheric Currents
+
+## Water evaporation
+- Latent heat absorbed during evaporation of water
+- Latent heat released during rain
+
+## Producers
+- Plants
+- Algae
+- Convert radiation energy to chemical energy
+- Create biofuel for all organisms
+
+## Efficiency
+- A measure of how well a resource is converted
+- Defined as desired energy out divided by energy in
+- $\eta = \frac{E_{out}}{E_{in}}$
+
+## Exercise
+- List some examples of efficiency measurements you are familiar with
+
+<!--
+we couldn't come up with any, really.
+says something about efficiency and society that we don't have language
+for it.
+miles per gallon
+lumens per watt
+-->
+
+
+## Efficiency of plants
+- How efficiently do plants convert sunlight into biomass (chemical
+  energy)?
+
+## Exercise
+- How would you calculate the efficiency of crop production?
+- What would be input energy?
+- What would be output energy?
+- What do you exclude from your model?
+
+## Net Primary Production
+- Intensive crops average 2% efficiency
+- Global production is 120 billion tons on land and 110 billion tons in
+  oceans per year
+
+## Consumers
+- Primary Consumers
+    - Herbivores
+    - Insects
+- Secondary, Tertiary Consumers
+    - Carnivores
+    - Omnivores
+
+## Energy pyramid
+
+[Biomass
+Pyramid](http://online.morainevalley.edu/websupported/bio112/biomasspyramid.jpg)
+![](./figures/biomass_pyramid.jpg)
+
+## Livestock
+- Cows are herbivores
+- How much sunlight energy goes into each kilogram of beef?
+- What is the chemical energy?
+
+## Exercise
+- How efficient is beef production?
+- What would be the input energy?
+- What would be the output energy?
+
+
+## Energy content of foods
+- Carbohydrates 17 MJ/kg
+- Protein 23 MJ/kg
+- Lipids 39 MJ/kg
+
+
+
+## Energy inputs to food production
+- Mechanization of tilling, harvest
+- Transportation of food
+- Processing
+- Refrigeration and storage
+
+<!--
+- need to do quick refresher on area and volume
+-->
+
+## Exercise
+- If you consume 2500 food calories per day, how many joules is that?
+- What is your equivalent rate of power consumption in watts?
+- How many acres of wheat could supply you with this energy?
+
+<!--
+100 g hard red winter wheat
+energy 1368 kJ
+energy 327 kcal
+yield 41.7 bushels per acre
+yield 2.24 metric ton per hectare
+hectare = 10^4 square meters
+-->
+
+## Exercise
+- What was most interesting point from readings
+- What did you disagree with?
+- What would you like to learn more about?
