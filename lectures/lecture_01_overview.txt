@@ -1,6 +1,6 @@
-% Lecture 1  Introduction and Overview
-% ENSP 330
-% Daniel Soto
+% ENSP 330, Lecture 1, Introduction and Overview
+% Professor Daniel Soto, Sonoma State University
+% 20 Aug 2013
 
 <!--
 - take attendance

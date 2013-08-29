@@ -1,6 +1,6 @@
-% History of Energy
-% ENSP 330
-% Daniel Soto
+% ENSP 330, Lecture 2, History of Energy
+% Professor Daniel Soto, Sonoma State University
+% 22 Aug 2013
 
 <!--
 - energy technologies have positive and negative effects
@@ -11,8 +11,6 @@
 - logistical questions
 - moodle access
 -->
-
-# Lecture 2 - History of energy
 
 
 ## What is energy?
@@ -204,16 +202,16 @@ Farm](http://en.wikipedia.org/wiki/File:Shepherds_Flat_Wind_Farm_2011.jpg)
 
 ## Hockey Stick Chart
 [MBH 1998 temperature patterns](http://www.meteo.psu.edu/holocene/public_html/shared/articles/mbh98.pdf)
-![](./mbh1998.pdf)
+![](./figures/mbh1998.pdf)
 
 ## CO$_2$ Record
 [National Oceanic and Atmospheric Administration Earth System Research
 Laboratory](http://www.esrl.noaa.gov/gmd/ccgg/trends/)
-![](./co2_data_mlo.pdf)
+![](./figures/co2_data_mlo.pdf)
 
 ## Human Influence
 [IPCC summary](http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/006.htm)
-![](./ipcc_human_influence.pdf)
+![](./figures/ipcc_human_influence.pdf)
 <!--
 - what is beyond dispute
 - what is still under debate
