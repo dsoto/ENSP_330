@@ -1,0 +1,18 @@
+% ENSP 330, Lecture 6
+% Professor Daniel Soto, Sonoma State University
+% 5 Sept 2013
+
+## Zeroth Law of Thermodynamics
+
+
+## First Law of Thermodynamics
+
+
+## Second Law of Thermodynamics
+
+
+## Implications for efficiency of
+- Refrigerators
+- Power plants
+
+

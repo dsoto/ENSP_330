@@ -1,0 +1,15 @@
+% ENSP 330, Lecture 5, Energy Conversion
+% Professor Daniel Soto, Sonoma State University
+% 3 Sept 2013
+
+## Types of energy conversion
+
+## Energy conversion
+
+## Efficiency of conversion
+
+## Numerical Examples
+
+## Heat Rate in Power Plant
+
+## Limit of refrigerator efficiency
