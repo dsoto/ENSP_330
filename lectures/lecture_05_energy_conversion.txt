@@ -2,14 +2,106 @@
 % Professor Daniel Soto, Sonoma State University
 % 3 Sept 2013
 
+## Energy Conversion
+- Energy must be converted
+- Often energy must be transported
+
+<!--
+- announcements
+- internship deadline today
+- is everyone getting emails about readings and assignments?
+- assignment sent out today, due next tuesday start of class
+10:05
+-->
+
 ## Types of energy conversion
+- Matrix of energy conversions
 
-## Energy conversion
+<!--
+- at whiteboard, enumerate different transitions with help from class
+- radiation, chemical, thermal, kinetic, electrical, nuclear,
+  gravitational
+- generators
+- motors
+- batteries
+- photosynthesis
+- waterfalls
+- muscles
+- joule heating
+-->
 
-## Efficiency of conversion
+## Efficiency
+- A measure of how well a resource is converted
+- Defined as useful energy out divided by total energy in
+$$\eta = \frac{E_{out}}{E_{in}}$$
 
-## Numerical Examples
 
-## Heat Rate in Power Plant
+## Efficiencies
+- Electrical generators (70--99%)
+- Electric motors (50--90%)
+- Gas furnace (70--95%)
+- Wind turbine (35--50%)
+- Fossil fuel power plant (30--40%)
+- Nuclear power plant (30--35%)
+- Automobile engine (20--30%)
+- Solar cell (5--28%)
+- Fuel cell (40--60%)
 
-## Limit of refrigerator efficiency
+<!--
+- how efficient could these be?
+- we will answer these questions in the coming lectures
+-->
+
+## Multiplication of efficiencies
+- When we want to know the efficiency of a process with many steps, we
+  multiply the efficiencies at each step to get the total.
+$$\eta_{total} = \eta_1 \cdot \eta_2 \cdot \eta_3 \cdots$$
+
+## How do we measure efficiencies?
+- How do we measure energy?
+
+## Kinetic energy
+- The kinetic energy of a moving object is proportional
+    - mass of the object
+    - square of the object's velocity
+$$E_{kinetic} = \frac{1}{2} m v^2$$
+
+## Kinetic energy
+![](./figures/kinetic_energy.jpg)
+
+## Exercise
+- Calculate the kinetic energy in a car traveling down 101
+- Express units in joules and kWh
+- What quantities do you need to know?  In what units?
+
+<!--
+we'll arrive at estimates together
+calculate independently
+-->
+
+## Gravitational potential energy
+- The stored gravitational energy of an object is proportional to
+    - mass of the object
+    - the height difference
+    - gravitational acceleration (9.8 m/sec^2)
+$$E_{gravitational} = m g \Delta h$$
+
+## Gravitational potential energy
+![](./figures/gravitational_potential_energy.jpg)
+
+## Exercise
+- Drive the same car from the beach to the top of Mount Tamalpais
+- What is the gravitational potential energy relative to the beach?
+- Calculate in joules and kWh
+
+<!--
+elevation 2572 feet, 784 meters
+-->
+
+## Thermal energy
+- Thermal energy proportional to
+    - mass of the object
+    - difference in temperature
+    - heat capacity of material
+$$Q = E_{thermal} = m c \Delta T$$
+
