@@ -1,6 +1,6 @@
 # ENSP 330 Homework 1
 
-Due Date: September 10, 2013
+Due Date: September 12, 2013
 
 <!--
 pedagogical goals
