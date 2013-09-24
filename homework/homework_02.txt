@@ -1,0 +1,84 @@
+# ENSP 330 Homework 2
+
+Due Date: Thursday, October 3, 2013
+
+
+## Problem 1
+
+Largest global energy consumers
+
+Use the Energy Information Agency website to find data for this problem.
+Indicate what data you found to answer the questions.
+
+a) Which countries have the first and second amount of primary energy
+consumption per year?  What is the amount for each in joules?
+
+b) Showing your work, calculate the per capita energy consumption for
+each of these countries.
+
+c) Comment on the differences between these two countries.
+
+
+
+## Problem 2
+
+Your Utility Bill
+
+Find your electricity and gas bill or borrow one from a friend or family
+member.
+
+a) Extrapolating from the monthly bill, what is your estimated yearly use
+in electricity in kWh?
+
+b) What is your estimated yearly use in natural gas in therms?
+
+c) Convert both of these to joules.  Which is greater?
+
+d) Which form of energy is more expensive in terms of dollars per
+delivered joule?
+
+e) Estimate your yearly carbon dioxide emissions in kg for each form of
+energy.  For the California grid, use the value of 659 pounds carbon
+dioxide per MWh.  For natural gas, use 5 kg carbon dioxide per therm.
+Which is greater?
+
+f) Which form of energy emits more carbon per joule delivered?
+
+g) What are some possible strategies your you that will have the greatest
+reduction of carbon emissions?
+
+
+
+## Problem 3
+
+Driving Energy
+
+a) Estimate your energy use in driving your car.  Based either on mileage
+or on how frequently you fill your tank, estimate the amount of energy
+in joules you use monthly in the form of gasoline.  Document your
+assumptions.
+
+b) How does this compare with the amount of energy you consume in
+electricity?
+
+
+
+## Discussion
+
+Based on the Amory Lovins 1976 article.  Please hand this part in
+typewritten.
+
+a) Describe the difference between soft and hard energy paths in your
+own words.  (Approximately 100 words)
+
+b) Find a news article discussing a current energy issue and discuss
+whether the issue is part of a hard path or soft path approach.
+(Approximately 200 words)
+
+
+
+
+<!--
+http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm?tid=44&pid=44&aid=1
+http://en.wikipedia.org/wiki/List_of_countries_by_total_primary_energy_consumption_and_production
+-->
