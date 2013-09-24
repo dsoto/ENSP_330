@@ -1,0 +1,141 @@
+% ENSP 330, Lecture 8
+% Professor Daniel Soto, Sonoma State University
+% 12 Sept 2013
+
+
+<!--
+- announcements
+- research project
+- pick a topic you are interested in related to energy
+- this can be an energy source, an efficiency technology or a social shift that improves our energy system
+- your paper should demonstrate the potential of the topic for improvement
+- both written paper and oral presentation
+-->
+
+<!--
+- where do we get them
+- how do we use them
+- why are they useful
+- how are they harmful
+- how long will they last
+-->
+
+# Fossil Fuels
+
+## Types of Fossil Fuels
+- Coal
+- Petroleum
+- Natural Gas
+
+
+<!--
+- fossil fuel etymology latin fossilis dug up
+-->
+
+## Origin of Fossil Fuels
+![](./figures/L8_von_meier/Slide2.jpg)
+
+##
+![](./figures/L8_von_meier/Slide3.jpg)
+
+##
+![](./figures/L8_von_meier/Slide4.jpg)
+
+##
+![](./figures/L8_von_meier/Slide5.jpg)
+
+##
+![](./figures/L8_von_meier/Slide6.jpg)
+
+##
+![](./figures/L8_von_meier/Slide7.jpg)
+
+##
+![](./figures/L8_von_meier/Slide8.jpg)
+
+## Petroleum prices
+![](./figures/gas_prices.png)
+
+## Petroleum use
+![](./figures/petroleum_sankey.pdf)
+
+## Natural gas use
+![](./figures/natural_gas_flow.pdf)
+
+## Coal use
+![](./figures/coal_flow.pdf)
+
+## Total energy use
+![](./figures/primary_energy_consumption.pdf)
+
+<!--
+## Extraction methods for coal
+
+## Extraction methods for petroleum
+
+## Extraction methods for natural gas
+-->
+
+## Impacts of extraction methods
+- What are the benefits of extraction?
+- What are the costs of extraction?
+
+<!--
+- exxon valdez 1989 prince william sound, alaska
+- deepwater horizon explosion 2010
+- sago mine 2006 disaster
+-->
+
+<!--
+## Benefits of fossil fuels
+
+## Drawbacks to fossil fuel use
+
+## Energy return on investment
+
+## Fossil fuel prices in real dollars
+
+## Increased cost with unconventional sources
+
+
+-->
+
+## Energy independence
+
+## Carbon intensity
+
+## Fossil Fuel Subsidies
+- exploration expensing
+- unpriced externalities
+
+## Politics
+- 2006 House passed bill to allow immediate offshore drilling
+- Arctic National Wildlife Refuge (ANWR)
+- Drilling on federal lands
+
+## Supply and demand
+- Does increased domestic drilling lower domestic prices?
+<!--
+- does increased energy supply decrease prices?
+-->
+
+<!--
+## Efficiency of conversion
+
+## Efficiency calculation example
+- Coal plant
+
+## Numerical Examples
+
+## Heat Rate in Power Plant
+
+## Limit of refrigerator efficiency
+
+## Segue into laws of thermodynamics
+
+## Heat Engine
+![](./figures/Carnot_heat_engine_2.png)
+-->
+
+
+

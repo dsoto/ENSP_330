@@ -1,0 +1,133 @@
+% ENSP 330, Lecture 7
+% Professor Daniel Soto, Sonoma State University
+% 10 Sept 2013
+
+## Announcements
+<!--
+is anyone following AB 327?
+toolkit readings posted to moodle
+
+
+
+-->
+
+
+
+## Modeling
+- Using mathematics to predict the natural world
+- Both science and art
+
+## A small electric water heater
+- Power supply
+- Electric Resistor
+- Water
+- Insulated container
+
+## Exercise
+- Electric Water Heater
+- Draw diagram of system
+- Where is energy going?
+- Calculate temperature rise after 10 minutes
+
+## Drawings and representations
+- Drawing that captures physical layout
+- Diagram that captures energy flows
+- Mathematical representation
+
+## Physical drawing
+![](./figures/water_heater_picture.jpg)
+
+## Energy diagram
+![](./figures/water_heater_energy_flow.jpg)
+
+## Mathematical representation
+![](./figures/water_heater_mathematics.jpg)
+
+## Getting quantitative
+- How do we determine the energy from the resistor?
+- How do we determine the rise in temperature?
+- Do we have our units consistently expressed?
+
+
+<!--
+one drawing may be an accurate reflection of the system
+another drawing may be a better way to depict energy flows
+-->
+
+## Estimate the temperature rise of the water in 10 minutes
+
+## Exercise
+- Using 2 kg of coal with heat content of 30 MJ/kg
+    - How much energy (in J) is the coal?
+    - How much water can we raise in temperature from 15C to 50C
+      assuming 100% efficiency?
+
+## Exercise
+- Using 2 kg of coal with heat content of 30 MJ/kg
+- How much electricity in kWh can we generate assuming 35% efficiency?
+
+<!--
+make a list of assumptions and units
+draw on board to support exercise
+anthracite coal 30 MJ/kg
+3.6 MJ/kWh
+how much electricity if 100% efficient?
+how much if 30% efficient?
+-->
+
+## Exercise
+- How much energy did it take to heat your shower water this morning?
+- Calculate in joules and kWh
+
+<!--
+make a list of assumptions and units
+this is part back of the envelope and part calculation
+how long is your shower?
+how much water per minute? 2 gallons per minute
+how much volume per mass? 3.79 liters per gallon
+we can derive heat capacity from calorie
+4.186 J per g of water
+how hot is shower water?
+how hot did it start?
+-->
+
+
+## Reading Discussion
+- Lovins, Energy Strategy: The Road Not Taken?
+
+<!--
+article notes
+- what is lovins arguing?
+- what are the central points in his essay?
+- is he convincing?
+- what is a subsidy?
+- which path did we follow?
+- what does the consumption data say about predictions in II?
+- what is a capital cost?
+- why is capital cost of electricity so much more expensive than coal?
+- can we show this in a calculation?
+- Since we can't keep the bathtub filled because the hot water keeps running
+  out, do we really (as Malcolm MacEwen asks) need a bigger water heater, or
+  could we do better with a cheap, low-technology plug?
+- technical fixes and social changes
+- avoided cost of energy (capital cost)
+- what is the argument for efficiency?
+- what is life cycle costing?  (difference between mpg and whole car cost)
+- official predcitons are 130-170 quads primary energy, what is reality?
+- what is energy income vs energy capital?
+- what is energy quality?
+- why is electricity overused in amory's opinion?
+- why isn't solar a soft technology?
+- what kinds of solar are not soft?  why not?
+- IX democratized power production
+- "the most important questions of energy strategy are social and ethical"
+- lovins believes we can almost eliminate electricity
+
+-->
+
+## California Electricity Consumption
+![](./figures/california_consumption.png)
+
+## Did Lovin's prediction come true?
+[Follow up to road not taken](http://softpathinnovations.com/SoftPath/About_Us_files/Energy%20Strategy-%20The%20Road%20Not%20Taken.pdf)
+![](./figures/amory1976.jpg)

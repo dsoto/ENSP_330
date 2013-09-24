@@ -1,0 +1,189 @@
+% ENSP 330, Lecture 11
+% Professor Daniel Soto, Sonoma State University
+% 19 Sept 2013
+
+## Announcements
+
+<!--
+EPA carbon limits for electricity plants
+
+http://www2.epa.gov/carbon-pollution-standards/2013-proposed-carbon-pollution-standard-new-power-plants
+
+freshman pizza with upper classmen noon this friday with the engineering
+math and science freshman interest group.  looking for phys, eng, math,
+kin, ensp majors Dr Guilford.
+
+crime prevention through environmental design, tuesday oct 1 2013
+5pm - 6:30 pm ETC
+
+-->
+
+## Life Cycle Analysis
+- Initial (Costs, Carbon, Pollutants)
+- Recurring (Costs, Carbon, Pollutants)
+
+## Automobile example
+- Initial costs
+	- purchase
+- Recurring costs
+	- maintenance
+	- fuel
+
+## Light bulb example
+- Initial costs
+	- purchase
+	- installation
+- Recurring costs
+	- electricity
+
+## Carbon Intensity
+- Embedded carbon
+- Carbon Intensity of Electricity
+- Coal 2009 Average 2249 lb CO2/MWh
+- Natural Gas 1135 lb CO2/MWh
+- Hydro, Wind, Solar, Nuclear 0 lb CO2/MWh
+- Proposed EPA Limit 1100 lb CO2/MWh for coal
+- 1000, 1100 lb CO2/MWh for natural gas
+
+## Carbon Intensity Data
+- Available at EPA eGRID
+- Environmental Protection Agency
+- Emissions and Generation Resource Integrated Database
+
+## Generation Mix
+![](./figures/egrid.pdf)
+
+## State Electricity Carbon Intensity Averages
+- Washington 287 lb/MWh
+- California 633 lb/MWh
+- Virginia 1232 lb/MWh
+- West Virginia 2027 lb/MWh
+
+## Averages
+- Estimate average carbon intensity from percentages
+- Review
+    - Arithmetic mean or average
+    - Means based on percentages
+
+
+
+# Nuclear Energy
+
+## Nuclear energy
+- Nuclear energy used for electricity
+- Very similar to fossil fuel plants
+
+<!--
+link to other concepts
+- second law of thermodynamics
+- heat engine
+- inital cost, recurring cost, fuel cost
+- capacity factor
+-->
+
+
+##
+![](./figures/nuclear_reactor_diagram.jpg)
+
+## Fusion vs Fission
+- Fusion joins atomic nuclei
+- Sun is a fusion reaction
+- Fission splits atomic nuclei
+- Nuclear energy is a fission reaction
+
+##
+![](./figures/fission.jpg)
+
+
+## Atomic Theory
+
+## Electronic vs Nuclear Energy Levels
+- Mass Energy Equivalence
+- $E = mc^2$
+- The very high binding energy in the nucleus allows for small amounts
+  of fuel to release large amounts of energy
+
+## Nuclear Decay
+- Elements become other elements
+- Iron most stable
+
+##
+![](./figures/periodic_table.jpg)
+
+
+## Nuclear Fuel
+
+##
+![](./figures/uranium_metal.jpg)
+
+##
+![](./figures/uranium_mine.jpg)
+
+##
+![](./figures/uranium_ore.jpg)
+
+##
+![](./figures/yellowcake.jpg)
+
+##
+![](./figures/nuclear_fuel_rods.jpg)
+
+##
+![](./figures/nuclear_reactor_core.jpg)
+
+## Nuclear Waste Disposal
+
+## Half Life
+- Definition
+- Relation to carbon dating
+- Relevance to end of life
+
+## Half Life
+![](./figures/halflife.jpg)
+
+## Nuclear waste
+- Very long lifetime
+
+##
+![](./figures/fuel_cycle.jpg)
+
+##
+![](./figures/open_supply.jpg)
+
+##
+![](./figures/closed_supply.jpg)
+
+##
+![](./figures/spent_fuel_storage.jpg)
+
+##
+![](./figures/uranium_storage.jpg)
+
+
+## Capacity vs Delivered Electricity
+- US Nuclear Capacity
+- US Nuclear Energy Production
+
+## Lifetime cost of nuclear electricity
+- Plant construction
+- Fixed operation and maintenance
+- Variable operation and maintenance
+- Decommissioning cost
+- Waste disposal
+
+
+## Lifetime cost of nuclear electricity
+- cost of construction 83.4 USD/MWh
+- fixed operation and maintenance 11.6 USD/MWh
+- variable operation and maintenance (fuel) 12.3 USD/MWh
+- total 108.4 USD/MWh
+- compare to coal (65.7, 4.1, 29.2, 100.1)
+- compare to natural gas (17.4, 2.0, 45.0, 67.1)
+
+## Discussion
+- How do we compare two different environmental risks?
+
+
+
+
+
