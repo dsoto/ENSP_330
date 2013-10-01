@@ -119,6 +119,9 @@
 
 ### Homework 2 Due
 
+### Reading
+- Heinricks and Kleinback Chapter 12
+
 ### Solar Energy
 - solar physics
 - solar photovoltaics
