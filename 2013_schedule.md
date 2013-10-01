@@ -108,18 +108,11 @@
 ## 13. Tuesday, 01 Oct 2013
 
 ### Discuss research assignment
-- Questions about assignment
-- List possible topics
 
 ### Hydropower
-- reading
 - physics of hydropower
 - land use issues
 - ecological effects
-- largest site - three gorges, grand coulee
-- microhydropower in developing world
-- niagra, hoover
-- three gorges
 
 
 ## 14. Thursday, 03 Oct 2013
@@ -130,13 +123,13 @@
 - solar physics
 - solar photovoltaics
 - solar thermal
-- back of the envelope solar scale
 
 ### Geothermal
+<!--
 - physics
 - overall contribution
 - locations in sonoma county
-
+-->
 
 ## 15. Tuesday, 08 Oct 2013
 
@@ -144,14 +137,14 @@
 
 ### Research topics presented in class
 
-
-## 16. Thursday, 10 Oct 2013
-
 ### Electricity
 - transmission
 - balanced supply and demand
 - distributed vs centralized generation
 - transmission
+
+
+## 16. Thursday, 10 Oct 2013
 
 ### Natural gas hydraulic fracturing
 - technology
@@ -219,9 +212,10 @@
 ### Reading
 Coal blooded
 
-### Health impacts
+### Energy Health Impacts
+<!--
 - Asthma
-
+-->
 
 ## 25. Tuesday, 12 Nov 2013
 
@@ -235,6 +229,7 @@ Coal blooded
 
 ## 27. Tuesday, 19 Nov 2013
 
+### Local Climate Policy
 
 
 
