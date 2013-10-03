@@ -1,0 +1,141 @@
+% ENSP 330, Lecture 13
+% Professor Daniel Soto, Sonoma State University
+% 1 Oct 2013
+
+## Announcements
+- Garden Volunteers
+- Reading posted
+- Research project
+- Peer assessment on problem set
+
+## Upcoming Deadlines
+- Homework 2 Due Thursday, October 3rd
+- Homework 1 Makeup Due Tuesday, October 8th
+- 2 minute research presentations, October 8th
+- Midterm Thursday October 24th
+
+# Hydropower
+
+## Ancient Power Technology
+- Waterwheels have been used for centuries
+- Modern hydropower technology has added large scale dams
+
+## Hydropower is significant world wide
+- http://wdi.worldbank.org/table/3.7
+- 2010 Hydropower 15.9% of world wide electricity
+- Coal 40.5%, Nuclear 12.8%
+- Largest power station in the world is hydroelectric
+
+
+## Three Gorges
+- Largest power plant in the world
+- Displaced millions of people
+- 22 GW power continuous
+- NYC - 10 GW
+
+## Three Gorges
+![](./figures/three_gorges.jpg)
+
+## Three Gorges
+[Three Gorges
+Satellite](https://maps.google.com/maps?ll=30.823056,111.003333&q=loc:30.823056,111.003333&hl=en&t=h&z=14)
+
+## Grand Coulee
+- Largest hydroelectric installation in US
+- 6.8 GW capacity
+- 21 Billion kWh annual energy delivered
+
+
+## Hydropower
+
+### Advantages
+- Once built, very cheap power
+- Reliable technology
+- Can be used as storage
+
+### Disadvantages
+- Environmental impacts
+- Seasonal variation
+
+## Hydropower
+![](./figures/hydropower_issues.jpg)
+
+## Hydropower
+![](./figures/dam_schematic.jpg)
+
+## Hydropower
+![](./figures/dam_schematic_2.jpg)
+
+## Hydropower
+![](./figures/hydropower_physics_1.jpg)
+
+## Hydropower
+- Uses spinning generators just like combustion plant
+- Doesn't use heat, unlike combustion plant
+
+## Turbine types
+
+### Waterwheels
+- Undershot
+- Breastshot
+- Overshot
+
+### Turbines
+- Impulse
+- Reaction
+
+## Hydropower turbines
+![](./figures/dam_turbines.jpg)
+
+## Hydropower turbines
+![](./figures/water_turbines.jpg)
+
+## Hoover Dam
+![](./figures/hoover_dam_1.jpg)
+
+## Hoover Dam
+![](./figures/hoover_dam_2.jpg)
+
+## Scalability
+- Hydropower can be produced at small scale
+
+## Hydropower
+![](./figures/medium_dam.jpg)
+
+## Hydropower
+![](./figures/tiny_dam.jpg)
+
+## Small Scale Hydropower
+![](./figures/coca_hydropower_2.png)
+
+## Small Scale Hydropower
+![](./figures/coca_hydropower.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

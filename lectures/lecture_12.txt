@@ -1,0 +1,112 @@
+% ENSP 330, Lecture 12
+% Professor Daniel Soto, Sonoma State University
+% 26 Sept 2013
+
+## Announcements
+
+## Patrick Moore Testimony
+- What is Moore arguing?
+- What parts of his argument do you find compelling?
+- What parts of his argument do you find lacking?
+- What are the reasons for his conclusion?
+
+<!--
+evidence
+unfair comparisons
+value conflicts
+- how would you investigate his reasons for yourself?
+- what would it take to scale up?
+-->
+
+
+
+
+# Life Cycle Analysis
+
+## Light bulb example
+- Initial costs
+	- purchase
+	- installation
+- Recurring costs
+	- electricity
+
+## LED Bulb
+- $13, 9.5 watts, 800 lumens, 25000 hours
+![](./figures/cree.jpg)
+
+## Incandescent Bulb
+- $0.50, 60 watts, 860 lumens, 1000 hours
+![](./figures/philips_incandescent.jpg)
+
+## Carbon Intensity
+- Embedded carbon
+- Carbon Intensity of Electricity
+- Coal 2009 Average 2249 lb CO2/MWh
+- Natural Gas 1135 lb CO2/MWh
+- Hydro, Wind, Solar, Nuclear 0 lb CO2/MWh
+- Proposed EPA Limit 1100 lb CO2/MWh for coal
+- 1000, 1100 lb CO2/MWh for natural gas
+
+## State Electricity Carbon Intensity Averages
+- Washington 287 lb/MWh
+- California 633 lb/MWh
+- Virginia 1232 lb/MWh
+- West Virginia 2027 lb/MWh
+
+## Calculate lifetime cost
+- We consider initial and electricity cost
+- We choose a convenient period of time to analyze
+
+## Calculate cost of conserved energy
+- Buying a more efficient technology is like buying electricity you were
+  already going to use at a cheaper price
+
+## Estimate mass of carbon emissions avoided
+- We use the carbon intensity of the electric grid and the amount of
+  electricity saved
+
+## What have we ignored?
+- How could we improve the accuracy of these calculations?
+- When would we need greater accuracy?
+
+<!--
+- calculate cost of electricity per year
+- calculate cost of electricity over bulb lifetime
+- compare LED and CFL
+- calculate carbon emitted for each per year, per lifetime
+- calculate cost of conserved energy
+- compare to the cost of daylighting
+
+- analyze as an investment
+- what is simple payback?
+- what is return on investment?
+
+- cheapest thing to do is sit in the dark
+- we must compare to something sensible
+
+- there is lots of flexibility in the analysis here
+- do i count the difference in initial cost?  electricity cost?
+- thats why the clarity of your methods matters
+
+
+- discuss second order costs
+- incandescent heating
+- window energy leakage
+
+- pose the choice between buying electricity at $0.15 cents or $0.05
+  cents
+- pose the choice between carbon tax or avoiding tax
+
+- we are neglecting the time value of money
+
+-->
+
+
+## Carbon Abatement Curve
+- Calculates the cost and amount of carbon that could be saved by
+  various efficiency technologies
+
+## Carbon Abatement Curve
+![](./figures/mckinsey_abatement.pdf)
+
+
