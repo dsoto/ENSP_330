@@ -127,32 +127,30 @@
 - solar photovoltaics
 - solar thermal
 
-### Geothermal
-<!--
-- physics
-- overall contribution
-- locations in sonoma county
--->
-
 ## 15. Tuesday, 08 Oct 2013
 
 ### Homework Makeup 1 Due
 
 ### Research topics presented in class
 
+### Geothermal
+- physics
+- overall contribution
+- locations in sonoma county
+
+### Sources vs. uses of energy
+
+
+## 16. Thursday, 10 Oct 2013
+
+### Video
+Rational Middle Episode 2.3 The Future of Renewables
+
 ### Electricity
 - transmission
 - balanced supply and demand
 - distributed vs centralized generation
 - transmission
-
-
-## 16. Thursday, 10 Oct 2013
-
-### Natural gas hydraulic fracturing
-- technology
-- policy
-- possible impacts
 
 
 ## 17. Tuesday, 15 Oct 2013
@@ -170,6 +168,8 @@
 
 ## 18. Thursday, 17 Oct 2013
 
+### Homework 3 Due
+
 ### Wind Energy
 - Physics of wind energy
 - Size of resource
@@ -181,7 +181,12 @@
 
 ### Research proposals due
 
-### Energy Efficiency
+### Video
+Rational Middle Episode 1.10: The Great Transition
+
+### Energy Uses
+- Transportation
+- Buildings
 
 
 ## 20. Thursday, 24 Oct 2013
@@ -198,6 +203,25 @@
 
 ### Transportation
 
+### Video
+Rational Middle Episode 2.1: Getting to go
+
+### Video
+Rational Middle Episode 1.5: Shale Gas 101
+Rational Middle Episode 2.4: Shale Gas 201
+
+### Contemporary energy debates
+
+#### Natural gas hydraulic fracturing
+- technology
+- policy
+- possible impacts
+
+#### Keystone XL Pipeline
+- carbon climate risk
+- spill risk
+- economic benefit
+- jobs benefit
 
 ## 23. Tuesday, 05 Nov 2013
 
@@ -220,7 +244,12 @@ Coal blooded
 - Asthma
 -->
 
+### Energy Transitions
+
 ## 25. Tuesday, 12 Nov 2013
+
+### Video
+Rational Middle Episode 2.2: Squeezing the Watt
 
 ### Efficiency measures
 
@@ -233,12 +262,15 @@ Coal blooded
 ## 27. Tuesday, 19 Nov 2013
 
 ### Local Climate Policy
-
-
+- Human perception
+- Human behavior
+- Individual choice and structural change
 
 ## 28. Thursday, 21 Nov 2013
 
-### National Climate Policy
+### National Climate and Energy Policy
+- PURPA
+- Energy security act
 
 ## 29. Tuesday, 26 Nov 2013
 
@@ -260,73 +292,15 @@ Coal blooded
 ### Presentations
 
 <!--
-### Thermo
-- second law calculations
-- comparisons to existing plants
-
-
-
-### Human perception and behavior
-- attari syllabus readings
-
-### individual vs structural change
 
 ### My research
 - global energy access
 - financial innovations to bring energy access
-
-### natural gas fracking
-
-### keystone xl
-- carbon climate risk
-- spill risk
-- economic benefit
-- jobs benefit
-
-### renewable integration issues
-
-### environmental impacts of energy technologies
-- radiation balance
-- ocean acidification
-- sea level rise
 
 ### energy regulatory agencies in US
 
 ### carbon from combustion
 - same mass of carbon and carbon dioxide
 
-### current energy topics
-- hydraulic fracturing
-- keystone xl
-- climate change
-
-
--->
-
-<!--
-syllabus topics:
-
-Solar
-Electricity
-Heat
-Mechanical Work
-Transportation
-Buildings
-Midterm
-Energy Efficiency
-Climate Impacts of Energy
-Health Impacts of Energy
-Global Access to Energy
-Life Cycle Energy Analysis
-Life Cycle Cost Analysis
-Local Energy Policy
-National Energy Policy
-Global Energy Policy
-Local Energy Solutions
-Global Energy Solutions
-Presentations
-Presentations
-Presentations
-Final Exam
 -->
 
