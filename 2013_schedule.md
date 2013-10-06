@@ -8,101 +8,110 @@
 ## 2. Thursday, 22 Aug 2013
 
 ### Energy History
-
+- Livestock
+- Wind and water power
+- Steam engine
+- Electricity
 
 ## 3. Tuesday, 27 Aug 2013
 
 ### Energy Units
-
-### Estimations
-
+- Unit conversions
+- Back of the envelope estimations
 
 ## 4. Thursday, 29 Aug 2013
 
 ### Energy in the biosphere
+- Solar spectrum
+- Trophic levels
+- Biological efficiency
 
 
 ## 5. Tuesday, 03 Sep 2013
 
 ### Energy conversion
-
+- Forms of energy
+- Efficiencies
 
 ## 6. Thursday, 05 Sep 2013
 
 ### Thermodynamics
-
+- Thermal energy
+- Chemical energy content of fuels
+- Laws of thermodynamics
 
 ## 7. Tuesday, 10 Sep 2013
 
-### Mathematical Modeling
-- guided problem solving and diagramming exercise
+### Due
+- Lovins 1976 article
 
-### Soft and hard paths
-- reading - lovins 1976
-- energy strategy
-- big picture distributed vs centralized
-- capital vs income
+### Mathematical Modeling
+- Guided problem solving and diagramming exercise
+
+### Soft and hard energy paths discussion
+- Distributed vs centralized sources
+- Technology and policy choices
 
 
 ## 8. Thursday, 12 Sep 2013
-### Fossil fuels
-- sources
-- types
-- benefits
-- costs
 
-### Combustion
-- stoichiometry
+### Fossil fuels
+- Types of fuels
+- Extraction techniques
+- Uses and benefits
+- Environmental impacts
+
 
 
 ## 9. Tuesday, 17 Sep 2013
-### Quantitative
-- exercise of energy content of different things for both power and energy
-- comparisons between these
-- nameplate capacity vs delivered energy
+
+### Due
+- Read Randolph and Masters Chapter 1
+
+### Quantitative intuition
+- Energy content comparisons
 
 
 ### Macro energy picture
-- reading R&M Chapter 1
-- global energy consumption
-- largest energy producing countries
-- GDP
-- primary energy, secondary energy, end-use energy
+- Global energy consumption
+- Gross Domestic Product, Energy intensity
+- Primary energy, secondary energy, end-use energy
 
 
 ## 10. Thursday, 19 Sep 2013
+
 ### Macro energy picture
 - GDP
 - Energy Intensity
+- Consumption trends
 
-### Energy production costs
-- capital and recurring costs
-- time value of money
+### Lifecycle analysis
+- Capital and recurring costs
 
 
 ## 11. Tuesday, 24 Sep 2013
 
 ### Homework 2 Assigned
 
+### Lifecycle analysis
+- Light bulb example
+- Carbon intensity of electricity
+
 ### Nuclear Energy
 - Atomic energy fundamentals
 - Nuclear fuel cycle
 - Power plant architecture
 
-### Life cycle stuff
-- Carbon intensity
 
 
 ## 12. Thursday, 26 Sep 2013
 
-### Lifecycle costing
-- time value of money
-- cost of conserved energy
-- cost of conserved carbon
-- carbon inventory
-
 ### Nuclear Energy
 - Discussion of Greenpeace article
+- Arguments and evidence
+
+### Lifecycle analysis
+- Carbon abatement curve
 
 
 ## 13. Tuesday, 01 Oct 2013
@@ -110,41 +119,38 @@
 ### Discuss research assignment
 
 ### Hydropower
-- physics of hydropower
-- land use issues
-- ecological effects
+- Physics of hydropower
+- Land use issues
 
 
 ## 14. Thursday, 03 Oct 2013
 
-### Homework 2 Due
-
-### Reading
-- Heinricks and Kleinback Chapter 12
+### Due
+- Homework 2
+- Read Heinricks and Kleinback Chapter 12
 
 ### Solar Energy
-- solar physics
-- solar photovoltaics
-- solar thermal
+- Solar physics
+- Solar photovoltaics
+- Solar thermal electricity
+
 
 ## 15. Tuesday, 08 Oct 2013
 
-### Homework Makeup 1 Due
-
-### Research topics presented in class
+### Due
+- Homework Makeup 1
+- Research topics presented in class
 
 ### Geothermal
-- physics
-- overall contribution
-- locations in sonoma county
+- Physics
 
 ### Sources vs. uses of energy
 
 
 ## 16. Thursday, 10 Oct 2013
 
-### Video
-Rational Middle Episode 2.3 The Future of Renewables
+### Due
+- Watch Rational Middle Episode 2.3 The Future of Renewables
 
 ### Electricity
 - transmission
