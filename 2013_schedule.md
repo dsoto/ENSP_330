@@ -15,11 +15,20 @@
 
 ## 3. Tuesday, 27 Aug 2013
 
+### Due
+- Read Randolph and Masters 4.1 and 4.2
+- Read Toolkit 1 Sections 1 and 2
+
 ### Energy Units
 - Unit conversions
 - Back of the envelope estimations
 
 ## 4. Thursday, 29 Aug 2013
+
+### Due
+- Read Natural Capitalism, Chapter 10
+- Read Sustainable Energy Without All The Hot Air, Chapter 13
+- Toolkit 1 Sections 3, 4, 5
 
 ### Energy in the biosphere
 - Solar spectrum
@@ -35,6 +44,10 @@
 
 ## 6. Thursday, 05 Sep 2013
 
+### Due
+- Read Masters 1991 Energy, Intro to Environmental Engineering
+
+
 ### Thermodynamics
 - Thermal energy
 - Chemical energy content of fuels
@@ -43,7 +56,7 @@
 ## 7. Tuesday, 10 Sep 2013
 
 ### Due
-- Lovins 1976 article
+- Read Lovins 1976 Energy Strategy, The Road Not Taken
 
 ### Mathematical Modeling
 - Guided problem solving and diagramming exercise
@@ -54,6 +67,9 @@
 
 
 ## 8. Thursday, 12 Sep 2013
+
+### Due
+- Read Heinrichs and Kleinbach, Chapter 7, 8
 
 ### Fossil fuels
 - Types of fuels
@@ -80,6 +96,9 @@
 
 ## 10. Thursday, 19 Sep 2013
 
+### Due
+- Read Randolph and Masters, Chapter 5
+
 ### Macro energy picture
 - GDP
 - Energy Intensity
@@ -90,6 +109,9 @@
 
 
 ## 11. Tuesday, 24 Sep 2013
+
+### Due
+- Read Heinrichs and Kleinbach Chapter 13, 14
 
 ### Homework 2 Assigned
 
@@ -105,6 +127,9 @@
 
 
 ## 12. Thursday, 26 Sep 2013
+
+### Due
+- Read Moore 2005 Nuclear Congressional Testimony
 
 ### Nuclear Energy
 - Discussion of Greenpeace article
@@ -151,6 +176,7 @@
 
 ### Due
 - Watch Rational Middle Episode 2.3 The Future of Renewables
+- Read Randolph and Masters Chapter 9
 
 ### Electricity
 - transmission
