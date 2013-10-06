@@ -78,6 +78,12 @@ Other readings will be posted online to Moodle.
 ## Course Schedule
 
 This course schedule is tentative and subject to change.
+The course is loosely organized into four sections.  The first is to
+cover some basic quantitative tools we will need to analyze energy
+systems.  Then we will learn about our most important sources of energy,
+followed by our most common uses.  The last part of the course will
+focus on the intersection of energy with the environment and human
+well-being.
 
 <table>
 <tr><td> Date       </td><td> Topic                      </td><td> Assignment     </td></tr>
