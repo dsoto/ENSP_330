@@ -169,6 +169,12 @@
 ### Geothermal
 - Physics
 
+<!--
+hot air chapter 12, wave
+hot air chapter 14, tidal
+Hot air chapter 16, geothermal
+-->
+
 ### Sources vs. uses of energy
 
 
@@ -176,7 +182,9 @@
 
 ### Due
 - Watch Rational Middle Episode 2.3 The Future of Renewables
-- Read Randolph and Masters Chapter 9
+- Read Randolph and Masters Chapter 9, Centralized Electric Power
+  Systems
+- List of questions from video and reading
 
 ### Electricity
 - transmission
@@ -186,6 +194,8 @@
 
 
 ## 17. Tuesday, 15 Oct 2013
+
+### Homework 3 Due
 
 ### Buildings
 - percentage of energy consumption
@@ -200,7 +210,6 @@
 
 ## 18. Thursday, 17 Oct 2013
 
-### Homework 3 Due
 
 ### Wind Energy
 - Physics of wind energy
@@ -211,10 +220,9 @@
 
 ## 19. Tuesday, 22 Oct 2013
 
-### Research proposals due
-
-### Video
-Rational Middle Episode 1.10: The Great Transition
+### Due
+- One-page research proposals due
+- Watch Rational Middle Episode 1.10: The Great Transition
 
 ### Energy Uses
 - Transportation
