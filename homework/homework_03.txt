@@ -1,0 +1,59 @@
+# ENSP 330 Homework 3
+
+Due Date: Tuesday, October 15th
+
+
+## Problem 1
+
+Heat engine efficiency
+
+a) What is the maximum possible efficiency of a generating plant that has a
+steam temperature of 550C and an environmental temperature of 20C? (5
+pts)
+
+b) How does this compare to a typical coal plant efficiency of 35%? (5
+pts)
+
+c) Name a few plausible reasons for the efficiency of a real plant being
+less than the ideal. (5 pts)
+
+
+## Problem 2
+
+Capacity factor
+
+Two plants are built.  One is a 1 MW coal plant, the other is a 1 MW
+solar photovoltaic plant.  The coal plant has a capacity factor of 0.8
+and the solar photovoltaic plant has a capacity factor of 0.2.
+
+a) How much energy does each plant produce in a year? (10 pts)
+
+b) Why is it important to consider the capacity factor when comparing
+these two plants? (5 pts)
+
+
+## Problem 3
+
+Life cycle analysis
+
+A Prius costs $24,200 and has 51/48 mpg (city/hwy).  A Toyota Tacoma truck costs
+$17,875 and has a milage of 21/25 mpg.  Assume that gasoline costs $3.50
+per gallon.  Also assume you can get a monthly loan that costs $22.13
+for each $1000 borrowed.  You may use a spreadsheet to make the
+calculation easier.
+
+a) What is the monthly cost of the loan for each vehicle. (5 pts)
+
+b) If the car is driven X miles (only on the highway) in a month,
+calculate the gasoline cost per month for each car. (5 pts)
+
+c) For what value of X is the total cost (car payment and gasoline) the
+same for both cars? (5 pts)
+
+d) What do you find interesting about this result? (5 pts)
+
+
+## Problem 4
+
+Estimate to the nearest hour the time you spent on this homework. (5
+pts)
