@@ -1,0 +1,174 @@
+% ENSP 330, Lecture 16
+% Professor Daniel Soto, Sonoma State University
+% 10 Oct 2013
+
+## Announcements
+
+## Upcoming Deadlines
+- One-page research proposal October 22nd
+- Midterm October 24th
+
+<!--
+what aspects of electricity are you most interested in?
+-->
+
+## Primary Energy
+- Coal
+- Oil
+- Natural gas
+- Sunlight
+
+## Secondary Energy
+- Electricity is an energy carrier
+
+## Electricity is different than other energy carriers
+- Invisible
+- Indistinguishable
+    - Once you put power on a grid, you cannot trace its path
+- Immediate
+    - Electricity is very difficult to store
+    - Moving electricity is inefficient
+
+## Grid
+![](./figures/grid_masters.pdf)
+
+## Frequency control
+![](./figures/supply_demand_bathtub.pdf)
+
+## Environmental Impact of Electricity
+- In US, one-third of carbon emissions are from electricity
+
+## Carbon intensity of electricity
+![](./figures/egrid.pdf)
+
+## World Generation
+![](./figures/Annual_electricity_net_generation_in_the_world.pdf)
+
+## Thermal Electric Efficiency
+![](./figures/electricity_grid_efficiency.pdf)
+
+## Quality of energy
+- Electric energy is very high quality
+- Electric conversion is inefficient
+- It is best used for high quality tasks
+
+<!--
+0.05% solar power
+-->
+
+## World Electricity Prices
+![](./figures/electricprices.png)
+
+## World Oil Price
+![](./figures/World_Oil_Prices_1970-2008.PNG)
+
+## U.S Electricity Price
+![](./figures/US_Electricity_Prices_1970-2008.PNG)
+
+<!--
+what are some plausible reasons for the difference in oil and
+electricity volatility?
+-->
+
+## Global electricity
+- Approximately 20% of population has no access to electricity
+
+## African Proposed Grid
+![](./figures/african-power-system.png)
+
+## United States Grid
+![](./figures/UnitedStatesPowerGrid.jpg)
+
+
+## Questions
+- Can we create more generation without adding transmission?
+
+## What do we use electricity for?
+- In American homes:
+- Air conditioning 22%
+- Lighting 14%
+- Water Heating 9%
+- Refrigeration 9%
+- Space heating 9%
+- Electronics 7%
+- Computers 4%
+- Cooking 2%
+
+## Demand
+![](./figures/stacked_demand.pdf)
+
+## Efficiency
+- Do we build more plants to meet demand?
+- Can we use efficiency to avoid demand?
+
+## Distributed generation
+- Can we create more generation without adding transmission?
+- Can we make the electricity where we need it?
+
+
+## What fraction of carbon emissions?
+- Electricity is responsible for 33% of United States carbon dioxide
+  emissions
+
+## Soft and hard paths
+- How are large wind and solar farms hard or soft according to Amory
+  Lovins?
+
+
+## Electricity Economics and Policy
+
+## Regulated monopolies
+- Monopoly franchise
+- In return for monopoly rights, business is heavily regulated
+
+## PURPA
+- Public Utility Regulatory Policies Act of 1978
+- Allowed independent power producers (IPPs) to connect to the utility
+  grid.
+- Encouraged competition
+- Guaranteed a market for new power plants
+
+## Decoupling
+- Decouples a utility companies profits from the amount of electricity
+  sold.
+
+<!--
+
+## Electric power
+
+## Electricity
+- What aspects of electricity are you most interested in?
+- Contributions to climate change
+- Supply must match demand
+- Electricity cannot be shipped
+- Electricity charges vary by state and country
+- Electricity not evenly distributed throughout the world
+- Environmental impact
+- Energy quality
+- Capacity factor examples
+
+## Discussion topics
+- Barriers to clean electricity
+- New laws dictating electricity
+
+## Electricity prices relatively stable
+- Electricity is regulated
+- Electricity uses several sources of primary energy
+
+## Load Duration Curve
+![](./figures/load_duration_curve.pdf)
+
+## Capacity Factor
+- Related to the fraction of time that a plant produces electricity
+- Coal and nuclear, about 80% or higher
+- Renewables, about 20%
+
+## Load Duration Curve
+![](./figures/load_duration_curve_2.pdf)
+
+## Screening curve example
+- How is the price of electricity determined?
+- How do we decide which plants to turn on?
+
+
+-->

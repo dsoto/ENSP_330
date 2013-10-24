@@ -1,0 +1,110 @@
+% ENSP 330, Lecture 15
+% Professor Daniel Soto, Sonoma State University
+% 8 Oct 2013
+
+## Announcements
+- 13th Annual UNA Sonoma County Film Festival, October 11,12, 5pm, Ives
+  101
+    - Shot for Going to School
+    - Someplace with a Mountain
+    - The Choice
+- ENSP 201 Environmental Forum, October 10th, 12pm
+
+## Upcoming Deadlines
+- Homework 1 Makeup today
+- 2 minute research presentations today
+
+- Watch Rational Middle Episode 2.3 The Future of Renewables, Thursday
+- Read Randolph and Masters Chapter 9, Centralized Electric Power
+  Systems, Thursday
+- List of questions from video and reading, Thursday
+
+- One-page research proposal October 22nd
+- Midterm October 24th
+
+## Proposals
+
+
+## Sources of energy
+- Fossil fuels
+- Nuclear energy
+- Hydroelectricity
+- Wind
+- Solar
+- Geothermal
+- Tidal and wave
+
+## Uses
+- Electricity
+- Heating
+- Buildings
+- Transportation
+
+## Geothermal
+- Very similar to other thermal plants
+- Source of heat is hot rock
+- Water is pumped down and turned to steam
+
+## Geothermal
+![](./figures/geothermal_1.jpg)
+
+<!--
+## Geothermal
+![](./figures/geothermal_2.jpg)
+-->
+
+## Geothermal
+![](./figures/geothermal_4.jpg)
+
+## Geothermal
+![](./figures/dry_steam.gif)
+
+## Geothermal
+![](./figures/geothermal_3.jpg)
+
+## Geothermal
+![](./figures/geothermal_5.jpg)
+
+## Geothermal
+![](./figures/geothermal_6.jpg)
+
+## Geothermal
+![](./figures/geothermal_7.jpg)
+
+## Geothermal
+![](./figures/the_geysers.jpg)
+
+## Geothermal
+![](./figures/Geysers_Map.jpg)
+
+## Geothermal generation
+- The Geysers
+- Operated by Calpine
+
+## Geothermal plant
+- Middleton, CA, Google maps
+- Bear Canyon
+
+## Tidal Energy
+- Tides caused by the moon's gravity
+- Causes a daily flow of water
+
+## Tidal power
+![](./figures/tidal1.gif)
+
+## Wave Energy
+- Waves are driven by the wind (which is driven by the sun)
+- Uses the rise and fall of wave crests to create energy
+
+## Wave Energy
+![](./figures/pelamis_1.jpg)
+
+## Wave Energy
+![](./figures/pelamis_2.jpg)
+
+## Wave Energy
+![](./figures/wave_energy_1.jpg)
+
+## Wave Energy
+![](./figures/wave_energy_2.jpg)
+
