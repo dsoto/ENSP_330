@@ -210,6 +210,13 @@ Hot air chapter 16, geothermal
 
 ## 18. Thursday, 17 Oct 2013
 
+### Due
+- Read Natural Capitalism Chapter 5 Building blocks
+- Read Sustainable Energy without all the hot air, Chapter 21 Smarter
+  heating
+<!--
+- Randolph and masters chapters 6 - 8
+-->
 
 ### Wind Energy
 - Physics of wind energy
@@ -224,24 +231,105 @@ Hot air chapter 16, geothermal
 - One-page research proposals due
 - Watch Rational Middle Episode 1.10: The Great Transition
 
-### Energy Uses
-- Transportation
-- Buildings
+### Homework review
 
+### Transportation
+- Carbon intensity
+-
 
 ## 20. Thursday, 24 Oct 2013
+
+### Nathan Johnson lecture
+
+### Global Access and Equity
+### Energy Access
+- Electricity access
+- Liquid fuel access
+- Minimum energy access
+
+## 21. Tuesday, 29 Oct 2013
 
 ### Midterm
 
 
-## 21. Tuesday, 29 Oct 2013
-
-### Mechanical work
-
 
 ## 22. Thursday, 31 Oct 2013
 
-### Transportation
+### Due
+- Read ___
+
+### Climate change science
+- Solar radiation
+- Blackbody radiation
+- Evidence of climate change
+- Evidence of anthropogenic influence
+
+
+
+## 23. Tuesday, 05 Nov 2013
+
+### Due
+- Read ___
+
+### Climate change policy
+- Warming projections
+- Different scenarios
+- Rio
+- IPCC
+- Kyoto
+- Copenhagen
+- Barriers
+
+
+## 24. Thursday, 07 Nov 2013
+
+### Reading
+Coal blooded
+
+### Climate impacts on energy system
+- Water intensity
+- Plant shutdowns in water shortages
+- Climate impacts on energy systems
+
+### Energy and climate impacts on human health
+- Pollutants
+- Disease
+- Desertification
+
+
+## 25. Tuesday, 12 Nov 2013
+
+### Due
+Rational Middle Episode 2.2: Squeezing the Watt
+
+## 26. Thursday, 14 Nov 2013
+
+
+## 27. Tuesday, 19 Nov 2013
+
+### Local Climate Policy
+- Human perception
+- Human behavior
+- Individual choice and structural change
+- Local NGO and organizations
+
+## 28. Thursday, 21 Nov 2013
+
+### National Climate and Energy Policy
+- PURPA
+- Energy security act
+
+### Efficiency measures
+
+### Energy Transitions
+- Scale of renewable growth
+- Limits of carbon emissions
+
+## 29. Tuesday, 26 Nov 2013
+
+### Current issues
+
+### Reading
 
 ### Video
 Rational Middle Episode 2.1: Getting to go
@@ -249,8 +337,6 @@ Rational Middle Episode 2.1: Getting to go
 ### Video
 Rational Middle Episode 1.5: Shale Gas 101
 Rational Middle Episode 2.4: Shale Gas 201
-
-### Contemporary energy debates
 
 #### Natural gas hydraulic fracturing
 - technology
@@ -262,62 +348,6 @@ Rational Middle Episode 2.4: Shale Gas 201
 - spill risk
 - economic benefit
 - jobs benefit
-
-## 23. Tuesday, 05 Nov 2013
-
-### climate change
-- CO2 level
-- ocean acidity
-- ocean temperature
-- sea level
-- surface temperature
-- ice extent
-
-
-## 24. Thursday, 07 Nov 2013
-
-### Reading
-Coal blooded
-
-### Energy Health Impacts
-<!--
-- Asthma
--->
-
-### Energy Transitions
-
-## 25. Tuesday, 12 Nov 2013
-
-### Video
-Rational Middle Episode 2.2: Squeezing the Watt
-
-### Efficiency measures
-
-
-## 26. Thursday, 14 Nov 2013
-
-### Global Access and Equity
-
-
-## 27. Tuesday, 19 Nov 2013
-
-### Local Climate Policy
-- Human perception
-- Human behavior
-- Individual choice and structural change
-
-## 28. Thursday, 21 Nov 2013
-
-### National Climate and Energy Policy
-- PURPA
-- Energy security act
-
-## 29. Tuesday, 26 Nov 2013
-
-### Global Climate Policy
-- Kyoto
-- Copenhagen
-- Barriers
 
 ## 30. Thursday, 28 Nov 2013
 
