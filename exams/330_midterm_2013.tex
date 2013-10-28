@@ -1,0 +1,291 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{graphicx}
+\usepackage[nohead, margin=1.0in]{geometry}
+\usepackage{pythontex}
+
+% this uses pythontex
+% compile the document using > bash compile.sh
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+\solutiontrue
+\solutionfalse
+
+% page formatting
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+% macros for formatting
+\def\true{true}
+\def\false{false}
+
+% creates true false command with indented question
+\newcommand{\tf}[1]
+{
+\vfill
+\parbox[t]{0.25\textwidth}{\bf TRUE \hspace{0.1 in} FALSE }
+\parbox[t]{0.75\textwidth}{#1 (2pt)}
+}
+
+% creates grading table row macro
+\newcommand{\tablerow}[2]
+{\rule[-0.3cm]{0cm}{1cm}#1 & #2 & \\ \hline}
+
+% creates heading for problems
+\newcommand{\problem}[1]{{\bf Problem #1}}
+
+% creates centered heading for sections
+\newcommand{\chead}[1]
+{\begin{center}\large\textbf{#1}\end{center}
+\hrule
+\vspace{10pt}}
+
+% solution
+\newcommand{\solution}[1]
+{\ifsolution
+Answer: {\it #1}
+\else\fi}
+
+% end macros
+
+
+
+\begin{document}
+
+% header block
+\begin{center}
+{\bf Midterm Exam}\\
+{\bf ENSP 330}\\
+{\bf Energy, Technology, and Society}\\
+{\bf Daniel Soto}\\
+{\bf Tuesday 29 Oct 2013}\\
+\end{center}
+
+
+% name and signature boxes
+\makebox[1.0in][l]
+{Name:}
+\framebox[4.5in]{\rule{0cm}{1.5cm}}\\
+\vspace{0.2cm}
+
+\makebox[1.0in][l]
+{Signature:}
+\framebox[4.5in]{\rule{0cm}{1.5cm}}\\
+\vspace{0.8cm}
+
+
+% instructions to students
+\noindent
+{\bf Instructions.}
+\begin{itemize}
+\item Clearly show your work.  Box answers to make them clear.
+\item You are allowed until 11:50 to work on this midterm.
+\item In order to recieve full credit, you must show your work and
+justify your answers.  The correct answer without any work will recieve
+little or no credit.
+\end{itemize}
+
+\vfill
+
+% grading and scores table
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\rule[-0.3cm]{0cm}{1cm}
+Question & Points & Score \\
+\hline
+\tablerow{Human Power}{16}
+\tablerow{Short Answer}{30}
+\tablerow{True/False}{24}
+\tablerow{\bf{Total}}{70}
+\end{tabular}
+\end{center}
+
+\vfill
+
+
+%
+% midterm content
+%
+
+\newpage
+\chead{Human Power}
+
+\begin{pycode}
+power_W = 200
+time_min = 15
+
+kilojoules = power_W * time_min * 60 / 1000.
+\end{pycode}
+
+The StairMaster display informs me that I am exercising at a rate of
+\py{power_W} Watts.  Recall that 1 joule is equal to 1 Watt second and that 1 kcal
+is equal to 4186 joules.
+
+a) \py{power_W} watts are a measure of
+\hspace{1cm}
+ENERGY
+\hspace{1cm}
+POWER
+\hspace{1cm}
+(Circle one.) (4 pts)
+
+\solution{Power}
+
+b) After a 15-minute workout at a constant \py{power_W} W, how many joules will I
+have burned? (4 pts)
+
+\solution{
+Energy equals power multiplied by time.
+
+$$ 200W \cdot 15 min \cdot \frac{60 sec}{1 min} = \py{kilojoules} kJ $$
+}
+
+\vfill
+
+c) Convert this amount to “nutritional calories” or kcal. (4 pts)
+
+\solution{
+$$180 kJ \cdot \frac{1000J}{kJ} \cdot \frac{1 kcal}{4186 J} = 43 kcal $$
+}
+
+\vfill
+
+d) If I ate a breakfast of waffles with maple syrup worth 500 kcal, how
+long would it take me to use up those calories on the StairMaster,
+assuming its display information is accurate? (4 pts)
+
+\solution{
+Here I assume that we are 100\% efficient in the conversion of food chemical
+energy to kinetic energy.  Using energy equals power multiplied by time
+and the rate of energy use we determined in c:
+
+$$ 500 kcal = \frac{43 kcal}{15 min} \cdot X min $$
+$$ X = 500 kcal \cdot  \frac{15 min}{43 kcal} = 174 min $$
+
+Which is slightly less than 3 hours.
+}
+
+\vfill
+
+
+
+\newpage
+\chead{Short Answer}
+
+Describe the important differences and similarities between how a coal
+plant and a nuclear plant generate electricity. (6 pts)
+
+\solution{The main difference is in the source of heat.  The main
+similarity is in the use of steam turbines to generate electricity.}
+
+\vfill
+%\vspace{1 in}
+
+Describe the important differences between a solar photovoltaic
+electricity plant and a solar thermal electricity plant. (6 pts)
+
+\solution{Solar PV electricity creates direct current electricity
+without a  thermal cycle while solar thermal electricity uses technology
+Rankine cycle steam turbines to generate AC electricity.}
+
+\vfill
+%\vspace{1 in}
+
+Describe a few advantages and disadvantages of large, centralized
+electricity production. (6 pts)
+
+\solution{Advantages include economies of scale that make larger plants
+more cost effective.  Disadvantages include large investments and
+transmission costs.}
+
+\vfill
+%\vspace{1 in}
+
+What are the main uses in the U.S. economy for coal, oil, and natural gas? (6 pts)
+
+\solution{Coal is mostly used for electricity production, oil is mostly
+used for transportation, natural gas has many uses including
+electricity, heating, and transportation.}
+
+%\vspace{1 in}
+\vfill
+
+What is the original source of our food energy? (6 pts)
+
+\solution{The chemical energy in our food was originally radiation
+energy from the sun which was converted to chemical energy by plants.
+Depending on your diet, you may also consume organisms that consumed
+plants.  Bonus if you mention the nuclear energy from the sun.}
+
+\vfill
+
+
+\newpage
+\chead{True or False?}
+
+\tf{A 100 MW solar photovoltaic electricity plant will likely produce
+more power in a year than a 100 MW coal electricity plant.}
+\solution{False}
+
+\tf{Almost all of the energy from fossil fuels is converted to
+electricity in a thermal power plant.}
+\solution{False}
+
+\tf{An energy bar contains less chemical energy than a gallon of
+gasoline.}
+\solution{True}
+
+\tf{A large fraction of oil is used for electricity production in the
+United States.}
+\solution{False}
+
+\tf{The BTU, the joule, and the Watt are all units of energy.}
+\solution{False}
+
+\tf{The kilowatt-hour (kWh) is a unit of power.}
+\solution{False}
+
+\tf{The second law of thermodynamics tells us that energy is conserved.}
+\solution{False}
+
+\tf{The energy intensity of an economy expresses how efficiently an
+economy uses energy to create wealth per unit of GDP.}
+\solution{True}
+
+\tf{The scale of your household daily electricity energy use is about 1 MWh.}
+\solution{False}
+
+\tf{A battery converts chemical energy to electrical energy}
+\solution{True}
+
+\tf{Coal is a primary energy source.}
+\solution{True}
+
+\tf{Electricity is a primary energy source.}
+\solution{False}
+
+
+\end{document}
+
+% do energy questions exist on the web?
+
+% solar questions
+
+% nuclear questions
+
+% gdp questions
+
+% fossil fuel questions
+
+% thermo questions
+
+% energy units questions
+
+% estimate the capacity factor of an automobile
+
+Convert from kWh to joules.
+
+You have 1 kg of coal, how much hot water can you create?
+
