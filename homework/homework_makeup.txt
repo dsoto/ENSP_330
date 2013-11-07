@@ -1,25 +1,25 @@
-# Homework Makeup Assignment
+# ENSP 330 Homework Makeup Assignment
 
 You can turn in a supplement to your homework for partial credit.
-However, the assignment is not only to turn in corrected problems.  The
-assignment is also to identify whether your difficulty was conceptual or
-computational and what you have done to correct it.
+The
+assignment is also to identify what your difficulty was and turn in a
+correctly worked version of the problem.
 
-For example, if I messed up a unit conversion problem because I
-incorrectly used my calculator, I'd say that that was a computational
-problem and that I was practicing scientific notation with my calculator
-to be sure I got it correct in the future.
-
-In another problem, I might have misunderstood the difference between
-power and energy.  In this case, I would say that I had a conceptual
-problem distinguishing between power and energy and that I've been
-studying the difference.
-
-In both cases I'd submit the problem correctly worked as well.  To
-receive partial credit, the self-analysis should be both clearly worded
-and match your issue.  You will hand in the original problem set as well.
 It is much more important that you correctly identify your issue (for
 your own benefit) than that you turn in a corrected version.  As we
 stress in this class, the method you used to get an answer is as
 important as the answer.
 
+The grading will primarily be on the quality of your self-analysis.  If
+you do not adequately address your original difficulty, you will get no
+credit despite having the correct answer.
+
+You are eligible for 75% of the points missed for questions you
+attempted but answered incorrectly.  If you did not attempt the problem
+the first time, that problem is not eligible for make up credit.
+
+1) Staple your corrections to the back of the original problem set.
+2) Clearly indicate which problems you are submitting for partial
+credit.
+3) Your solution will be graded on your self-assessment and the clarity
+of your solution.
