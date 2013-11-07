@@ -1,0 +1,98 @@
+% ENSP 330, Lecture 21
+% Professor Daniel Soto, Sonoma State University
+% 5 Nov 2013
+
+
+<!--
+## Announcements
+
+
+## Upcoming Deadlines
+-->
+
+## Agenda
+- Midterm review
+- Climate science
+
+
+## Midterm Review
+
+## Climate science
+- Is the climate changing?
+- Is human activity responsible?
+- What will the future impacts be?
+- What can we do?
+
+
+## Future Impacts
+- Extrapolation
+- Linear trends
+
+
+## Current trends
+- Temperature
+- Sea level
+
+## Global temperature
+![](./figures/global-temperature-WMO.png)
+
+Source: World Meteorological Organization
+
+<!--
+- estimate the average temperature rise over 1950-2000
+- convert this to a temperature rise per year
+-->
+
+##
+![](./figures/global-sea-level.png)
+
+<!--
+- estimate sea level rise from 1950-2010
+- convert this to rate
+- predict sea level rise when you retire
+-->
+
+##
+![](./figures/atmospheric-co2-ipcc.pdf)
+
+Source: IPCC AR5 Summary for policymakers
+
+
+##
+![](./figures/global-temperature-change-ipcc.pdf)
+
+Source: IPCC AR5 Summary for policymakers
+
+##
+![](./figures/ocean-co2-ph-ipcc.pdf)
+
+Source: IPCC AR5 Summary for policymakers
+
+<!--
+- we are finished with energy fundamentals, energy sources, and energy
+  uses
+- we now focus on energy impacts
+-->
+
+<!--
+- what is climate change?
+- what do people want to know about climate change?
+- how can we be sure it is happening?
+- what are the consequences?
+- what can we do about it?
+-->
+
+<!--
+- themes
+- old carbon / new carbon
+- radiation balance
+- carbon balance
+- what temperature rise can we tolerate?
+- positive feedback vs negative feedback
+- positive vs normative issues
+- science vs politics
+-->
+
+
+## energy balance
+http://climate.nasa.gov/climate_reel/StrikingSolarBalance640480Atm

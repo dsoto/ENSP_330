@@ -1,0 +1,82 @@
+% ENSP 330, Lecture 19
+% Professor Daniel Soto, Sonoma State University
+% 22 Oct 2013
+
+## Announcements
+- Energy Education Fellow
+- Thursday guest lecturer Nathan Johnson
+
+
+## Upcoming Deadlines
+- Today, proposals due
+- Midterm Tuesday 29 October
+
+## Wind Questions
+
+## Proposals
+
+<!--
+swap proposals
+read each others
+what is central question
+why is answering the question important
+
+reminders, oct 15th, 10th, 8th
+-->
+
+
+## Transportation
+- 40% of total energy use
+- Largest consumer of petroleum
+
+## Energy consumption
+- Car 68 kWh/100 person km
+- Bus 19
+- Rail 6
+- Air 51
+- Sea 57
+
+## Rational Middle Video
+[Getting to Go](http://rationalmiddle.com/movie/getting-to-go-tackling-the-future-of-transportation/)
+
+##
+![](./figures/RMES_Emissions-Compared.jpeg)
+
+##
+![](./figures/RMES_Motive-Efficiency-by-Fuel-Type.jpeg)
+
+##
+![](./figures/RMES_Transportation-Consumption-by-Vehicle-Type.jpeg)
+
+
+<!--
+- 13 million barrels per day for tran
+- 60% vehicles, 16% freight, 10% aircraft, 2% rail
+- private vehicles
+- fleet vehicles
+- CAFE standards
+- 35 mpg up to 50 mpg
+
+- existing transportation structure
+
+- getting to go
+- chapter 1, where we are
+- chapter 2,
+- chapter 3, compressed natural gas
+- chapter 4, electric motor
+- chapter 5, where are we going
+
+- break into groups
+- are efficiency regulations good?
+- how do we avoid trips?
+- what are the other benefits of CAFE standards?
+- transitions - what happens to the incumbents, who benefits?, who
+  loses?
+
+- efficiency vs avoiding miles
+
+- car technology - technological solution
+- mass transit - social solution
+
+-->
+

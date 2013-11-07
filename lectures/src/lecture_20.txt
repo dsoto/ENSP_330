@@ -1,0 +1,40 @@
+% ENSP 330, Lecture 20
+% Professor Daniel Soto, Sonoma State University
+% 31 Oct 2013
+
+## Announcements
+- Daylight savings time
+
+
+## Upcoming Deadlines
+
+## Climate Change
+
+<!--
+- we are finished with energy fundamentals, energy sources, and energy
+  uses
+- we now focus on energy impacts
+-->
+
+<!--
+- what is climate change?
+- what do people want to know about climate change?
+- how can we be sure it is happening?
+- what are the consequences?
+- what can we do about it?
+-->
+
+<!--
+- themes
+- old carbon / new carbon
+- radiation balance
+- carbon balance
+- what temperature rise can we tolerate?
+- positive feedback vs negative feedback
+- positive vs normative issues
+- science vs politics
+-->
+
+
+## energy balance
+http://climate.nasa.gov/climate_reel/StrikingSolarBalance640480Atm

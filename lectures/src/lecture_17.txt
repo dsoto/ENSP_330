@@ -1,0 +1,91 @@
+% ENSP 330, Lecture 17
+% Professor Daniel Soto, Sonoma State University
+% 15 Oct 2013
+
+## Announcements
+
+## Upcoming Deadlines
+- Homework 3 Due Today
+- Tuesday, Oct. 22nd, One page research proposals
+- Thursday, Oct. 24th, Midterm
+
+## Related reading
+- Natural Capitalism, Chapter 5, Building Blocks
+- Sustainable Energy Without All The Hot Air, Chapter 21
+
+## Sources of energy
+- Fossil fuel
+- Solar
+- Wind
+- Others
+
+## Uses of energy
+- Lighting
+- Heating
+- Mechanical movement
+
+## Electricity
+
+## Energy use
+![](./figures/sankey-llnl.png)
+
+## Heating, Cooling, Ventilation
+- Combustion
+- Heat pumps
+- Fans
+
+## Different climates have different demands
+- Cold winters
+- Humid summers
+
+## Heating energy
+- energy used = leakiness of house * temperature difference / efficiency
+  of heaters
+
+## Buildings
+- Insulation
+- Insulating windows
+
+
+## Heating buildings
+
+## Humans
+- Everyone creates heat
+
+## Combustion
+- Making heat
+- Boilers
+- Heaters
+- Water heaters
+
+## Heat pumps
+- Moving heat
+- Second law
+- Moves more heat energy than energy spent
+- Example
+
+## Pump efficiency
+![](./figures/pump_efficiency.png)
+
+## Motor efficiency
+- Bigger pipes, smaller motors
+- Pipe bends
+
+## Lighting buildings
+- Daylighting
+- Efficient lighting
+
+## Inefficient practices
+- Precooling air
+- Throttling air handlers
+
+## Barriers to efficiency
+- Cost
+- Split incentives
+
+## Efficiency standards
+![](./figures/refrigerator-graph.png)
+
+## Policies
+- California Title 24
+- Shaheen Portman proposed bill
