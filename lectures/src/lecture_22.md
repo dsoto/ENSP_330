@@ -101,7 +101,7 @@ Image created by Robert A. Rohde / Global Warming Art
 ## Climate dice
 - James Hansen
 - We can think of a weather pattern as a given die
-- Climate change ``loads'' the die and changes the likelihood of
+- Climate change loads the die and changes the likelihood of
   different results for each roll of the die
 
 ## Warm anomalies
