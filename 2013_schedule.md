@@ -214,6 +214,7 @@ Hot air chapter 16, geothermal
 - Read Natural Capitalism Chapter 5 Building blocks
 - Read Sustainable Energy without all the hot air, Chapter 21 Smarter
   heating
+
 <!--
 - Randolph and masters chapters 6 - 8
 -->
@@ -235,17 +236,13 @@ Hot air chapter 16, geothermal
 
 ### Transportation
 - Carbon intensity
--
 
 ## 20. Thursday, 24 Oct 2013
 
 ### Nathan Johnson lecture
 
-### Global Access and Equity
-### Energy Access
-- Electricity access
-- Liquid fuel access
-- Minimum energy access
+### Midterm review
+
 
 ## 21. Tuesday, 29 Oct 2013
 
@@ -255,8 +252,6 @@ Hot air chapter 16, geothermal
 
 ## 22. Thursday, 31 Oct 2013
 
-### Due
-- Read ___
 
 ### Climate change science
 - Solar radiation
@@ -268,8 +263,6 @@ Hot air chapter 16, geothermal
 
 ## 23. Tuesday, 05 Nov 2013
 
-### Due
-- Read ___
 
 ### Climate change policy
 - Warming projections
@@ -283,8 +276,7 @@ Hot air chapter 16, geothermal
 
 ## 24. Thursday, 07 Nov 2013
 
-### Reading
-Coal blooded
+
 
 ### Climate impacts on energy system
 - Water intensity
@@ -300,32 +292,79 @@ Coal blooded
 ## 25. Tuesday, 12 Nov 2013
 
 ### Due
-Rational Middle Episode 2.2: Squeezing the Watt
+- Read Pacala and Socolow Stabilization Wedges
+- Quiz at start of class
+
+### Climate change mitigation
+
+
 
 ## 26. Thursday, 14 Nov 2013
 
 
+### Climate change adaptation
+- Individual choice and structural change
+- Types of government policies
+- Feed in tariff
+
+<!--
+- learning goals - why climate change negotiations are difficult
+- who has greater historical emissions?
+-->
+
 ## 27. Tuesday, 19 Nov 2013
+
+### Progressive states and countries
+- Curitiba
+- Germany
+- California
+- United States
+
+## 28. Thursday, 21 Nov 2013
+
+### Environmental Economics
+
+### Keystone XL Pipeline
+
+
+## 29. Tuesday, 26 Nov 2013
+
+### Presentations
+
+
+## 30. Tuesday, 03 Dec 2013
+
+### Presentations
+
+
+## 31. Thursday, 05 Dec 2013
+
+### Presentations
+
+
+## Tuesday, 10 Dec 2013
+Final Exam 11 am -- 12:50 pm
+
+
+
+<!--
+
 
 ### Local Climate Policy
 - Human perception
 - Human behavior
-- Individual choice and structural change
 - Local NGO and organizations
 
-## 28. Thursday, 21 Nov 2013
+### My research
+- global energy access
+- financial innovations to bring energy access
 
-### National Climate and Energy Policy
-- PURPA
-- Energy security act
+### energy regulatory agencies in US
 
-### Efficiency measures
+### carbon from combustion
+- same mass of carbon and carbon dioxide
 
-### Energy Transitions
-- Scale of renewable growth
-- Limits of carbon emissions
-
-## 29. Tuesday, 26 Nov 2013
+21 students
 
 ### Current issues
 
@@ -349,28 +388,22 @@ Rational Middle Episode 2.4: Shale Gas 201
 - economic benefit
 - jobs benefit
 
-## 30. Thursday, 28 Nov 2013
+### National Climate and Energy Policy
+- PURPA
+- Energy security act
 
-### Thanksgiving Holiday
+### Efficiency measures
 
-## 31. Tuesday, 03 Dec 2013
+### Energy Transitions
+- Scale of renewable growth
+- Limits of carbon emissions
 
-### Presentations
 
-## 32. Thursday, 05 Dec 2013
-
-### Presentations
-
-<!--
-
-### My research
-- global energy access
-- financial innovations to bring energy access
-
-### energy regulatory agencies in US
-
-### carbon from combustion
-- same mass of carbon and carbon dioxide
+### Global Access and Equity
+### Energy Access
+- Electricity access
+- Liquid fuel access
+- Minimum energy access
 
 -->
 
