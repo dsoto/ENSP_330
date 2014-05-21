@@ -1,0 +1,123 @@
+# ENSP 330 Midterm
+
+24 October 2013
+
+# Quantitative problems
+
+## Unit Conversions
+
+## Problem
+Convert from BTU to kWh
+
+## Problem
+Convert from kWh to joules
+
+##Problem
+Convert from lbs/kWh to kg/MWh
+
+## Problem
+You have 1 kg of coal, how much hot water can you create?
+
+## Problem
+Estimate carbon emitted by your driving or flying
+
+## Problem
+Rank the energy content of a charged cell phone battery, a clif bar, and
+a gallon of gasoline
+
+## Problem
+Calculate the energy intensity of these two countries
+
+# Qualitative problems
+
+Describe the important differences between a coal plant and a
+nuclear plant generate electricity.
+
+What part of the country uses lots of coal for electricity?  Name
+regions or states.
+
+What part of the country uses a large percentage of hydroelectricity?
+Name regions or states.
+
+In your own words, state the first law of thermodynamics.  Why is this
+important to energy systems?
+
+From the EIA chart, what are the main energy uses, or if you want to
+reduce petroleum, what sector would you focus on
+
+
+<!--
+This is important because there will always be energy losses.
+-->
+
+In your own words, state the second law of thermodynamics.  What is an
+important implication of this law?
+
+<!--
+This sets a limit on the efficiency of electric power plants.
+-->
+
+
+
+<!--
+
+## Units of energy
+
+## Units of power
+
+Which of the following are units of energy?  units of power?
+_ watts
+_ kilowatts
+_ BTU
+_ kWh
+_ Joules
+_ Quads
+
+
+## Basic Unit Conversion
+
+
+## Carbon intensity
+- calculate amount of carbon released by X
+
+## Energy Comparison
+
+## Short essay question
+
+epa carbon emissions policy
+amory lovins
+
+About what fraction of the chemical energy in a coal power plant is lost
+as heat?
+
+What law governs this loss?
+
+based on carbon intensity, where in the country do electric vehicles emit more
+carbon per mile?
+
+Coalandia
+Solistan
+GDP, carbon intensity
+
+Life cycle cost question
+
+rank carbon per electric energy
+nuclear
+natural gas
+coal
+
+determine the efficiency of a microwave?
+simple ratio problem
+
+True/False Section
+-->
+
+
+<!--
+Study Guide
+
+unit conversion
+efficiency calculations
+carbon intensity
+energy vs power
+-->
