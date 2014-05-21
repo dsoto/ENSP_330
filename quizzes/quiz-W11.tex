@@ -1,0 +1,92 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{graphicx}
+\usepackage[nohead, margin=1.0in]{geometry}
+
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+\solutiontrue
+\solutionfalse
+
+% page formatting
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+% creates true false command with indented question
+\newcommand{\tf}[1]
+{
+\vfill
+\parbox[t]{0.25\textwidth}{\bf TRUE \hspace{0.1 in} FALSE }
+\parbox[t]{0.75\textwidth}{#1 (2pt)}
+}
+
+% creates heading for problems
+\newcommand{\problem}[1]{{\bf Problem #1}}
+
+% creates centered heading for sections
+\newcommand{\chead}[1]
+{\begin{center}\large\textbf{#1}\end{center}
+\hrule
+\vspace{10pt}}
+
+% solution
+\newcommand{\solution}[1]
+{\ifsolution
+Answer: {\it #1}
+\else\fi}
+
+% end macros
+
+\begin{document}
+
+{\bf Quiz \hfill ENSP 330 \hfill 12 Nov 2013 }
+
+% name and signature boxes
+\makebox[1.0in][l]
+{Name:}
+\framebox[4.5in]{\rule{0cm}{1.5cm}}\\
+
+\vfill
+
+1) Name one method scientists use to infer temperature or climate
+conditions from before
+modern thermometers were in widespread use.
+
+\solution{Tree rings, ice cores, pollen, coral, or others}
+
+\vfill
+2) The fraction of carbon dioxide in the atmosphere is closest to\\
+a) 300 parts per million \\
+b) 400 parts per million \\
+c) 500 parts per million
+
+\solution{b. as of 9 Nov 2013, Mauna Loa Observatory reads 394.57 ppm}
+
+\vfill
+3) In the Pacala and Socolow reading, what does BAU mean?
+
+\solution{Business as usual.  Specifically, this is the amount of carbon
+emissions if we do nothing different and continue economic growth.}
+
+\vfill
+4) If all the wedges recommended by Pacala and Socolow are successful what
+will happen to the rate of our carbon emissions?
+
+\solution{The goal of the wedges is to hold carbon emissions for the
+next 50 years to the level they are now, approximately 7 GtC per year.}
+
+\vfill
+5) If all the wedges recommended by Pacala and Socolow are implemented
+what will happen to the total amount of carbon in the atmosphere?
+
+\solution{The goal is to prevent total carbon dioxide levels from
+exceeding 500 ppm.}
+
+\vfill
+
+
+
+
+\end{document}
+
