@@ -1,0 +1,156 @@
+\documentclass{article}
+\usepackage{color}
+\usepackage[nohead, margin=1.5in]{geometry}
+\definecolor{answer-color}{rgb}{0.0, 0.5, 0.0}
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+\solutiontrue
+\solutionfalse
+
+% creates centered heading for sections
+\newcommand{\chead}[1]
+{\begin{center}\large\textbf{#1}\end{center}}
+
+% solution
+\newcommand{\solution}[1]
+{\ifsolution
+\vspace{10pt}
+{\color{answer-color} #1}
+\else\fi}
+
+\newcommand{\ufrac}[2]{\frac{\textrm{#1}}{\textrm{#2}}}
+
+
+\begin{document}
+
+\chead{ENSP 330 Homework 4}
+\chead{Due Date: 21 Nov 2013}
+\hrule
+\vspace{10pt}
+
+
+The problem set you turn in should be both legible and the methods and
+assumptions you are using must be clear.  I strongly suggest that you
+use diagrams where appropriate and clearly state your assumptions.
+Typesetting of problem sets can increase the readability.  The homework
+will be graded on how well you communicate your method as much as the
+correctness of the result.
+
+Due Date: Thursday, November 21st
+
+
+\section*{Problem 1}
+
+Sea Level Rise \\
+
+The IPCC report states that the mean rate of averaged global sea level
+rise was 3.2 mm per year between 1993 and 2010.
+
+\paragraph{a.} How much did the sea level rise in total between 1993 and 2010? (5
+pts)
+
+\solution{
+To get a total amount, we multiply the rate by the time.
+$$ \ufrac{3.2 mm}{year} \cdot (2010 - 1993) years = 54.4 mm $$
+This is 5 cm or about two inches.
+}
+
+\paragraph{b.} If this rate continues, how much higher do we expect the sea level to
+be in the year 2050? (5 pts)
+
+\solution{
+We calculate the rise from this year 2013 as we did above
+$$ \ufrac{3.2 mm}{year} \cdot (2050 - 2013) years =  118 mm $$
+}
+
+
+\section*{Problem 2}
+
+Mass of carbon in the atmosphere \\
+
+The effective volume of the atmosphere is about 4.2 billion cubic
+kilometers.  If the density of carbon dioxide is 1.9 kg/cubic meter and
+the amount of carbon in the atmosphere is 397 ppm, what is the total
+mass of carbon?  (Note that the actual volume of the atmosphere is different
+than the effective volume.  The effective volume allows us to make
+calculations more easily.)
+
+\paragraph{a.} Convert 4.2 billion cubic kilometers to cubic meters. (5 pts)
+
+\solution{
+To convert, we use 1000 meters equals 1 km and remember that this is a
+cubic measure
+$$ 4.2 \cdot 10^9 km^3 \cdot \frac{(1000m)^3}{(1km)^3} = 4.2 \cdot
+10^{18} m^3$$
+}
+
+\paragraph{b.} In your own words, what does 397 ppm mean? (5 pts)
+
+\solution{
+For every unit volume of atmosphere, if we divide it into 1 million
+equal volumes, with only one gas in each, 397 of those tiny volumes will
+be carbon dioxide.
+$$ \ufrac{397 parts carbon dioxide}{1 million parts atmosphere} $$
+}
+
+\paragraph{c.} Calculate the mass of carbon in the atmosphere. (5 pts)
+
+\solution{
+We multiply the total mass of the atmosphere by the fraction of carbon
+dioxide by the density of carbon dioxide.
+$$ 4.2 \cdot 10^{18} cubic meters
+\ufrac{397 parts carbon dioxide}{1 million parts atmosphere}
+\ufrac{1.9 kg}{cubic meter} = 3168 \cdot 10^{12} kg$$
+}
+
+
+
+\section*{Problem 3}
+
+Many of us will buy a Christmas tree this year.  What impact on climate
+change does your purchase of a Christmas tree make? (10 pts)
+
+\solution{
+This question asks you to think about the plausible impacts of growing
+and then consuming a tree.  There are several impacts to consider.
+During the tree's lifetime, it will sequester carbon in the wood.  When
+the tree is discarded, it will begin to decompose and release that
+carbon dioxide.  You may also consider the energy cost of felling and
+transporting the tree.
+}
+
+\section*{Problem 4}
+
+Name three personal decisions you could make to reduce your personal
+carbon dioxide emissions. (10 pts)
+
+
+\solution{
+There are many possible answers to this question.  Your options include
+using more efficient technologies for transportation or energy, changing
+your purchasing patterns to buy products with lower carbon footprints,
+and making lifestyle changes that lower your use of carbon such as diet
+or your mode of transportation.
+}
+
+\section*{Problem 5}
+
+What could you do to help reduce the carbon dioxide emissions of the United
+States as a whole? (10 pts)
+
+\solution{
+In order to affect the carbon emissions outside of your direct control,
+you have to exert either political or economic pressure.  You can
+communicate with lawmakers to announce your support for the policies and
+educate others about laws or policies.  Economically, if there is a
+company with practices you support, you can use that companies services
+or products.
+}
+
+\section*{Problem 6}
+
+Estimate to the nearest hour the time you spent on this homework. (5
+pts)
+
+\end{document}
