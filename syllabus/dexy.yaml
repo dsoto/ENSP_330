@@ -1,15 +1,18 @@
+# TODO make html target with my CSS
+# TODO create PDF using casper.js
+# TODO decompose md file creation
+
+# output markdown file
 330-syllabus-template.md|jinja:
     - output-name: "330-syllabus.md"
     - table_parser.py|py:
         - py: {add-new-files: True}
         - .xlsx
 
-# figure out how to make html target with good CSS
-
-# figure out how to make DOCX target from pandoc
-
+# output DOCX file using pandoc
 330-syllabus-template.md|jinja|pandoc:
     - output-name: "330-syllabus.docx"
+    - pandoc: {ext: .docx}
     - table_parser.py|py:
         - py: {add-new-files: True}
         - .xlsx
