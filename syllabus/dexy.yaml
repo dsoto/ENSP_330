@@ -3,3 +3,14 @@
     - table_parser.py|py:
         - py: {add-new-files: True}
         - .xlsx
+
+# figure out how to make html target with good CSS
+
+# figure out how to make DOCX target from pandoc
+
+330-syllabus-template.md|jinja|pandoc:
+    - output-name: "330-syllabus.docx"
+    - table_parser.py|py:
+        - py: {add-new-files: True}
+        - .xlsx
+
