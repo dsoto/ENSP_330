@@ -7,14 +7,6 @@ sotod@sonoma.edu <br />
 Department of Environmental Studies and Planning <br />
 Sonoma State University <br />
 
-<!--
-syllabus guidelines:
-http://www.sonoma.edu/uaffairs/policies/courseoutline.htm
-
-to create html file:
-pandoc -s % -c soto.css -o %:r.html
--->
-
 
 ## Course Description
 
