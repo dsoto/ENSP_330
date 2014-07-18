@@ -1,0 +1,5 @@
+330-syllabus-template.md|jinja:
+    - output-name: "330-syllabus.md"
+    - table_parser.py|py:
+        - py: {add-new-files: True}
+        - .xlsx
