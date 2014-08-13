@@ -10,6 +10,7 @@ Sonoma State University <br />
 
 <!-- v2.0 merge newest stuff from 438 and 202 syllabus -->
 <!-- v2.0 correct dates and times and office hours -->
+<!-- v2.0 grading totals -->
 
 ## Course Description
 
@@ -40,10 +41,9 @@ lead discussion.
 
 ## Grading
 - Classroom work (quizzes, participation) 25%
-- Homework 25%
-- Midterm 20%
-- Research project 10%
-- Final exam 20%
+- Homework (problem sets, readings) 25%
+- Exams (midterm, final) 25%
+- Research project 25%
 
 
 ## Homework
@@ -54,6 +54,7 @@ Your problem sets will be graded on the clarity of communication as much as the
 correctness of the result.
 
 ## Agreements
+
 - Respectful tone in classroom
 
 Civility is required from all students during discussions and
@@ -88,11 +89,18 @@ well-being.
 
 ## Readings
 
+We will have many reading assigned throughout the semester.  There will
+typically be a reflection essay or short quiz assigned on each reading.
+
 Here is the tentative reading schedule
 
 {{ d['reading-schedule.md'] }}
 
 ## Project Schedule
+
+You will investigate a project in teams.
+You will choose a question related to energy and the environment
+and then use techniques from this class to create estimates.
 
 Here is the tentative project schedule.
 
@@ -100,14 +108,35 @@ Here is the tentative project schedule.
 
 ## Homework
 
+You will be graded both on the
+validity of your work as well as your ability to communicate your
+methods.  This means that in addition to the mathematics, you should be
+providing brief explanations of your techniques and your thought
+process.  Calculations without supporting arguments will not receive
+full credit.
+
+Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
+3 is given for strong work that meets or exceeds the requirements, a 2
+for adequate work, and a 1 for work that doesn't meet expectations.
+No late unexcused homework will be accepted.
+
+<!-- After grading, you may submit a self-evaluation that considers how your -->
+<!-- approach differs from the accepted approach.  Self-evaluations that -->
+<!-- demonstrate an improvement in your understanding will raise your -->
+<!-- homework grade through partial credit. -->
+
+
+
 Here is the tentative homework schedule.
 
 {{ d['homework-schedule.md'] }}
 
 ## Classroom Work
 
-We will often perform individual and group work in class.  If you have
-an unexcused absence on the day of work, you will not receive credit.
+We will often perform individual and group work in class.  These may
+take the form of writing exercises or quizzes.  If you have
+an unexcused absence on the day of work, you will not receive credit for
+that day's assignment.
 
 
 ## Required Texts
@@ -124,8 +153,9 @@ Online links will be provided for most other readings.
 
 
 ## Office Hours
-- Monday and Tuesday 12:00 - 13:00.  Sign up information will be posted
-  on Moodle.
+Signup is online and can be accessed
+through my website at [danielrsoto.com](http://danielrsoto.com)
+
 
 ## University Policies
 

@@ -8,6 +8,10 @@ Department of Environmental Studies and Planning <br />
 Sonoma State University <br />
 
 
+<!-- v2.0 merge newest stuff from 438 and 202 syllabus -->
+<!-- v2.0 correct dates and times and office hours -->
+<!-- v2.0 grading totals -->
+
 ## Course Description
 
 A lecture/discussion course designed to assist students in understanding
@@ -24,13 +28,6 @@ institutions, and politics.  Elementary quantitative analysis.
 - Understanding of the multiple technical, social, and policy issues
   surrounding energy implementations
 
-## Homework
-Energy problems require quantitative solutions.  You will gain practice
-solving simple problems about energy.  Equally importantly, you will gain
-practice making your quantitative methods and reasoning clear to others.
-Your problem sets will be graded on the clarity of communication as much as the
-correctness of the result.
-
 ## Course Requirements
 This course will have two main components, quantitative analysis and
 critical thinking. In addition to learning the relevant material,
@@ -42,32 +39,41 @@ Quizzes will be given weekly to review material.
 Students will come to class prepared to participate in and sometimes
 lead discussion.
 
-
 ## Grading
 - Classroom work (quizzes, participation) 25%
-- Homework 25%
-- Midterm 20%
-- Research project 10%
-- Final exam 20%
+- Homework (problem sets, readings) 25%
+- Exams (midterm, final) 25%
+- Research project 25%
 
+
+## Homework
+Energy problems require quantitative solutions.  You will gain practice
+solving simple problems about energy.  Equally importantly, you will gain
+practice making your quantitative methods and reasoning clear to others.
+Your problem sets will be graded on the clarity of communication as much as the
+correctness of the result.
 
 ## Agreements
+
 - Respectful tone in classroom
+
+Civility is required from all students during discussions and
+interactions.  In general, I expect students to be supportive of each
+others learning goals.
+
+
 - Minimize electronic distractions
 
+Internet-connected electronic devices (phones, tablets) may be used in
+class for learning purposes.  If these devices distract from your
+learning or your classmates learning I reserve the right to limit their
+use.
 
-## Required Texts
+- Willingness to take risks and experiment
 
-*Sustainability without all the Hot Air*, MacKay.
-You can download the text in PDF format at
-[withouthotair.com](http://www.withouthotair.com)
-
-*Natural Capitalism*, Lovins.
-Available for download in PDF format at
-[natcap.org](http://www.natcap.org/)
-
-Other readings will be posted online to Moodle.
-
+I frequently try new approaches to teaching and learning.  These are
+always with the intention of making this class as beneficial to you as
+possible.
 
 ## Course Schedule
 
@@ -115,12 +121,17 @@ well-being.
 
 ## Readings
 
+We will have many reading assigned throughout the semester.  There will
+typically be a reflection essay or short quiz assigned on each reading.
+
 Here is the tentative reading schedule
 
 | Date            | Reading                                                                      |
 |:----------------|:-----------------------------------------------------------------------------|
+| Thu 21 Aug 2014 | HK-01, HK-02                                                                 |
 | Tue 26 Aug 2014 | Toolkit 1                                                                    |
 | Thu 28 Aug 2014 | Toolkit 2                                                                    |
+| Tue 02 Sep 2014 | HK-03, HK-04                                                                 |
 | Tue 09 Sep 2014 | HK-07 Energy from fossil fuels, HK-08 Air Pollution and Energy Use           |
 | Thu 11 Sep 2014 | HK-13 The Building Blocks of Matter, HK-14 Nuclear Power Fission, Moore 2005 |
 | Tue 16 Sep 2014 | HK-12 Electricity from Solar, Wind, and Hydro                                |
@@ -130,9 +141,13 @@ Here is the tentative reading schedule
 | Tue 28 Oct 2014 | NC-12                                                                        |
 | Thu 30 Oct 2014 | NC-14                                                                        |
 | Tue 04 Nov 2014 | Lovins 1976                                                                  |
-| Thu 06 Nov 2014 | Wedges                                                                       |
+| Thu 06 Nov 2014 | Wedges, safe operating space?                                                |
 
 ## Project Schedule
+
+You will investigate a project in teams.
+You will choose a question related to energy and the environment
+and then use techniques from this class to create estimates.
 
 Here is the tentative project schedule.
 
@@ -151,6 +166,25 @@ Here is the tentative project schedule.
 
 ## Homework
 
+You will be graded both on the
+validity of your work as well as your ability to communicate your
+methods.  This means that in addition to the mathematics, you should be
+providing brief explanations of your techniques and your thought
+process.  Calculations without supporting arguments will not receive
+full credit.
+
+Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
+3 is given for strong work that meets or exceeds the requirements, a 2
+for adequate work, and a 1 for work that doesn't meet expectations.
+No late unexcused homework will be accepted.
+
+<!-- After grading, you may submit a self-evaluation that considers how your -->
+<!-- approach differs from the accepted approach.  Self-evaluations that -->
+<!-- demonstrate an improvement in your understanding will raise your -->
+<!-- homework grade through partial credit. -->
+
+
+
 Here is the tentative homework schedule.
 
 | Date            | Homework              |
@@ -167,11 +201,34 @@ Here is the tentative homework schedule.
 | Thu 06 Nov 2014 | Homework 5            |
 | Tue 02 Dec 2014 | Homework Reflection 5 |
 
+## Classroom Work
+
+We will often perform individual and group work in class.  These may
+take the form of writing exercises or quizzes.  If you have
+an unexcused absence on the day of work, you will not receive credit for
+that day's assignment.
+
+
+## Required Texts
+
+*Sustainability without all the Hot Air*, MacKay.
+You can download the text in PDF format at
+[withouthotair.com](http://www.withouthotair.com)
+
+*Natural Capitalism*, Lovins.
+Available for download in PDF format at
+[natcap.org](http://www.natcap.org/)
+
+Online links will be provided for most other readings.
 
 
 ## Office Hours
 - Monday and Tuesday 12:00 - 13:00.  Sign up information will be posted
   on Moodle.
+My office hours are held Tuesday and Wednesday in my office in Rachel
+Carson Hall 12 from 2pm until 3pm.  Signup is online and can be accessed
+through my website at [danielrsoto.com](http://danielrsoto.com)
+
 
 ## University Policies
 
