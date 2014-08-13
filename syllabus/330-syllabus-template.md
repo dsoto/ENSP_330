@@ -8,6 +8,9 @@ Department of Environmental Studies and Planning <br />
 Sonoma State University <br />
 
 
+<!-- v2.0 merge newest stuff from 438 and 202 syllabus -->
+<!-- v2.0 correct dates and times and office hours -->
+
 ## Course Description
 
 A lecture/discussion course designed to assist students in understanding
@@ -24,13 +27,6 @@ institutions, and politics.  Elementary quantitative analysis.
 - Understanding of the multiple technical, social, and policy issues
   surrounding energy implementations
 
-## Homework
-Energy problems require quantitative solutions.  You will gain practice
-solving simple problems about energy.  Equally importantly, you will gain
-practice making your quantitative methods and reasoning clear to others.
-Your problem sets will be graded on the clarity of communication as much as the
-correctness of the result.
-
 ## Course Requirements
 This course will have two main components, quantitative analysis and
 critical thinking. In addition to learning the relevant material,
@@ -42,7 +38,6 @@ Quizzes will be given weekly to review material.
 Students will come to class prepared to participate in and sometimes
 lead discussion.
 
-
 ## Grading
 - Classroom work (quizzes, participation) 25%
 - Homework 25%
@@ -51,23 +46,33 @@ lead discussion.
 - Final exam 20%
 
 
+## Homework
+Energy problems require quantitative solutions.  You will gain practice
+solving simple problems about energy.  Equally importantly, you will gain
+practice making your quantitative methods and reasoning clear to others.
+Your problem sets will be graded on the clarity of communication as much as the
+correctness of the result.
+
 ## Agreements
 - Respectful tone in classroom
+
+Civility is required from all students during discussions and
+interactions.  In general, I expect students to be supportive of each
+others learning goals.
+
+
 - Minimize electronic distractions
 
+Internet-connected electronic devices (phones, tablets) may be used in
+class for learning purposes.  If these devices distract from your
+learning or your classmates learning I reserve the right to limit their
+use.
 
-## Required Texts
+- Willingness to take risks and experiment
 
-*Sustainability without all the Hot Air*, MacKay.
-You can download the text in PDF format at
-[withouthotair.com](http://www.withouthotair.com)
-
-*Natural Capitalism*, Lovins.
-Available for download in PDF format at
-[natcap.org](http://www.natcap.org/)
-
-Other readings will be posted online to Moodle.
-
+I frequently try new approaches to teaching and learning.  These are
+always with the intention of making this class as beneficial to you as
+possible.
 
 ## Course Schedule
 
@@ -99,6 +104,23 @@ Here is the tentative homework schedule.
 
 {{ d['homework-schedule.md'] }}
 
+## Classroom Work
+
+We will often perform individual and group work in class.  If you have
+an unexcused absence on the day of work, you will not receive credit.
+
+
+## Required Texts
+
+*Sustainability without all the Hot Air*, MacKay.
+You can download the text in PDF format at
+[withouthotair.com](http://www.withouthotair.com)
+
+*Natural Capitalism*, Lovins.
+Available for download in PDF format at
+[natcap.org](http://www.natcap.org/)
+
+Online links will be provided for most other readings.
 
 
 ## Office Hours
