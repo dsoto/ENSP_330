@@ -19,6 +19,7 @@ tables:
     - tables
 
 # output html file using github markdown for tables
-330-syllabus-template.md|jinja|ghmd:
-    - output-name: "330-syllabus.html"
-    - tables
+# 330-syllabus-template.md|jinja|ghmd:
+#     - output-name: "330-syllabus.html"
+#     - tables
+# currently this isn't working because of install problems

@@ -1,16 +1,18 @@
 # Energy, Technology, and Society, ENSP 330, Fall 2014
 
-4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC <br />
-Daniel Soto <br />
-Rachel Carson Hall 12 <br />
-sotod@sonoma.edu <br />
-Department of Environmental Studies and Planning <br />
-Sonoma State University <br />
+<!-- v2.0 2014 revisions -->
+<!-- read over homework section -->
 
+|           |                                       |
+|-----------|---------------------------------------|
+|Days       | Tuesday and Thursday                  |
+|Time       | 10:00 - 11:50 am                      |
+|Units      | 4                                     |
+|Location   | Environmental Technology Center (ETC) |
+|Instructor | Daniel Soto                           |
+|Office     | Rachel Carson Hall 12                 |
+|Email      | sotod@sonoma.edu                      |
 
-<!-- v2.0 merge newest stuff from 438 and 202 syllabus -->
-<!-- v2.0 correct dates and times and office hours -->
-<!-- v2.0 grading totals -->
 
 ## Course Description
 
@@ -20,7 +22,6 @@ transformation in society.  Principal topics include: energy history;
 thermodynamics; energy resources and conversion technologies; global
 issues and trends; environmental impacts; energy economics,
 institutions, and politics.  Elementary quantitative analysis.
-
 
 ## Learning Objectives
 - Development of critical thinking skills applied to global energy issues
@@ -46,13 +47,6 @@ lead discussion.
 - Research project 25%
 
 
-## Homework
-Energy problems require quantitative solutions.  You will gain practice
-solving simple problems about energy.  Equally importantly, you will gain
-practice making your quantitative methods and reasoning clear to others.
-Your problem sets will be graded on the clarity of communication as much as the
-correctness of the result.
-
 ## Agreements
 
 - Respectful tone in classroom
@@ -60,7 +54,6 @@ correctness of the result.
 Civility is required from all students during discussions and
 interactions.  In general, I expect students to be supportive of each
 others learning goals.
-
 
 - Minimize electronic distractions
 
@@ -105,8 +98,10 @@ You will choose a question related to energy and the environment
 and then use techniques from this class to create estimates.
 The learning goals are for you to explore relevant topics in energy
 resource use in a ways similar to professional work.
+There will be a separate document that explains the expectations for the
+project that I will hand out in a few weeks.
 
-Here is the tentative project schedule.
+The tentative project schedule is listed here:
 
 {{ d['project-schedule.md'] }}
 
@@ -114,33 +109,27 @@ Here is the tentative project schedule.
 
 <!-- numerical credit/no-credit and feedback? -->
 
-You will be graded both on the
-validity of your work as well as your ability to communicate your
-methods.  This means that in addition to the mathematics, you should be
-providing brief explanations of your techniques and your thought
-process.  Calculations without supporting arguments will not receive
-full credit.
+The goal of the homework is to give you practice and feedback on
+techniques for solving energy problems.  You will perform both
+quantitative and writing exercises.
+Often we combine these so that you will gain
+practice making your quantitative methods and reasoning clear to others.
+Your problem sets will be graded on the clarity of communication as much
+as the correctness of the result.
 
-Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
-3 is given for strong work that meets or exceeds the requirements, a 2
-for adequate work, and a 1 for work that doesn't meet expectations.
-No late unexcused homework will be accepted.
+I will be experimenting with various homework assessment
+and feedback techniques throughout the semester.  Please have faith that
+these experiments have improving your learning as the main goal.
 
-<!-- After grading, you may submit a self-evaluation that considers how your -->
-<!-- approach differs from the accepted approach.  Self-evaluations that -->
-<!-- demonstrate an improvement in your understanding will raise your -->
-<!-- homework grade through partial credit. -->
-
-
-
-Here is the tentative homework schedule.
+The tentative homework schedule is listed here:
 
 {{ d['homework-schedule.md'] }}
 
 ## Classroom Work
 
 We will often perform individual and group work in class.  These may
-take the form of writing exercises or quizzes.  If you have
+take the form of writing exercises, group exercises, or quizzes.
+If you have
 an unexcused absence on the day of work, you will not receive credit for
 that day's assignment.
 
