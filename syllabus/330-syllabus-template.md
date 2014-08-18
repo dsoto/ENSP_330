@@ -1,4 +1,4 @@
-# Energy, Technology, and Society, ENSP 330, Fall 2013
+# Energy, Technology, and Society, ENSP 330, Fall 2014
 
 4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC <br />
 Daniel Soto <br />
@@ -92,7 +92,9 @@ well-being.
 We will have many reading assigned throughout the semester.  There will
 typically be a reflection essay or short quiz assigned on each reading.
 
-Here is the tentative reading schedule
+The tentative reading schedule is posted below.  I will also add
+readings during the semester that reflect current events or the
+interests of the class.
 
 {{ d['reading-schedule.md'] }}
 
@@ -101,12 +103,16 @@ Here is the tentative reading schedule
 You will investigate a project in teams.
 You will choose a question related to energy and the environment
 and then use techniques from this class to create estimates.
+The learning goals are for you to explore relevant topics in energy
+resource use in a ways similar to professional work.
 
 Here is the tentative project schedule.
 
 {{ d['project-schedule.md'] }}
 
 ## Homework
+
+<!-- numerical credit/no-credit and feedback? -->
 
 You will be graded both on the
 validity of your work as well as your ability to communicate your

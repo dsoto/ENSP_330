@@ -1,4 +1,4 @@
-# Energy, Technology, and Society, ENSP 330, Fall 2013
+# Energy, Technology, and Society, ENSP 330, Fall 2014
 
 4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC <br />
 Daniel Soto <br />
@@ -90,31 +90,31 @@ well-being.
 |         1 | Tue 19 Aug 2014 | Introduction and Overview           |
 |         2 | Thu 21 Aug 2014 | History of energy                   |
 |         3 | Tue 26 Aug 2014 | Physics of Energy                   |
-|         4 | Thu 28 Aug 2014 | Biological Processes                |
-|         5 | Tue 02 Sep 2014 | Energy Conversion                   |
-|         6 | Thu 04 Sep 2014 | Thermodynamics                      |
+|         4 | Thu 28 Aug 2014 | Energy Conversion                   |
+|         5 | Tue 02 Sep 2014 | Thermodynamics                      |
+|         6 | Thu 04 Sep 2014 | Carbon (Critters and Combustion)    |
 |         7 | Tue 09 Sep 2014 | Fossil Fuel                         |
-|         8 | Thu 11 Sep 2014 | Nuclear Energy                      |
-|         9 | Tue 16 Sep 2014 | Hydropower                          |
-|        10 | Thu 18 Sep 2014 | Wind                                |
-|        11 | Tue 23 Sep 2014 | Solar                               |
-|        12 | Thu 25 Sep 2014 | Electricity                         |
-|        13 | Tue 30 Sep 2014 | Heat                                |
-|        14 | Thu 02 Oct 2014 | Mechanical Work                     |
-|        15 | Tue 07 Oct 2014 | Transportation                      |
-|        16 | Thu 09 Oct 2014 | Buildings                           |
-|        17 | Tue 14 Oct 2014 | Midterm                             |
-|        18 | Thu 16 Oct 2014 | Energy Efficiency                   |
-|        19 | Tue 21 Oct 2014 | Climate Impacts of Energy           |
-|        20 | Thu 23 Oct 2014 | Health Impacts of Energy            |
-|        21 | Tue 28 Oct 2014 | Global Access to Energy             |
-|        22 | Thu 30 Oct 2014 | Life Cycle Energy and Cost Analysis |
-|        23 | Tue 04 Nov 2014 | Water and Drought                   |
-|        24 | Thu 06 Nov 2014 | Local Energy Policy                 |
-|        25 | Tue 11 Nov 2014 | National Energy Policy              |
-|        26 | Thu 13 Nov 2014 | Global Energy Policy                |
-|        27 | Tue 18 Nov 2014 | Local/global Energy Solutions       |
-|        28 | Thu 20 Nov 2014 | Solutions                           |
+|         8 | Thu 11 Sep 2014 | Life Cycle Energy and Cost Analysis |
+|         9 | Tue 16 Sep 2014 | Energy and Economics                |
+|        10 | Thu 18 Sep 2014 | Nuclear Energy                      |
+|        11 | Tue 23 Sep 2014 | Hydropower                          |
+|        12 | Thu 25 Sep 2014 | Wind                                |
+|        13 | Tue 30 Sep 2014 | Solar                               |
+|        14 | Thu 02 Oct 2014 | Electricity                         |
+|        15 | Tue 07 Oct 2014 | Heat                                |
+|        16 | Thu 09 Oct 2014 | Mechanical Work                     |
+|        17 | Tue 14 Oct 2014 | Transportation                      |
+|        18 | Thu 16 Oct 2014 | Buildings                           |
+|        19 | Tue 21 Oct 2014 | Midterm                             |
+|        20 | Thu 23 Oct 2014 | Energy Efficiency                   |
+|        21 | Tue 28 Oct 2014 | Energy and Climate                  |
+|        22 | Thu 30 Oct 2014 | Energy and Water                    |
+|        23 | Tue 04 Nov 2014 | Energy and Agriculture              |
+|        24 | Thu 06 Nov 2014 | Energy and Human Health             |
+|        25 | Tue 11 Nov 2014 | Local Energy Policy                 |
+|        26 | Thu 13 Nov 2014 | National Energy Policy              |
+|        27 | Tue 18 Nov 2014 | Global Energy Policy                |
+|        28 | Thu 20 Nov 2014 | Global Access to Energy             |
 |        29 | Tue 25 Nov 2014 | Presentations                       |
 |        30 | Tue 02 Dec 2014 | Presentations                       |
 |        31 | Thu 04 Dec 2014 | Wrapup                              |
@@ -124,38 +124,47 @@ well-being.
 We will have many reading assigned throughout the semester.  There will
 typically be a reflection essay or short quiz assigned on each reading.
 
-Here is the tentative reading schedule
+The tentative reading schedule is posted below.  I will also add
+readings during the semester that reflect current events or the
+interests of the class.
 
 | Date            | Reading                                                                      |
 |:----------------|:-----------------------------------------------------------------------------|
-| Thu 21 Aug 2014 | HK-01, HK-02                                                                 |
+| Thu 21 Aug 2014 | Mackay-01, HK-01-Introduction, HK-02-Energy Mechanics                        |
 | Tue 26 Aug 2014 | Toolkit 1                                                                    |
 | Thu 28 Aug 2014 | Toolkit 2                                                                    |
-| Tue 02 Sep 2014 | HK-03, HK-04                                                                 |
-| Tue 09 Sep 2014 | HK-07 Energy from fossil fuels, HK-08 Air Pollution and Energy Use           |
-| Thu 11 Sep 2014 | HK-13 The Building Blocks of Matter, HK-14 Nuclear Power Fission, Moore 2005 |
-| Tue 16 Sep 2014 | HK-12 Electricity from Solar, Wind, and Hydro                                |
-| Tue 30 Sep 2014 | masters?                                                                     |
-| Thu 02 Oct 2014 | masters?                                                                     |
-| Tue 21 Oct 2014 | fracking?                                                                    |
-| Tue 28 Oct 2014 | NC-12                                                                        |
-| Thu 30 Oct 2014 | NC-14                                                                        |
-| Tue 04 Nov 2014 | Lovins 1976                                                                  |
-| Thu 06 Nov 2014 | Wedges, safe operating space?                                                |
+| Tue 02 Sep 2014 | HK-03-Conservation of Energy, HK-04-Heat and Work                            |
+| Thu 04 Sep 2014 | HK-07 Energy from Fossil Fuels                                               |
+| Tue 09 Sep 2014 | HK-08 Air Pollution and Energy Use                                           |
+| Thu 11 Sep 2014 | TBD (Randolph and Masters?)                                                  |
+| Tue 16 Sep 2014 | Lovins 1976                                                                  |
+| Thu 18 Sep 2014 | HK-13 The Building Blocks of Matter, HK-14 Nuclear Power Fission, Moore 2005 |
+| Tue 23 Sep 2014 | HK-12 Electricity from Solar, Wind, and Hydro                                |
+| Thu 02 Oct 2014 | Mackay-07 Heating and Cooling                                                |
+| Thu 09 Oct 2014 | Mackay-03 Cars, NC-02 Reinventing the Wheels                                 |
+| Thu 23 Oct 2014 | HK-09 Global Warming and Thermal Pollution                                   |
+| Tue 28 Oct 2014 | Pacala and Socolow Wedges                                                    |
+| Thu 30 Oct 2014 | NC-11 Aqueous Solutions, EPA Hydraulic Fracturing Study                      |
+| Tue 04 Nov 2014 | Mackay-13 Food and farming, NC-10 Food for Life                              |
+| Thu 06 Nov 2014 | NAACP Coal Blooded                                                           |
+| Thu 13 Nov 2014 | NC-12 Climate, NC-14 Human Capitalism                                        |
+| Tue 18 Nov 2014 | HK-19 A National and Personal Commitment                                     |
+| Thu 20 Nov 2014 | Power Africa Report, Goldemberg 1985                                         |
 
 ## Project Schedule
 
 You will investigate a project in teams.
 You will choose a question related to energy and the environment
 and then use techniques from this class to create estimates.
+The learning goals are for you to explore relevant topics in energy
+resource use in a ways similar to professional work.
 
 Here is the tentative project schedule.
 
 | Date            | Project              |
 |:----------------|:---------------------|
-| Thu 21 Aug 2014 | Brainstorm 3 topics  |
-| Tue 02 Sep 2014 | Choose topic         |
-| Tue 09 Sep 2014 | Timeline             |
+| Tue 26 Aug 2014 | Brainstorm 3 topics  |
+| Tue 09 Sep 2014 | Choose topic         |
 | Thu 18 Sep 2014 | Project proposal     |
 | Tue 30 Sep 2014 | Proposal feedback    |
 | Thu 09 Oct 2014 | Outline              |
@@ -165,6 +174,8 @@ Here is the tentative project schedule.
 | Thu 20 Nov 2014 | Final report         |
 
 ## Homework
+
+<!-- numerical credit/no-credit and feedback? -->
 
 You will be graded both on the
 validity of your work as well as your ability to communicate your
@@ -223,10 +234,7 @@ Online links will be provided for most other readings.
 
 
 ## Office Hours
-- Monday and Tuesday 12:00 - 13:00.  Sign up information will be posted
-  on Moodle.
-My office hours are held Tuesday and Wednesday in my office in Rachel
-Carson Hall 12 from 2pm until 3pm.  Signup is online and can be accessed
+Signup is online and can be accessed
 through my website at [danielrsoto.com](http://danielrsoto.com)
 
 
