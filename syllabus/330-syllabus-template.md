@@ -39,13 +39,15 @@ questions.
 Quizzes will be given weekly to review material.
 Students will come to class prepared to participate in and sometimes
 lead discussion.
+Each course will be split with a lecture component and an activity or
+discussion component.  You are expected to participate in class
+activities and will be graded on your performance.
 
 ## Grading
 - Classroom work (quizzes, participation) 25%
 - Homework (problem sets, readings) 25%
 - Exams (midterm, final) 25%
 - Research project 25%
-
 
 ## Agreements
 

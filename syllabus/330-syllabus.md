@@ -1,16 +1,18 @@
 # Energy, Technology, and Society, ENSP 330, Fall 2014
 
-4 Units, Tuesday and Thursday, 10:00 - 11:50 am, ETC <br />
-Daniel Soto <br />
-Rachel Carson Hall 12 <br />
-sotod@sonoma.edu <br />
-Department of Environmental Studies and Planning <br />
-Sonoma State University <br />
+<!-- v2.0 2014 revisions -->
+<!-- read over homework section -->
 
+|           |                                       |
+|-----------|---------------------------------------|
+|Days       | Tuesday and Thursday                  |
+|Time       | 10:00 - 11:50 am                      |
+|Units      | 4                                     |
+|Location   | Environmental Technology Center (ETC) |
+|Instructor | Daniel Soto                           |
+|Office     | Rachel Carson Hall 12                 |
+|Email      | sotod@sonoma.edu                      |
 
-<!-- v2.0 merge newest stuff from 438 and 202 syllabus -->
-<!-- v2.0 correct dates and times and office hours -->
-<!-- v2.0 grading totals -->
 
 ## Course Description
 
@@ -20,7 +22,6 @@ transformation in society.  Principal topics include: energy history;
 thermodynamics; energy resources and conversion technologies; global
 issues and trends; environmental impacts; energy economics,
 institutions, and politics.  Elementary quantitative analysis.
-
 
 ## Learning Objectives
 - Development of critical thinking skills applied to global energy issues
@@ -38,20 +39,15 @@ questions.
 Quizzes will be given weekly to review material.
 Students will come to class prepared to participate in and sometimes
 lead discussion.
+Each course will be split with a lecture component and an activity or
+discussion component.  You are expected to participate in class
+activities and will be graded on your performance.
 
 ## Grading
 - Classroom work (quizzes, participation) 25%
 - Homework (problem sets, readings) 25%
 - Exams (midterm, final) 25%
 - Research project 25%
-
-
-## Homework
-Energy problems require quantitative solutions.  You will gain practice
-solving simple problems about energy.  Equally importantly, you will gain
-practice making your quantitative methods and reasoning clear to others.
-Your problem sets will be graded on the clarity of communication as much as the
-correctness of the result.
 
 ## Agreements
 
@@ -60,7 +56,6 @@ correctness of the result.
 Civility is required from all students during discussions and
 interactions.  In general, I expect students to be supportive of each
 others learning goals.
-
 
 - Minimize electronic distractions
 
@@ -130,10 +125,10 @@ interests of the class.
 
 | Date            | Reading                                                                      |
 |:----------------|:-----------------------------------------------------------------------------|
-| Thu 21 Aug 2014 | Mackay-01, HK-01-Introduction, HK-02-Energy Mechanics                        |
-| Tue 26 Aug 2014 | Toolkit 1                                                                    |
-| Thu 28 Aug 2014 | Toolkit 2                                                                    |
-| Tue 02 Sep 2014 | HK-03-Conservation of Energy, HK-04-Heat and Work                            |
+| Thu 21 Aug 2014 | Mackay-01, HK-01-Introduction                                                |
+| Tue 26 Aug 2014 | Toolkit 1, HK-02-Energy Mechanics                                            |
+| Thu 28 Aug 2014 | Toolkit 2, HK-03-Conservation of Energy                                      |
+| Tue 02 Sep 2014 | HK-04-Heat and Work                                                          |
 | Thu 04 Sep 2014 | HK-07 Energy from Fossil Fuels                                               |
 | Tue 09 Sep 2014 | HK-08 Air Pollution and Energy Use                                           |
 | Thu 11 Sep 2014 | TBD (Randolph and Masters?)                                                  |
@@ -158,64 +153,53 @@ You will choose a question related to energy and the environment
 and then use techniques from this class to create estimates.
 The learning goals are for you to explore relevant topics in energy
 resource use in a ways similar to professional work.
+There will be a separate document that explains the expectations for the
+project that I will hand out in a few weeks.
 
-Here is the tentative project schedule.
+The tentative project schedule is listed here:
 
 | Date            | Project              |
 |:----------------|:---------------------|
 | Tue 26 Aug 2014 | Brainstorm 3 topics  |
 | Tue 09 Sep 2014 | Choose topic         |
-| Thu 18 Sep 2014 | Project proposal     |
-| Tue 30 Sep 2014 | Proposal feedback    |
-| Thu 09 Oct 2014 | Outline              |
-| Tue 21 Oct 2014 | Outline feedback     |
-| Thu 30 Oct 2014 | First draft          |
-| Tue 11 Nov 2014 | First draft feedback |
+| Thu 25 Sep 2014 | Outline              |
+| Thu 02 Oct 2014 | Outline feedback     |
+| Tue 28 Oct 2014 | First draft          |
+| Tue 04 Nov 2014 | First draft feedback |
 | Thu 20 Nov 2014 | Final report         |
 
 ## Homework
 
 <!-- numerical credit/no-credit and feedback? -->
 
-You will be graded both on the
-validity of your work as well as your ability to communicate your
-methods.  This means that in addition to the mathematics, you should be
-providing brief explanations of your techniques and your thought
-process.  Calculations without supporting arguments will not receive
-full credit.
+The goal of the homework is to give you practice and feedback on
+techniques for solving energy problems.  You will perform both
+quantitative and writing exercises.
+Often we combine these so that you will gain
+practice making your quantitative methods and reasoning clear to others.
+Your problem sets will be graded on the clarity of communication as much
+as the correctness of the result.
 
-Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
-3 is given for strong work that meets or exceeds the requirements, a 2
-for adequate work, and a 1 for work that doesn't meet expectations.
-No late unexcused homework will be accepted.
+I will be experimenting with various homework assessment
+and feedback techniques throughout the semester.  Please have faith that
+these experiments have improving your learning as the main goal.
 
-<!-- After grading, you may submit a self-evaluation that considers how your -->
-<!-- approach differs from the accepted approach.  Self-evaluations that -->
-<!-- demonstrate an improvement in your understanding will raise your -->
-<!-- homework grade through partial credit. -->
+The tentative homework schedule is listed here:
 
-
-
-Here is the tentative homework schedule.
-
-| Date            | Homework              |
-|:----------------|:----------------------|
-| Thu 21 Aug 2014 | Homework 0            |
-| Thu 04 Sep 2014 | Homework 1            |
-| Thu 11 Sep 2014 | Homework Reflection 1 |
-| Thu 18 Sep 2014 | Homework 2            |
-| Thu 25 Sep 2014 | Homework Reflection 2 |
-| Tue 07 Oct 2014 | Homework 3            |
-| Tue 14 Oct 2014 | Homework Reflection 3 |
-| Tue 21 Oct 2014 | Homework 4            |
-| Thu 30 Oct 2014 | Homework Reflection 4 |
-| Thu 06 Nov 2014 | Homework 5            |
-| Tue 02 Dec 2014 | Homework Reflection 5 |
+| Date            | Homework   |
+|:----------------|:-----------|
+| Tue 26 Aug 2014 | Homework 0 |
+| Tue 09 Sep 2014 | Homework 1 |
+| Tue 23 Sep 2014 | Homework 2 |
+| Tue 07 Oct 2014 | Homework 3 |
+| Tue 28 Oct 2014 | Homework 4 |
+| Tue 11 Nov 2014 | Homework 5 |
 
 ## Classroom Work
 
 We will often perform individual and group work in class.  These may
-take the form of writing exercises or quizzes.  If you have
+take the form of writing exercises, group exercises, or quizzes.
+If you have
 an unexcused absence on the day of work, you will not receive credit for
 that day's assignment.
 
