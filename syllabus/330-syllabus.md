@@ -106,13 +106,12 @@ well-being.
 |        22 | Thu 30 Oct 2014 | Energy and Water                    |
 |        23 | Tue 04 Nov 2014 | Energy and Agriculture              |
 |        24 | Thu 06 Nov 2014 | Energy and Human Health             |
-|        25 | Tue 11 Nov 2014 | Local Energy Policy                 |
-|        26 | Thu 13 Nov 2014 | National Energy Policy              |
-|        27 | Tue 18 Nov 2014 | Global Energy Policy                |
-|        28 | Thu 20 Nov 2014 | Global Access to Energy             |
-|        29 | Tue 25 Nov 2014 | Presentations                       |
-|        30 | Tue 02 Dec 2014 | Presentations                       |
-|        31 | Thu 04 Dec 2014 | Wrapup                              |
+|        25 | Thu 13 Nov 2014 | National Energy Policy              |
+|        26 | Tue 18 Nov 2014 | Global Energy Policy                |
+|        27 | Thu 20 Nov 2014 | Global Access to Energy             |
+|        28 | Tue 25 Nov 2014 | Presentations                       |
+|        29 | Tue 02 Dec 2014 | Presentations                       |
+|        30 | Thu 04 Dec 2014 | Wrapup                              |
 
 ## Readings
 
@@ -121,13 +120,13 @@ typically be a reflection essay or short quiz assigned on each reading.
 
 The tentative reading schedule is posted below.  I will also add
 readings during the semester that reflect current events or the
-interests of the class.
+interests of the class.  The dates below are the dates when the readings
+are due by the start of class.
 
 | Date            | Reading                                                                      |
 |:----------------|:-----------------------------------------------------------------------------|
-| Thu 21 Aug 2014 | Mackay-01, HK-01-Introduction                                                |
-| Tue 26 Aug 2014 | Toolkit 1, HK-02-Energy Mechanics                                            |
-| Thu 28 Aug 2014 | Toolkit 2, HK-03-Conservation of Energy                                      |
+| Tue 26 Aug 2014 | Mackay-01, HK-01-Introduction                                                |
+| Thu 28 Aug 2014 | HK-02-Energy Mechanics, HK-03-Conservation of Energy                         |
 | Tue 02 Sep 2014 | HK-04-Heat and Work                                                          |
 | Thu 04 Sep 2014 | HK-07 Energy from Fossil Fuels                                               |
 | Tue 09 Sep 2014 | HK-08 Air Pollution and Energy Use                                           |
@@ -156,7 +155,7 @@ resource use in a ways similar to professional work.
 There will be a separate document that explains the expectations for the
 project that I will hand out in a few weeks.
 
-The tentative project schedule is listed here:
+The tentative project schedule due dates are listed here:
 
 | Date            | Project              |
 |:----------------|:---------------------|
@@ -184,7 +183,8 @@ I will be experimenting with various homework assessment
 and feedback techniques throughout the semester.  Please have faith that
 these experiments have improving your learning as the main goal.
 
-The tentative homework schedule is listed here:
+The tentative homework schedule is listed here.  The dates below are
+when the homework assignments are due either in class or electronically.
 
 | Date            | Homework   |
 |:----------------|:-----------|
@@ -193,7 +193,7 @@ The tentative homework schedule is listed here:
 | Tue 23 Sep 2014 | Homework 2 |
 | Tue 07 Oct 2014 | Homework 3 |
 | Tue 28 Oct 2014 | Homework 4 |
-| Tue 11 Nov 2014 | Homework 5 |
+| Thu 13 Nov 2014 | Homework 5 |
 
 ## Classroom Work
 

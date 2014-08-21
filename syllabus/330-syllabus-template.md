@@ -89,7 +89,8 @@ typically be a reflection essay or short quiz assigned on each reading.
 
 The tentative reading schedule is posted below.  I will also add
 readings during the semester that reflect current events or the
-interests of the class.
+interests of the class.  The dates below are the dates when the readings
+are due by the start of class.
 
 {{ d['reading-schedule.md'] }}
 
@@ -103,7 +104,7 @@ resource use in a ways similar to professional work.
 There will be a separate document that explains the expectations for the
 project that I will hand out in a few weeks.
 
-The tentative project schedule is listed here:
+The tentative project schedule due dates are listed here:
 
 {{ d['project-schedule.md'] }}
 
@@ -123,7 +124,8 @@ I will be experimenting with various homework assessment
 and feedback techniques throughout the semester.  Please have faith that
 these experiments have improving your learning as the main goal.
 
-The tentative homework schedule is listed here:
+The tentative homework schedule is listed here.  The dates below are
+when the homework assignments are due either in class or electronically.
 
 {{ d['homework-schedule.md'] }}
 
