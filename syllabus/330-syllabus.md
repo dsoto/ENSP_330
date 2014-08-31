@@ -84,8 +84,8 @@ well-being.
 |----------:|:----------------|:------------------------------------|
 |         1 | Tue 19 Aug 2014 | Introduction and Overview           |
 |         2 | Thu 21 Aug 2014 | History of energy                   |
-|         3 | Tue 26 Aug 2014 | Physics of Energy                   |
-|         4 | Thu 28 Aug 2014 | Energy Conversion                   |
+|         3 | Tue 26 Aug 2014 | Energy Units and Estimations        |
+|         4 | Thu 28 Aug 2014 | Energy and Power                    |
 |         5 | Tue 02 Sep 2014 | Thermodynamics                      |
 |         6 | Thu 04 Sep 2014 | Carbon (Critters and Combustion)    |
 |         7 | Tue 09 Sep 2014 | Fossil Fuel                         |
@@ -159,8 +159,7 @@ The tentative project schedule due dates are listed here:
 
 | Date            | Project              |
 |:----------------|:---------------------|
-| Tue 26 Aug 2014 | Brainstorm 3 topics  |
-| Tue 09 Sep 2014 | Choose topic         |
+| Tue 09 Sep 2014 | Brainstorm 3 topics  |
 | Thu 25 Sep 2014 | Outline              |
 | Thu 02 Oct 2014 | Outline feedback     |
 | Tue 28 Oct 2014 | First draft          |
