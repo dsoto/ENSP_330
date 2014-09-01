@@ -1,6 +1,5 @@
 # ENSP 330 Homework 1
 
-Due Date: September 12, 2013
 
 <!--
 pedagogical goals
@@ -9,6 +8,11 @@ pedagogical goals
 - find and interpret reliable sources of data
 - calculate overall efficiency from chain of efficiencies
 - understanding of energy conversion processes
+-->
+
+<!--
+- give a more basic power and energy problem
+- give something that tests writing skills
 -->
 
 You may submit this assignment handwritten.  Clearly state your
@@ -70,12 +74,8 @@ questions.
     c) What specific types of energy end uses do you imagine are included
     in each of the four demand sectors?
 
-6) List as many as three possible topics for your research project this
-semester.
 
-
-
-7) Estimate to the nearest hour how much time you spent on this
+6) Estimate to the nearest hour how much time you spent on this
 assignment.
 
 
