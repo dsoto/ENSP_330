@@ -41,10 +41,15 @@ This is a list of topics to consider for your class project.
 
 ## Sonoma County Water Agency Questions
 
+1. What is the most effective way to reduce the ecological impact (and
+   GHG impact) of personal transportation choices?  Factor in cost per
+   GHG ton reduced.  Consider urban planning, behavior based programs,
+   peer pressure, automobile technology, etc.
 
-1. What is the most effective way to reduce the ecological impact (and GHG impact) of personal transportation choices?  Factor in cost per GHG ton reduced.  Consider urban planning, behavior based programs, peer pressure, automobile technology, etc.
-
-2. What is the water carrying capacity of Sonoma County based on current and projected population?  And what large scale agricultural water conservation programs and projects could be put in place to meet future water needs, esp. if droughts continue?
+2. What is the water carrying capacity of Sonoma County based on current
+   and projected population?  And what large scale agricultural water
+   conservation programs and projects could be put in place to meet
+   future water needs, esp. if droughts continue?
 
 3. Campus water use assessment:
 a. How many toilets are there on the SSU campus?
@@ -56,10 +61,10 @@ e. How much water savings potential is there?
 4. Office Parks and office campuses typically use turf grass as a major landscaping effect.
 a. How much water is used by office campus landscapes and how can campus managers routinely measure that consumption?
 b. Is there a cost-effective alternative to using turf?  Include cost to replace turf and balance cost savings by using less water against cost to maintain the alternative.  Measure comparisons over a period of time.
-c.   Can public agencies influence the decision of campus managers?
+c. Can public agencies influence the decision of campus managers?
 
-5.   How do students/faculty/staff get to and from campus/school/class: walk, private cars, bikes, carpools, mass transit, other?
-a.   Chart (pie-chart?) transportation modes used to get to and from school?
+5. How do students/faculty/staff get to and from campus/school/class: walk, private cars, bikes, carpools, mass transit, other?
+a. Chart (pie-chart?) transportation modes used to get to and from school?
 b. Chart (pie-chart?) energy consumed over a period time.
 c. Chart ghg emissions over same time.
 d. Can energy consumed/emissions produced be changed?  How? Who would lead?  How?
@@ -76,25 +81,43 @@ c. What is the current market penetration?
 d. How much energy is produced/could be produced at 80% market penetration?
 e. How many additional tons of CO2 could be avoided 80% market penetration was achieved?
 
-8. What is the percentage of the SSU campus that still has opportunity for zero scape?
+8. What is the percentage of the SSU campus that still has opportunity for zero
+   scape?
 
-9. What would a 5-year plan look like for SSU buildings to optimize Solar on available structures?
+9. What would a 5-year plan look like for SSU buildings to optimize Solar on
+   available structures?
 
 10. What are 10 ways SSU can be an energy resource for the public?
 
-11. How many miles does the average SSU student drive each week and what is the average GHG emissions from that activity? What incentives would cause students to drive less in order to achieve a 25% reduction in GHG?
+11. How many miles does the average SSU student drive each week and what is the
+    average GHG emissions from that activity? What incentives would cause
+    students to drive less in order to achieve a 25% reduction in GHG?
 
-12. How much does a sampling of students pay for their car each – fuel, insurance, car payment, parking, etc.? What opportunities (new car financing, car share, etc.) would be the most financially beneficial to students to get them to shift from their current vehicle to an electric or electric hybrid vehicle?
+12. How much does a sampling of students pay for their car each – fuel,
+    insurance, car payment, parking, etc.? What opportunities (new car
+    financing, car share, etc.) would be the most financially beneficial to
+    students to get them to shift from their current vehicle to an electric or
+    electric hybrid vehicle?
 
-13. How much electricity does the average student use each day – in buildings, charging electronic devices, watching TV, gaming, etc.? How is this energy paid for – directly or indirectly? How much does it cost?
+    Compare your current levelized cost per mile of transportation to other alternatives.
 
-14. Using the materials from class such as ENSP 403 Computer Modeling, model the highest energy use building on campus and identify the highest return on investment improvements that could be made.   Include cost, savings and emission reduction in the analysis.
+13. How much electricity does the average student use each day – in buildings,
+    charging electronic devices, watching TV, gaming, etc.? How is this energy
+    paid for – directly or indirectly? How much does it cost?
 
-15. Monitor desk appliance use and provide feedback to the subjects and evaluate changes in use based on feedback availability.  Kill-A-Watt team?
+14. Using the materials from class such as ENSP 403 Computer Modeling, model
+    the highest energy use building on campus and identify the highest return
+    on investment improvements that could be made.   Include cost, savings and
+    emission reduction in the analysis.
 
-16. What would the impact be to the grid, campus energy use, and policy of 50% of the cars on site were plug-in electric 5 years from now?
+15. Monitor desk appliance use and provide feedback to the subjects and
+    evaluate changes in use based on feedback availability.  Kill-A-Watt team?
 
-17. What is the energy use profile for Sonoma County attributable to change in population from 2000 to 2030?
+16. What would the impact be to the grid, campus energy use, and policy of 50%
+    of the cars on site were plug-in electric 5 years from now?
+
+17. What is the energy use profile for Sonoma County attributable to change in
+    population from 2000 to 2030?
 
 
 <!--
