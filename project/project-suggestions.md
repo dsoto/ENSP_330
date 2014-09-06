@@ -39,6 +39,24 @@ This is a list of topics to consider for your class project.
   farmed stuff driven a long distance in an efficient truck or locally
   produced organic materials in a less efficient truck?
 
+## Climate Protection Campaign Questions
+- How can Sonoma County accelerate the electrification of the
+transportation sector? Who needs to do what?
+- What financing is available
+and/or needs to be created to accelerate vehicle electrification?
+- Can Sonoma Clean Power contribute to these electrification efforts? If so,
+how?
+- Should we retrofit existing combustion engine vehicles to be
+electric and/or encourage buyers of new vehicles to choose electric?
+- What audience should be targeted to go electric?
+- Is going electric
+really a GHG reduction strategy when the embodied carbon in vehicle
+production is considered?
+- For what carbon intensity of electricity will electric vehicles emit
+  less carbon dioxide per mile?
+- What are the barriers to electrifying the
+transportation sector and how can we overcome them?
+
 ## Sonoma County Water Agency Questions
 
 1. What is the most effective way to reduce the ecological impact (and
