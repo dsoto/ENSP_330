@@ -99,8 +99,8 @@ well-being.
 |        15 | Tue 07 Oct 2014 | Heat                                |
 |        16 | Thu 09 Oct 2014 | Mechanical Work                     |
 |        17 | Tue 14 Oct 2014 | Transportation                      |
-|        18 | Thu 16 Oct 2014 | Buildings                           |
-|        19 | Tue 21 Oct 2014 | Midterm                             |
+|        18 | Thu 16 Oct 2014 | Midterm                             |
+|        19 | Tue 21 Oct 2014 | Buildings                           |
 |        20 | Thu 23 Oct 2014 | Energy Efficiency                   |
 |        21 | Tue 28 Oct 2014 | Energy and Climate                  |
 |        22 | Thu 30 Oct 2014 | Energy and Water                    |
@@ -130,7 +130,6 @@ are due by the start of class.
 | Tue 02 Sep 2014 | HK-04-Heat and Work                                                          |
 | Thu 04 Sep 2014 | HK-07 Energy from Fossil Fuels                                               |
 | Tue 09 Sep 2014 | HK-08 Air Pollution and Energy Use                                           |
-| Thu 11 Sep 2014 | TBD (Randolph and Masters?)                                                  |
 | Tue 16 Sep 2014 | Lovins 1976                                                                  |
 | Thu 18 Sep 2014 | HK-13 The Building Blocks of Matter, HK-14 Nuclear Power Fission, Moore 2005 |
 | Tue 23 Sep 2014 | HK-12 Electricity from Solar, Wind, and Hydro                                |
