@@ -17,10 +17,13 @@ all: $(PDFS) $(DOCX) $(HTML)
 
 %.pdf: %.$(EXT)
 	pandoc -o $*.pdf $<
+	mv $*.pdf output/
 
 %.docx: %.$(EXT)
 	pandoc -o $*.docx $<
+	mv $*.docx output/
 
 %.html: %.$(EXT)
 	pandoc -o $*.html $<
+	mv $*.html output/
 
