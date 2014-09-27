@@ -133,7 +133,6 @@
 
 
 <!-- - energy technologies have positive and negative effects -->
-<!-- - announcements -->
 <!-- - logistical questions -->
 <!-- - moodle access -->
 
@@ -486,8 +485,6 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - How many persons in the US?
 
 
-
-<!-- http://www.eia.gov/tools/faqs/faq.cfm?id=23&t=10 -->
 ## ENSP 330, Lecture 4, Energy and Power
 ### Professor Daniel Soto, Sonoma State University
 ### 28 Aug 2014
@@ -1084,14 +1081,14 @@ $$
 
 ## Fuel Density
 
-| Material| Energy Density (MJ/kg) |
-|--------|-----|
-| Gasoline  | 45     |
-| Crude oil | 42--44  |
-| Natural gas | 33--37 |
-| Coal | 12--31 |
-| Wood | 14--16 |
-| Lithium Battery | 0.5 |
+| Material        | Energy Density (MJ/kg) |
+|-----------------|--------|
+| Gasoline        | 45     |
+| Crude oil       | 42--44 |
+| Natural gas     | 33--37 |
+| Coal            | 12--31 |
+| Wood            | 14--16 |
+| Lithium Battery | 0.5    |
 
 ## Petroleum prices at record highs
 ![](../figures/gas_prices.png)
@@ -1406,33 +1403,6 @@ asking the question is the most important step
 ![](../figures/L2_von_meier/Slide20.jpg)
 
 
-
-
-<!--
-## Gross Domestic Product
-
-
-## Energy intensity
-
-## Decoupling of energy intensity and GDP
-
-## Primary Energy
-
-## Secondary Energy
-
-## End-use Energy
--->
-
-
-
-
-
-
-
-
-
-
-
 ## Reading Discussion
 - Lovins, Energy Strategy: The Road Not Taken?
 
@@ -1469,15 +1439,6 @@ article notes
 ## Did Lovin's prediction come true?
 [Follow up to road not taken](http://softpathinnovations.com/SoftPath/About_Us_files/Energy%20Strategy-%20The%20Road%20Not%20Taken.pdf)
 ![](../figures/amory1976.jpg)
-
-
-
-
-
-
-
-
-
 
 
 ## ENSP 330, Lecture 10, Nuclear Power
@@ -1655,16 +1616,6 @@ value conflicts
 - how would you investigate his reasons for yourself?
 - what would it take to scale up?
 -->
-
-
-
-
-
-
-
-
-
-
 
 
 ## ENSP 330, Lecture 11, Hydropower
