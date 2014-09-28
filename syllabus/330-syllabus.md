@@ -133,8 +133,8 @@ are due by the start of class.
 | Tue 16 Sep 2014 | Lovins 1976                                                                  |
 | Thu 18 Sep 2014 | HK-13 The Building Blocks of Matter, HK-14 Nuclear Power Fission, Moore 2005 |
 | Tue 23 Sep 2014 | HK-12 Electricity from Solar, Wind, and Hydro                                |
-| Thu 02 Oct 2014 | Mackay-07 Heating and Cooling                                                |
-| Thu 09 Oct 2014 | Mackay-03 Cars, NC-02 Reinventing the Wheels                                 |
+| Tue 07 Oct 2014 | Mackay-07 Heating and Cooling                                                |
+| Tue 14 Oct 2014 | Mackay-03 Cars, NC-02 Reinventing the Wheels                                 |
 | Thu 23 Oct 2014 | HK-09 Global Warming and Thermal Pollution                                   |
 | Tue 28 Oct 2014 | Pacala and Socolow Wedges                                                    |
 | Thu 30 Oct 2014 | NC-11 Aqueous Solutions, EPA Hydraulic Fracturing Study                      |
@@ -160,7 +160,7 @@ The tentative project schedule due dates are listed here:
 |:----------------|:---------------------|
 | Tue 09 Sep 2014 | Brainstorm 3 topics  |
 | Thu 25 Sep 2014 | Outline              |
-| Thu 02 Oct 2014 | Outline feedback     |
+| Thu 09 Oct 2014 | Outline feedback     |
 | Tue 28 Oct 2014 | First draft          |
 | Tue 04 Nov 2014 | First draft feedback |
 | Thu 20 Nov 2014 | Final report         |
