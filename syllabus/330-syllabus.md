@@ -160,10 +160,11 @@ The tentative project schedule due dates are listed here:
 |:----------------|:---------------------|
 | Tue 09 Sep 2014 | Brainstorm 3 topics  |
 | Thu 25 Sep 2014 | Outline              |
-| Thu 09 Oct 2014 | Outline feedback     |
-| Tue 28 Oct 2014 | First draft          |
-| Tue 04 Nov 2014 | First draft feedback |
-| Thu 20 Nov 2014 | Final report         |
+| Tue 07 Oct 2014 | Outline feedback     |
+| Thu 16 Oct 2014 | Outline 2            |
+| Thu 30 Oct 2014 | First draft          |
+| Thu 06 Nov 2014 | First draft feedback |
+| Tue 25 Nov 2014 | Final report         |
 
 ## Homework
 
@@ -189,8 +190,8 @@ when the homework assignments are due either in class or electronically.
 | Tue 26 Aug 2014 | Homework 0 |
 | Tue 09 Sep 2014 | Homework 1 |
 | Tue 23 Sep 2014 | Homework 2 |
-| Tue 07 Oct 2014 | Homework 3 |
-| Tue 28 Oct 2014 | Homework 4 |
+| Thu 09 Oct 2014 | Homework 3 |
+| Thu 23 Oct 2014 | Homework 4 |
 | Thu 13 Nov 2014 | Homework 5 |
 
 ## Classroom Work
