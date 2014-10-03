@@ -34,3 +34,6 @@ relevant to the class material.
 - Articles on coal plant expansions or shutdowns
 - Articles on the recent UN climate change negotiations
 - Any of the daily blog posts by the Energy Information Administration
+- [How the oil and gas boom is changing America](http://www.vox.com/2014/10/2/6892781/how-the-oil-and-gas-boom-is-changing-america)
+- Pandora's Promise Documentary
+- Years of Living Dangerously Documentary
