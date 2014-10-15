@@ -96,11 +96,11 @@ well-being.
 |        12 | Thu 25 Sep 2014 | Wind                                |
 |        13 | Tue 30 Sep 2014 | Solar                               |
 |        14 | Thu 02 Oct 2014 | Electricity                         |
-|        15 | Tue 07 Oct 2014 | Heat                                |
-|        16 | Thu 09 Oct 2014 | Mechanical Work                     |
-|        17 | Tue 14 Oct 2014 | Transportation                      |
+|        15 | Tue 07 Oct 2014 | Heat and Buildings                  |
+|        16 | Thu 09 Oct 2014 | Transportation                      |
+|        17 | Tue 14 Oct 2014 | Mid-Semester Review                 |
 |        18 | Thu 16 Oct 2014 | Midterm                             |
-|        19 | Tue 21 Oct 2014 | Buildings                           |
+|        19 | Tue 21 Oct 2014 |                                     |
 |        20 | Thu 23 Oct 2014 | Energy Efficiency                   |
 |        21 | Tue 28 Oct 2014 | Energy and Climate                  |
 |        22 | Thu 30 Oct 2014 | Energy and Water                    |
@@ -161,7 +161,7 @@ The tentative project schedule due dates are listed here:
 | Tue 09 Sep 2014 | Brainstorm 3 topics  |
 | Thu 25 Sep 2014 | Outline              |
 | Tue 07 Oct 2014 | Outline feedback     |
-| Thu 16 Oct 2014 | Outline 2            |
+| Tue 21 Oct 2014 | Outline 2            |
 | Thu 30 Oct 2014 | First draft          |
 | Thu 06 Nov 2014 | First draft feedback |
 | Tue 25 Nov 2014 | Final report         |
@@ -191,7 +191,9 @@ when the homework assignments are due either in class or electronically.
 | Tue 09 Sep 2014 | Homework 1 |
 | Tue 23 Sep 2014 | Homework 2 |
 | Thu 09 Oct 2014 | Homework 3 |
+| Tue 21 Oct 2014 | HW1M, HW2M |
 | Thu 23 Oct 2014 | Homework 4 |
+| Tue 28 Oct 2014 | HW3M       |
 | Thu 13 Nov 2014 | Homework 5 |
 
 ## Classroom Work
