@@ -1,0 +1,327 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{graphicx}
+\usepackage[nohead, margin=1.0in]{geometry}
+%\usepackage{pythontex}
+
+% this uses pythontex
+% compile the document using > bash compile.sh
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+\solutiontrue
+\solutionfalse
+
+% page formatting
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt}
+
+% macros for formatting
+\def\true{true}
+\def\false{false}
+
+% creates true false command with indented question
+\newcommand{\tf}[1]
+{
+\vfill
+\parbox[t]{0.25\textwidth}{\bf TRUE \hspace{0.1 in} FALSE }
+\parbox[t]{0.75\textwidth}{#1 (1 pt)}
+}
+
+% creates grading table row macro
+\newcommand{\tablerow}[2]
+{\rule[-0.3cm]{0cm}{1cm}#1 & #2 & \\ \hline}
+
+% creates heading for problems
+\newcommand{\problem}[1]{{\bf Problem #1}}
+
+% creates centered heading for sections
+\newcommand{\chead}[1]
+{\begin{center}\large\textbf{#1}\end{center}
+\hrule
+\vspace{10pt}}
+
+% solution
+\newcommand{\solution}[1]
+{\ifsolution
+Answer: {\it #1}
+\else\fi}
+
+% end macros
+
+
+
+\begin{document}
+
+% header block
+\begin{center}
+{\bf Midterm Exam}\\
+{\bf ENSP 330}\\
+{\bf Energy, Technology, and Society}\\
+{\bf Thursday 16 Oct 2014}\\
+\end{center}
+
+
+% instructions to students
+\noindent
+{\bf Instructions}
+\begin{itemize}
+\item Do not begin until instructed.
+\item You are allowed to use your cheat sheet only for the first 60
+minutes.
+\item After 60 minutes you may use your notes (written or electronic).
+\item You may not use the internet with the exception of any notes you
+keep on a cloud drive.
+\item Clearly show your quantitative work and write your final answers
+in the boxes provided.
+\item In order to receive full credit, you must show your work with
+units and justify your answers.  The correct answer without any work
+will receive little or no credit.
+\item Please bring to my attention anything that is unclear.
+\item Write your name and signature that you understand these
+instructions on the back page.
+\item Use scientific notation where appropriate.
+\item
+\end{itemize}
+
+% conversions
+\noindent
+{\bf Useful quantities}
+\begin{itemize}
+\item 1 nutritional calorie = 4186 joules
+\item Gasoline contains 130 MJ per kilogram
+\item Gasoline weighs 2.8 kilograms per gallon
+\item kilo = $10^3$, mega = $10^6$, giga = $10^9$
+\item Use 0.13 USD per kWh as the price of electricity
+\end{itemize}
+
+\vfill
+
+
+%
+% midterm content
+%
+
+\newpage
+\chead{Quantitative}
+
+% \begin{pycode}
+% power_W = 200
+% time_min = 15
+%
+% kilojoules = power_W * time_min * 60 / 1000.
+% \end{pycode}
+
+You are exercising on a StairMaster and the display says you expending
+power a rate of 200 Watts.  How many joules of energy have you expended
+after 15 minutes? (5 pts)
+
+\framebox[2.5in]{\rule{0cm}{1.5cm}}\\
+
+\solution{
+Energy equals power multiplied by time.
+
+%$$ 200W \cdot 15 min \cdot \frac{60 sec}{1 min} = \py{kilojoules} kJ $$
+$$ 200W \cdot 15 min \cdot \frac{60 sec}{1 min} = 180 kJ $$
+}
+
+
+\vfill
+
+If I ate a breakfast of waffles with maple syrup worth 500 nutritional
+calories, how
+long would it take me to use up those calories on the StairMaster
+assuming you convert 100\% of your breakfast into kinetic energy? (5
+pts)
+
+\framebox[2.5in]{\rule{0cm}{1.5cm}}\\
+
+\solution{
+Here I assume that we are 100\% efficient in the conversion of food chemical
+energy to kinetic energy.  Using energy equals power multiplied by time
+and the rate of energy use we determined in c:
+
+$$ 500 kcal = \frac{43 kcal}{15 min} \cdot X min $$
+$$ X = 500 kcal \cdot  \frac{15 min}{43 kcal} = 174 min $$
+
+Which is slightly less than 3 hours.
+}
+
+\vfill
+
+\newpage
+\chead{Quantitative}
+
+Gasoline costs the military as much as 15 USD per gallon in some parts
+of the world.  How much does this cost in USD/MJ?  For comparison,
+electricity is about 0.028 USD per kWh. (5 pts)
+
+\framebox[2.5in]{\rule{0cm}{1.5cm}}\\
+
+\vfill
+
+Assume a Tesla costs 80 thousand dollars to buy.  Model
+S consumes 35 kWh to travel 100 miles.  Assume you keep the car for 10
+years and drive 15,000 miles per year.  What is
+the levelized cost per mile? For comparison, a Honda Fit is about 0.33
+USD per mile.  (10 pts)
+
+\framebox[2.5in]{\rule{0cm}{1.5cm}}\\
+
+
+\vfill
+
+\newpage
+\chead{Short Answer}
+
+Describe the important differences and similarities between how a coal
+plant and a nuclear plant generate electricity. (5 pts)
+
+\solution{Differences: The main difference is in the source of heat.  A
+coal plant uses combustion of coal while a nuclear plant uses a chain
+reaction of nuclear fission to create heat.
+
+Similarities: The main
+similarity is in the use of steam turbines to generate electricity
+through a steam heat engine.}
+
+\vfill
+%\vspace{1 in}
+
+Describe the important differences between a solar photovoltaic
+electricity plant and a solar thermal electricity plant. (5 pts)
+
+\solution{Solar PV electricity creates direct current electricity
+without a  thermal cycle while solar thermal electricity uses technology
+Rankine cycle steam turbines to generate AC electricity.}
+
+\vfill
+%\vspace{1 in}
+
+Describe a few advantages and disadvantages of large, centralized
+electricity production. (5 pts)
+
+\solution{Advantages include economies of scale that make larger plants
+more cost effective.  Disadvantages include large investments, large
+effect from individual plant failures, and
+transmission costs.}
+
+\vfill
+%\vspace{1 in}
+
+What are the main uses in the U.S. economy for coal, oil, and natural gas? (5 pts)
+
+\solution{Coal is mostly used for electricity production, oil is mostly
+used for transportation, natural gas has many uses including
+electricity, heating, and transportation.}
+
+%\vspace{1 in}
+\vfill
+
+What is the original source of our food energy? (5 pts)
+
+\solution{The chemical energy in our food was originally radiation
+energy from the sun which was converted to chemical energy by plants.
+Depending on your diet, you may also consume organisms that consumed
+plants.  Bonus if you mention the nuclear energy from the sun.}
+
+\vfill
+
+
+\newpage
+\chead{True or False?}
+
+% \tf{A 100 MW solar photovoltaic electricity plant will likely produce
+% more power in a year than a 100 MW coal electricity plant.}
+% \solution{False}
+%
+\tf{Almost all of the energy from fossil fuels is converted to
+electricity in a thermal power plant.}
+\solution{False}
+
+\tf{An energy bar contains less chemical energy than a gallon of
+gasoline.}
+\solution{True}
+
+\tf{A large fraction of oil is used for electricity production in the
+United States.}
+\solution{False}
+
+\tf{The BTU, the joule, and the Watt are all units of energy.}
+\solution{False}
+
+\tf{The kilowatt-hour (kWh) is a unit of power.}
+\solution{False}
+
+\tf{The second law of thermodynamics tells us that energy is conserved.}
+\solution{False}
+
+\tf{The energy intensity of an economy expresses how efficiently an
+economy uses energy to create wealth per unit of GDP.}
+\solution{True}
+
+% \tf{The scale of your household daily electricity energy use is about 1 MWh.}
+% \solution{False}
+%
+\tf{A battery converts chemical energy to electrical energy}
+\solution{True}
+
+\tf{Coal is a primary energy source.}
+\solution{True}
+
+\tf{Electricity is a primary energy source.}
+\solution{False}
+
+
+\newpage
+
+% name and signature boxes
+\makebox[1.0in][l]
+{Name:}
+\framebox[4.5in]{\rule{0cm}{1.5cm}}\\
+\vspace{0.2cm}
+
+\makebox[1.0in][l]
+{Signature:}
+\framebox[4.5in]{\rule{0cm}{1.5cm}}\\
+\vspace{0.8cm}
+
+By signing this you agree to all the instructions on the front page.
+
+\vfill
+
+% grading and scores table
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\rule[-0.3cm]{0cm}{1cm}
+Question & Points & Score \\
+\hline
+\tablerow{Quantitative}{25}
+\tablerow{Short Answer}{15}
+\tablerow{True/False}{10}
+\tablerow{\bf{Total}}{50}
+\end{tabular}
+\end{center}
+\end{document}
+
+% do energy questions exist on the web?
+
+% solar questions
+
+% nuclear questions
+
+% gdp questions
+
+% fossil fuel questions
+
+% thermo questions
+
+% energy units questions
+
+% estimate the capacity factor of an automobile
+
+Convert from kWh to joules.
+
+You have 1 kg of coal, how much hot water can you create?
+
