@@ -193,11 +193,7 @@ when the homework assignments are due either in class or electronically.
 | Thu 09 Oct 2014 | Homework 3 |
 | Thu 23 Oct 2014 | HW1M       |
 | Tue 28 Oct 2014 | HW2M       |
-| Thu 30 Oct 2014 | Homework 4 |
 | Tue 04 Nov 2014 | HW3M       |
-| Thu 13 Nov 2014 | Homework 5 |
-| Tue 18 Nov 2014 | HW4M       |
-| Thu 04 Dec 2014 | HW5M       |
 
 ## Classroom Work
 
