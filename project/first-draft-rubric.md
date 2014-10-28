@@ -4,9 +4,10 @@ This assignment provides practice creating solutions for energy problems
 today.  The project grading will hold these solutions to the standards
 that we would apply in professional or academic settings.  They must be
 well-researched, rigorous, and clearly communicated.  They should
-also demonstrate the use of skills learned in this class.
+also demonstrate the use of skills learned in this class.  These scores
+will be scaled up since the draft and final are worth 20 and 30 points.
 
-# 10
+# Excellent (10/10)
 - Displays all of the following qualities
 - Very organized presentation of argument and evidence
 - Exceeds the upper-division level of effort
@@ -15,7 +16,7 @@ also demonstrate the use of skills learned in this class.
 - Shows evidence of thorough research
 - Very well-written and engaging text
 
-# 9
+# Very Good (9/10)
 - Displays all of the following qualities
 - Organized presentation of argument and evidence
 - Shows an upper-division level of effort
@@ -24,7 +25,7 @@ also demonstrate the use of skills learned in this class.
 - Shows evidence of research
 - Text is clear and easy to read
 
-# 8
+# Good (8/10)
 - Meets most but not all of the following
 - Presents both an argument and evidence
 - Meets an upper-division level of effort
@@ -34,7 +35,7 @@ also demonstrate the use of skills learned in this class.
 - Text is clear and easy to read
 
 
-# 7
+# Adequate (7/10)
 - Pays insufficient attention to some of these points
 - Presents both an argument and evidence
 - Meets an upper-division level of effort
@@ -43,7 +44,7 @@ also demonstrate the use of skills learned in this class.
 - Shows evidence of research
 - Text is clear and easy to read
 
-# 6 or below
+# Inadequate (6/10 or below)
 - Pays insufficient attention to many of these points
 - Presents both an argument and evidence
 - Meets an upper-division level of effort
