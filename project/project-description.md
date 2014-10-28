@@ -77,7 +77,7 @@ from the outline into your report.
 
 ### Submission
 The report will be submitted via moodle as a single PDF file.
-Unexcused late submissions will lose 10 points for each day they are
+Unexcused late submissions will lose one point for each day they are
 late.
 
 ## First draft feedback
@@ -111,7 +111,7 @@ feedback from the peer reading.
 Ideally, you will turn in a single PDF file with your report.  If this
 is too difficult, you may also
 submit your spreadsheets or any supplementary files to Moodle.
-Unexcused late submissions will lose 10 points for each day they are
+Unexcused late submissions will lose one point for each day they are
 late.
 
 
