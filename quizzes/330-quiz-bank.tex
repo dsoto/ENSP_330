@@ -1,0 +1,620 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{soto-homework}
+\usepackage{siunitx}
+
+% % page formatting
+% \pagestyle{empty}
+% \setlength{\parindent}{0pt}
+% \setlength{\parskip}{10pt}
+
+
+\begin{document}
+
+{\bf Quiz 1 \hfill ENSP 330}
+
+
+Assumptions:
+
+Assume 130 MJ in one gallon of gasoline
+
+Assume you drive 12,000 miles in a year in a car with 30 miles per gallon
+
+Assume a microwave is 1000 W
+
+Assume 1 kWh = 3.6 MJ
+
+1 MJ = $10^6$ J, 1 GJ = $10^9$ J
+
+
+\problem{}
+A Kilowatt-hour (kWh) is a unit of
+
+a) energy
+
+b) power
+
+\solution{energy}
+
+
+
+\problem{}
+Kilowatt (kW) is a unit of
+
+a) energy
+
+b) power
+
+\solution{power}
+
+
+
+\problem{}
+How much chemical energy is contained the gasoline your car consumes in a year?
+
+a) 52 MJ
+
+b) 520 MJ
+
+c) 52 GJ
+
+\solution{
+$$ 12000 miles \cdot \frac{gallons}{30 miles} \frac{130 MJ}{gallon} = 52 GJ $$
+}
+
+\vfill
+
+\problem{}
+Which is the best estimate of energy used when making popcorn?
+
+a) $ 1000W \cdot 1 sec \cdot \frac{1 hr}{3600 sec} = 0.278 Wh $
+
+b) $ 1000W \cdot 1 min \cdot \frac{1 hr}{60 min} = 16.7 Wh $
+
+c) $ 1000W \cdot 1 hour  = 1 kWh $
+
+
+
+\solution{
+$$1000W \cdot 1 min$$
+}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 2 \hfill ENSP 330}
+
+\problem{}
+Which of these two activities requires more power?
+
+a) walking the stairs to the top of the student center
+
+b) jumping to the top of the student center
+
+
+\problem{}
+In terms of the energy used, which is most accurate?
+
+a) walking to the top takes much more energy than jumping to the top of the
+building
+
+b) walking to the top takes about the same energy as jumping to the top
+of the building
+
+c) walking to the top of the building takes much less energy than
+jumping to the top
+
+
+\problem{}
+The Bakken formation is producing 1.1 million barrels of oil per day.
+At 80 USD/barrel, which is closest to the amount of money the region is
+producing each second?
+
+a) 10 USD/sec
+
+b) 100 USD/sec
+
+c) 1000 USD/sec
+
+\solution{
+1.1 million barrels/day * day/86400sec * 80 USD/barrel = 1000 USD/sec
+}
+
+\vfill
+
+\problem{}
+The world uses about 500 EJ (500 Exajoules) in a year.  What size power
+plant will generate that much energy if it is on 24 hours a day for an
+entire year?
+
+a) $15.9 \cdot 10^{9}$ watts (15.9 GW)
+
+b) $15.9 \cdot 10^{12}$ watts (15.9 TW)
+
+c) $15.9 \cdot 10^{15}$ watts (15.9 PW)
+
+\solution{
+$$ power = \frac{energy}{time} $$
+$$ power = \frac{500 EJ/year}{3.14 \cdot 10^7 seconds/year} = 15.9 TW $$
+}
+
+\vfill
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 3 \hfill ENSP 330}
+
+% more energy conversions
+% something on energy conversion with efficiency
+% something on capacity factors
+% SSU solar question
+
+\problem{Solar Panel Efficiency Definition}
+
+If I want to express the efficiency of a solar panel, what is the most
+likely fraction that expresses this?
+
+a) $\frac{\textrm{area}}{\textrm{solar radiation}}$
+
+b) $\frac{\textrm{electrical energy}}{\textrm{solar radiation}}$
+
+c) $\frac{\textrm{solar radiation}}{\textrm{electrical energy}}$
+
+
+\problem{}
+
+A British Thermal Unit (BTU) is a unit of
+
+a) Energy
+
+b) Power
+
+\solution{
+The BTU is a unit of energy.  Striking a match releases approximately 1
+BTU of heat.
+}
+
+
+\problem{}
+The amount of carbon dioxide emitted per gallon of gas depends strongly
+on the mileage your car gets.
+
+True
+
+False
+
+\solution{
+False.  A gallon of gasoline burned in any car emits roughly the same
+amount of carbon dioxide and releases roughly the same amount of heat.
+
+}
+
+\problem{}
+On an exercise bicycle with an electrical generator a human
+can produce 100 watts of power for extended periods of time.  If you pay
+people minimum wage to generate power, how much does it cost per
+kilowatt hour?  Assume a human can generate 100 watts and is paid the
+minimum wage of 9 USD per hour.
+
+a) 11 USD/kWh
+
+b) 90 USD/kWh
+
+c) 9 USD/kWh
+
+\solution{
+9 USD per hour / 0.1 kW = 90 USD per kWh
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 4 \hfill ENSP 330 \hfill Fall 2014}
+
+\problem{}
+There are 1500 GW of coal plants in the world generating 9168 TWh of
+electricity each year.  If the carbon intensity of electricity
+production is 250 gC (grams carbon) per kWh, how much carbon is emitted each year?
+Recall that GtC is one giga-ton of carbon where a ton is 1000 kg.
+
+a) 2300 GtC per year
+
+b) 2.3 GtC per year
+
+c) 2.3 MtC per year
+
+\solution{
+$9168 TWh *
+\frac
+{\SI{1e9}{\kilo\watt\hour}}
+{1 TWh}
+*
+250 gC /kWh
+*
+\frac{\SI{1}{\giga\tonne C}}{\SI{1e15}{\gram C}} = 2.3 GtC/year$
+
+\vspace{-3.0cm}
+}
+
+
+% IEA key world facts coal 2012 9168 TWh electricity
+% pacala and socolow supplementary material
+
+\vspace{3.0cm}
+
+\problem{}
+Two identical coal plants are built in two different places.  According
+to the second law of thermodynamics, which one is likely more efficient?
+
+a) A plant in Saudi Arabia
+
+b) A plant in Antarctica
+
+\solution{
+
+The second law tells us that the highest possible efficiency for a plant
+is
+
+$$ \eta = 1 - \frac{T_C}{T_H} $$
+
+Since the coal plants are identical, we expect $T_H$, the temperature of
+the boiler, to be the same.  $T_C$ however, the temperature of the
+environment, should be lower in Antarctica and the plant will be more
+efficient.
+
+}
+
+\problem{}
+Which technology emits less carbon dioxide for each kilowatt-hour of
+electricity produced?
+
+a) A coal electricity plant
+
+b) A natural gas electricity plant
+
+\problem{}
+Burning a gallon of gasoline emits 8.887 kilograms of CO2 emissions per
+gallon.  If a car get 30 miles to the gallon, how much carbon dioxide is
+emitted per mile?
+
+a) 3.3 kg CO$_2$ per mile %30/8.87
+
+b) 0.30 kg CO$_2$ per mile
+
+c) 266 kg CO$_2$ %30 * 8.87
+
+\solution{
+kg CO2/mile = 8.87 kg CO2/gallon * gallons/30 miles = 0.30 kg CO2 / mile
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 5 \hfill ENSP 330}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 6 \hfill ENSP 330}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz 7 \hfill ENSP 330}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\setcounter{problem}{0}
+{\bf Quiz Bank \hfill ENSP 330}
+
+
+\problem{}
+What are the units of the energy = mgh formula if we use kilograms, g=10
+m/sec, and h in meters?
+
+a) joules
+
+b) BTU
+
+c) kWh
+
+
+
+\problem{Extra Credit}
+SSU has approximately X square meters of roof area.  If we cover all the
+available roof area with solar panels, approximately how much solar
+power could be produced at noon on a sunny day?  Assume the panels are
+20 percent efficient.
+
+a)
+
+b)
+
+c)
+
+\solution{
+Area A.  Peak power = A * 1000 W/m2 * efficiency
+}
+
+\problem{}
+
+How much money does a acre of palm oil produce per year.  Compare to the
+carbon sequestration of that forest area at a carbon price of X.
+
+\solution{
+http://sustainability.tufts.edu/carbon-sequestration/
+
+2000-4000 pounds CO2 per acre per year
+}
+
+
+\problem{}
+Three Gorges Dam has a capacity of X GW.  If it operates at full power
+for an entire year, how much energy does it create during that year?
+
+a)
+
+b)
+
+c)
+
+\solution{
+X GW * 8760 hours  =
+}
+
+
+
+\problem{}
+If an electric car gets 100 MPGe and the grid has an intensity of X/kWh
+what is the carbon per mile?  33.7 kWh = 1 gallon of gas.
+
+
+a)
+
+b)
+
+c)
+
+
+\problem{}
+
+
+
+\solution{
+33.7 * 0.15 = 5 USD per gallon equivalent
+
+kg CO2/mile = 0.25 kg CO2 / kWh * 33.7 kWh/gallon * gallon/100 miles=
+0.089 kg CO2 / mile
+}
+
+\problem{}
+If I burn 1 kg of pure carbon (a good approximation for coal), what mass
+of carbon dioxide to I create?
+
+\problem{}
+At the current growth rate of solar, how long will it take to reach 1 TW
+(about 10\%) of the total global energy use?
+
+
+\problem{}
+How many square meters of solar panels do you need to support your share
+of the US energy consumption?
+
+
+% SJSU ENVS 119
+\problem{}
+Convert 100 Joules into kWh.
+
+% SJSU ENVS 119
+\problem{}
+How many btu are in 55 kWh?
+
+% SJSU ENVS 119
+\problem{}
+In 2005, the US used approximately 100 quads of energy annually.
+Convert this to TWh (terawatt-hours) and EJ (exa-joules).
+
+% SJSU ENVS 119
+\problem{}
+A 100-watt light bulb is left on all day and night for every day for
+a year. (a) How much energy does this consume? Based on PG\&E’s (the Bay
+Area local utility) greenhouse gas emissions factor of 0.524 lbs
+CO2/kWh, (b) how much carbon (in lbs.) is emitted over the course of a
+year?
+
+% SJSU ENVS 119
+\problem{}
+An average home consumes 450 kWh per month. What is the annual
+energy consumption expressed in (a) tons of coal equivalent (tce)? (b)
+barrels of oil equivalent (bbl)?
+
+% SJSU ENVS 119
+\problem{}
+In an article in the New York Times, Google announced their power
+use attributed to searches is 12.5 million Watts. Calculate the carbon
+footprint of a Google search based on the actual energy consumption from
+this number. (Assume 1 billion searches per day). Assume the electricity
+is consumed in PG\&E territory with a 0.524 lbs CO2e/kWh emissions
+factor.
+
+% SJSU ENVS 119
+\problem{}
+Human beings are capable of doing approximately 100 Watts of work
+per person. Diablo Canyon Nuclear Power Plant is capable of 2.35 GW of
+power. (a) How many human beings (turning a crankshaft) would it take to
+generate 2.35 GW of power? Assume that people can only work 8 hours a
+day (but get no days off!) and that 50\% of this power is converted to
+useful energy (50\% efficient). (b) If you paid these people \$8 per hour,
+how much would the electricity cost in \$/kWh per month?
+
+% SJSU ENVS 119
+\problem{}
+The Energy Policy Act of 2005 mandates the production of 36 billion
+gallons of ethanol by 2022. (a) How much energy does 36 billions gallons
+of ethanol contain (in MJ)? (b) If US drivers use the same amount of
+energy to get around, how many gallons of gasoline would this displace?
+
+% SJSU ENVS 119
+\problem{}
+The US imports 12 million barrels of oil (bbl) per day (hint: note
+that this is a rate of energy consumption because it is energy per unit
+time). (a) Convert this into power (MW or GW). (b) If the US wanted to
+electrify its auto fleet using nuclear power, how many Diablo Canyon
+nuclear plants would be needed (each can provide 2.35 GW of power).
+
+% SJSU ENVS 119
+\problem{}
+Solar energy reaches the surface of Earth at 240 W/m$^2$ (watts/square
+meter). Photovoltaic cells capture energy from the sun and make
+electricity at around 15\% efficiency. Assuming there are 300 million
+people consuming 10kW per person, roughly how much land is needed to
+generate all this electricity from solar power in square miles (mi$2$)?
+Would it fit in the Mojave Desert (25,000 mi$^2$)?
+
+
+\problem{}
+How many kilograms of coal contain the equivalent chemical energy of the worldwide energy use (474 EJ) per year?
+
+% H&K chapter 3 has good questions here
+
+\problem{}
+
+Energy density
+
+We want to compare the chemical energy in a gallon of gasoline to the
+potential energy of lifting a car?
+
+% put a picture here from an ipevo snap?
+
+A gallon of gasoline contains approximately 120 MJ of chemical energy.
+
+\problem{}
+If that energy were totally converted into the gravitational potential
+energy of the car, how high could you lift the car?  A Honda Civic has a
+weight of about 1100 kg.
+
+
+a)
+
+b) 11 kilometers
+
+c) 1.1 kilometers
+
+\solution{
+$$ PE = mgh = 120 kJ = 1100kg \cdot 9.8 m/sec^2 \cdot h $$
+$$ h = 120 kJ / 1100 kg / 9.8 = 11.0 km $$
+}
+
+
+% i'm guessing gas is around 30-40 MJ/kg
+
+% a gallon of water is about 4kg so gallon of gas is ~150 MJ?
+
+% wikipedia has 114 kBtu * 1055 J/BTU gives about 120 MJ per gallon
+
+
+\problem{Nuclear Capacity Factor}
+nuclear electricity per year 2700 TWh = 2700E12 Wh = 2.7E15 Wh
+
+nuclear capacity 370 GW
+
+370E9 * 8760 = 3.2E15 Wh
+
+Suggests a world-wide capacity factor of 2.7/3.2 = 84\%
+
+
+\problem{}
+How much energy is contained in a power bar?
+
+
+\problem{}
+
+If I burn one kilogram of coal underneath a kilogram of water and all
+the heat stays in the water, how much will the temperature rise?
+
+a)
+b)
+c)
+
+\problem{}
+How much energy in joules is used to blow dry your hair.  Assume a hair
+dryer consumes 1000W.
+
+a) one second * 1000W
+b) 5 minutes * 1000W
+c) one hour * 1000W
+
+
+http://www.uh.edu/~jbutler/physical/chap25mult.html
+
+\problem{}
+Imagine that all the coal electricity in the US was created at a single
+plant?  Also imagine that the coal plant is served by a single train
+line.  How many coal cars must be unloaded per second to supply the
+necessary amount of coal?
+
+\solution{
+}
+
+\problem{}
+What volume of calcium carbonate would it take to sequester a year's
+worth of energy emissions?
+
+\problem{}
+What is the carbon per degree day for air conditioning?  Heating?
+
+\problem{}
+Stock and flow analogies for water and flow, carbon rates and stocks,
+power and energy.
+
+\problem{}
+Calculate the water needs per kWh for a power plant using some
+simplifying assumptions.
+
+\problem{}
+On twitter an infographic claimed a gallon of gasoline is 277K peanut
+butter cups worth of energy.  Do you agree?
+
+\solution{
+Hersheys site says 105 calories each (210 per package).  One calorie is
+4.2 joules one kcal is 4200 joules.  Each one is about 400 kJ or 0.4 MJ.
+This is about 300 in a gallon of gas
+}
+
+\problem{}
+According to the press democrat in Oct 2014, Sonoma Transit is spending
+about 311 K USD on free bus travel for students and veterans.  If so
+many kg of carbon dioxide are avoided by these trips, what is the
+conserved cost of carbon.
+
+\problem{}
+
+Find the breakeven leak rate for methane and global warming.
+
+\solution{
+Ingraffea says 6-7.5 percent being leaked in paper discussed in Years of
+Living Dangerously.
+
+\problem{}
+
+What is the per acre income from an average windfarm?
+
+\problem{}
+
+What is the per acre income from a solar farm?
+
+\problem{}
+
+What percentage of natural gas is being flared?
+
+\problem{}
+
+Carbonated soft drinks contain about 2.3 g of CO2 per 16oz can.  How
+many cans are needed to offset your carbon emissions for today?
+
+}
+
+\end{document}
