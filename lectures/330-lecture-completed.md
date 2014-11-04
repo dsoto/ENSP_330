@@ -133,6 +133,7 @@
 
 
 <!-- - energy technologies have positive and negative effects -->
+<!-- - announcements -->
 <!-- - logistical questions -->
 <!-- - moodle access -->
 
@@ -485,6 +486,8 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - How many persons in the US?
 
 
+
+<!-- http://www.eia.gov/tools/faqs/faq.cfm?id=23&t=10 -->
 ## ENSP 330, Lecture 4, Energy and Power
 ### Professor Daniel Soto, Sonoma State University
 ### 28 Aug 2014
@@ -1081,14 +1084,14 @@ $$
 
 ## Fuel Density
 
-| Material        | Energy Density (MJ/kg) |
-|-----------------|--------|
-| Gasoline        | 45     |
-| Crude oil       | 42--44 |
-| Natural gas     | 33--37 |
-| Coal            | 12--31 |
-| Wood            | 14--16 |
-| Lithium Battery | 0.5    |
+| Material| Energy Density (MJ/kg) |
+|--------|-----|
+| Gasoline  | 45     |
+| Crude oil | 42--44  |
+| Natural gas | 33--37 |
+| Coal | 12--31 |
+| Wood | 14--16 |
+| Lithium Battery | 0.5 |
 
 ## Petroleum prices at record highs
 ![](../figures/gas_prices.png)
@@ -1403,6 +1406,33 @@ asking the question is the most important step
 ![](../figures/L2_von_meier/Slide20.jpg)
 
 
+
+
+<!--
+## Gross Domestic Product
+
+
+## Energy intensity
+
+## Decoupling of energy intensity and GDP
+
+## Primary Energy
+
+## Secondary Energy
+
+## End-use Energy
+-->
+
+
+
+
+
+
+
+
+
+
+
 ## Reading Discussion
 - Lovins, Energy Strategy: The Road Not Taken?
 
@@ -1439,6 +1469,15 @@ article notes
 ## Did Lovin's prediction come true?
 [Follow up to road not taken](http://softpathinnovations.com/SoftPath/About_Us_files/Energy%20Strategy-%20The%20Road%20Not%20Taken.pdf)
 ![](../figures/amory1976.jpg)
+
+
+
+
+
+
+
+
+
 
 
 ## ENSP 330, Lecture 10, Nuclear Power
@@ -1616,6 +1655,16 @@ value conflicts
 - how would you investigate his reasons for yourself?
 - what would it take to scale up?
 -->
+
+
+
+
+
+
+
+
+
+
 
 
 ## ENSP 330, Lecture 11, Hydropower
@@ -2004,4 +2053,980 @@ $$ P = \frac{1}{2}\rho A v^3 $$
 
 
 
+
+## ENSP 330, Lecture 13, Solar
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 30 Sep 2014
+
+## Announcements
+
+<!-- acknowledge kelsey contributions -->
+<!-- what are old solar slides -->
+<!-- 330 -->
+<!-- 438 -->
+<!-- rational middle solar video? -->
+<!-- amory lovings house? -->
+
+<!--
+relate this level of power to 1kW loads
+toaster, hair dryer
+-->
+
+
+<!--
+note similarities to coal and gas plants
+-->
+
+## Learning Objectives
+- Physics and environmental impacts of solar energy
+- Understand differences between types of solar energy
+
+## Review
+
+# Solar Energy
+
+## Solar energy
+- physics
+- environmental aspects
+
+## The journey of a photon
+- Created in the core of the sun by nuclear fusion reaction
+- Millions of years to bounce out to surface of sun
+- Zips to earth in about 8 minutes
+- Passes through the atmosphere
+- Strikes a solar panel and dislodges an electron in the PV panel
+- Electron is collected and delivered to the grid
+
+## Solar energy
+- Peak solar power about 1000 watts per square meter
+- Solar power is usually measured for this level of sunlight
+- However, sun is not always this bright
+- Our sunniest locations get about 5.5 kWh per square meter per day of sun energy
+
+## Electromagnetic Spectrum
+![](../figures/electromagnetic-spectrum.jpg)
+
+## Blackbody Spectrum
+![](../figures/blackbody-spectrum.png)
+
+## Solar Spectrum
+![](../figures/Solar_Spectrum.png)
+
+## Types of solar energy
+- Solar Thermal
+    - Radiant energy to heat
+- Solar Photovoltaic
+    - Radiant energy to electricity
+
+## Types of solar electric plants
+- Photovoltaic
+- Power tower
+- Parabolic
+
+## Solar Photovoltaic
+- Converts sunlight directly to electricity
+- Commercially available panels have 15% -- 20% efficiency of solar
+  energy in to electrical energy out
+
+
+# Photovoltaic electricity plants
+
+
+## Agua Caliente
+- Highest power photovoltaic power facility in 2013
+- Yuma, Arizona
+- 397 MW peak production
+- 25 year power purchase agreement
+
+## Agua Caliente Data
+[Agua Caliente Monthly Production Data](http://www.eia.gov/electricity/data/browser/#/plant/57373)
+
+
+## Agua Caliente satellite
+- Palomas Road, Dateland AZ
+
+## Solar Photovoltaic
+
+### Advantages
+- Low operating cost
+
+### Disadvantages
+- High initial cost
+
+<!--
+agua caliente has a
+$967 million loan guarantee from DOE?
+-->
+
+<!--
+how many have burned ants with a magnifying glass?
+-->
+
+# Solar thermal plants
+
+## Parabola
+![](../figures/solar_parabola.png)
+
+## Concentrating solar power trough
+![](../figures/solar_trough.png)
+
+
+## SEGS
+- Solar Energy Generating Systems
+- First solar thermal plants
+- Daggett, CA
+- Built in 1984 and 1985
+
+<!--
+solar mineral oil tank explosion
+in february 1999
+-->
+
+
+## Ivanpah
+- 377 MW
+- Concentrating solar thermal power towers
+- Near Las Vegas, Nevada
+- No thermal storage
+- Natural gas backup
+
+## Ivanpah solar plant
+![](../figures/Ivanpah_Solar_Power_Facility_Online.jpg)
+
+## Solar power tower
+![](../figures/SolarThermalPowerTower.png)
+
+## Ivanpah google maps
+- Ivanpah
+
+## Solar Thermal
+
+### Advantages
+- Uses well established thermal electricity technology
+
+### Disadvantages
+- Needs water, scarce in sunny climates
+
+## Developing world solar
+- Phone charging
+- Water pumping
+- Lighting
+
+## Solar Lantern
+![d.light](../figures/dlight_s20.jpg)
+
+
+## Solar Microgrid Uganda
+![Photo: Matt Basinger](../figures/uganda-install-1.pdf)
+
+## Solar Microgrid Uganda
+![Photo: Matt Basinger](../figures/uganda-install-2.pdf)
+
+## Uganda CFL lighting
+![](../figures/uganda-end-use-1.pdf)
+
+## Uganda CFL lighting
+![](../figures/uganda-end-use-2.pdf)
+
+## Solar concentration
+![](../figures/guasumba_focusing.jpg)
+
+## Solar water heater
+![](../figures/guasumba_hot_water.jpg)
+
+## Parabolic Concentrator
+![](../figures/guasumba_parabolic.jpg)
+
+## Parabolic Concentrator Thermal Storage
+![](../figures/guasumba_heat_storage.jpg)
+
+## Parabolic Concentrator
+![](../figures/guasumba_parabolic_2.jpg)
+
+## Rural solar panel
+![](../figures/rural_solar_installation.jpg)
+
+## Solar photovoltaic water pumping
+![](../figures/solar_pumping.png)
+
+# Global Solar Energy
+
+## Global solar resource
+![](../figures/3tier_solar_irradiance.pdf)
+
+## Solar Installed Capacity
+![IEA PVP2012](../figures/solar-installed-capacity.png)
+
+## What scale is needed?
+- World primary energy consumption approximately 500 EJ
+- Power = Energy / Time
+- Joules / seconds = Watts
+$$ P = 500 EJ / 3.15 \cdot 10^{7}\ seconds = 16 TW $$
+
+## Photovoltaic learning curve
+![](../figures/learning_curve.png)
+
+## Levelized cost
+- Open Energy Information website
+- Transparent cost database
+- http://en.openei.org/apps/TCDB/
+- Learning curve continues to lower costs
+
+## Solar Freakin Roadways
+[Solar Roadways Video](https://www.youtube.com/watch?v=qlTA3rnpgzU)
+
+
+## ENSP 330, Lecture 14, Electricity
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 02 Oct 2014
+
+## Announcements
+- Nicole Bravo
+- [Students Free on Sonoma County Transit](http://www.pressdemocrat.com/home/2901985-181/college-students-veterans-to-get)
+- Reading assignments
+- Outline Feedback due Tuesday Oct 7th
+- Problem Set 3 due Thursday Oct 9th
+- Moodle and syllabus
+- Outside project partners
+
+<!-- - did I announce homework makeup? -->
+
+<!--
+- basics
+- current system
+- possible changes
+- policy mechanisms
+-->
+
+## Learning Objectives
+
+## Review
+- Primary and Secondary energy
+- We are moving from sources of energy to uses of energy
+
+## Primary Energy
+- Coal
+- Oil
+- Natural gas
+- Sunlight
+- Hydropower
+- Wind power
+- Which of these are used to create secondary energy?
+
+## Secondary Energy
+- Electricity is an energy carrier
+- Gasoline
+
+## Electricity is different than other energy carriers
+- Invisible
+- Indistinguishable
+    - Once you put power on a grid, you cannot trace its path
+- Immediate
+    - Electricity is very difficult to store
+    - Moving electricity is inefficient
+
+## Grid
+There is a complex system that distributes our electricity from the
+point of production to the point of consumption
+![Masters: REEPS2](../figures/grid_masters.pdf)
+
+## Frequency control
+This supply and demand must be balanced perfectly at all times or the
+frequency will change.
+![Masters: REEPS2](../figures/supply_demand_bathtub.pdf)
+
+## Environmental Impact of Electricity
+- In US, one-third of carbon emissions are from electricity
+- A large fraction of fresh water withdrawals are for power cooling
+- Pollutants from burning create toxic by-products
+
+
+## Carbon intensity of electricity
+The amount of carbon emitted per unit of electrical energy changes
+depending on the state.
+![EPA Egrid Data](../figures/egrid.pdf)
+
+## World Generation
+![](../figures/Annual_electricity_net_generation_in_the_world.pdf)
+
+<!--
+- dominated by fossil
+- renewables dominated by hydropower
+-->
+
+## Thermal Electric Efficiency
+The second law of thermodynamics tells us that much of the chemical
+energy of fuel is lost as heat.
+![](../figures/electricity_grid_efficiency.pdf)
+
+## Quality of energy
+- Electric energy is very high quality
+- Electric conversion is inefficient
+- It is best used for high quality tasks
+- Are we better off burning natural gas to heat our homes or burning it
+  at a plant, converting to electricity, and then heating with
+  electricity?
+
+<!--
+0.05% solar power
+-->
+
+## World Electricity Prices
+![](../figures/electricprices.png)
+
+## World Oil Price
+Oil prices have fluctuated by a factor of 4-5 over the last decade.
+![](../figures/World_Oil_Prices_1970-2008.PNG)
+
+## U.S Electricity Price
+Electricity prices have only fluctuated by about 25% over the last
+decade.
+![](../figures/US_Electricity_Prices_1970-2008.PNG)
+
+<!--
+what are some plausible reasons for the difference in oil and
+electricity volatility?
+-->
+
+## What do we use electricity for?
+- In American homes:
+- Air conditioning 22%
+- Lighting 14%
+- Water Heating 9%
+- Refrigeration 9%
+- Space heating 9%
+- Electronics 7%
+- Computers 4%
+- Cooking 2%
+
+## Global electricity
+- Approximately 20% of population has no access to electricity
+
+## African Proposed Grid
+![](../figures/african-power-system.png)
+
+## United States Grid
+![](../figures/UnitedStatesPowerGrid.jpg)
+
+## Demand
+![](../figures/stacked_demand.pdf)
+
+## Efficiency
+- Do we build more plants to meet demand?
+- Can we use efficiency to avoid demand?
+
+## Distributed generation
+- Can we create more generation without adding transmission?
+- Can we make the electricity where we need it?
+
+## Capacity Factor
+- Related to the fraction of time that a plant produces electricity
+- Coal and nuclear, about 80% or higher
+- Renewables, about 20%
+
+
+## What fraction of carbon emissions?
+- Electricity is responsible for 33% of United States carbon dioxide
+  emissions
+
+## Rational Middle Video
+[Rational Middle Electricity Video](http://rationalmiddle.com/movie/the-future-of-renewables-moving-towards-a-cleaner-energy-mix/)
+
+## ENSP 330, Lecture 15, Heat
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 07 Oct 2014
+
+<!-- kelsey hand back quizzes -->
+
+## Announcements
+- Outline feedback due
+<!-- stress importance of responding -->
+- German Energiewende Event
+<!-- print out event flyer from email -->
+- Climate Corps
+- Years of Living Dangerously
+- Points totals
+
+## Quiz Review
+
+## Learning Objectives
+- Physics of heating and cooling
+- Learn how we heat and cool our homes and buildings
+
+## Heat transfer
+- Conduction
+- Convection
+- Radiation
+
+## Home Heat Transfer
+- Like a cup of coffee, your warm house loses heat to the environment
+- Our furnaces and bodies add heat
+
+## Home cooling
+- We cool our home but heat leaks in from outside
+
+## Conduction
+- Insulation
+
+## Convection
+- Weatherstripping
+- Passive ventilation
+
+## Radiation
+- White roofs
+- Advanced window coatings
+- Passive solar heating
+
+
+## Heating, Cooling, Ventilation
+These devices consume energy to heat and cool our buildings
+
+- Combustion
+- Heat pumps
+- Fans
+
+## Different climates have different demands
+- Cold winters
+- Humid summers
+
+## Heating energy
+- energy used = leakiness of house * temperature difference / efficiency
+  of heaters
+
+## Sources of heat
+- Combustion
+- Sun
+- Human metabolism
+- Environment
+
+## Heat capacity
+$$ Q = m C \Delta T $$
+
+Also called sensible heat
+
+The energy to heat a material is the product of the mass, the heat
+capacity, and the change in temperature
+
+## Calorie and BTU
+This is how we define the calorie and the BTU
+
+A calorie (4.2 J) of energy raises one gram of water by one degree celsius
+
+A BTU (1055 J) raises one pound of water by one degree Fahrenheit
+
+
+
+## Rational Middle
+[Rational Middle Squeezing The Watt](http://rationalmiddle.com/movie/squeezing-the-watt-conservation-and-efficiency/)
+
+## Energy Services
+- Heating
+- Refrigeration
+- Transportation
+
+## Conservation and Efficiency
+- Conservation is consuming less of a service
+- Efficiency is getting more of the service for less
+
+
+
+## ENSP 330, Lecture 16, Transportation
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 09 Oct 2014
+
+## Announcements
+- Midterm Thursday 16 Oct 2014
+- Review Tuesday 14 Oct 2014
+
+## Learning Objectives
+- Physics of transportation
+- Understand current system of transportation
+- Consider future improvements
+
+## Transportation reading
+- [Natural Capitalism Chapter 2](http://www.natcap.org/sitepages/pid56.php)
+
+## Guiding question
+- How do we get what we want (mobility, interaction) with less cost and
+  environmental impact?
+
+## Energy and Power
+- Why do cars consume energy?
+- What are the energy conversions?
+
+## Energy of car use
+- Kinetic energy of the passenger
+- Kinetic energy of the car
+- Braking friction
+- Mechanical friction (tires, bearings)
+- Air friction and displacement
+
+
+
+<!-- http://www.ipcc.ch/publications_and_data/ar4/syr/en/figure-2-1.html -->
+
+## Context
+- How much does transportation contribute to climate change?
+
+## Carbon Dioxide Equivalent
+- Different gasses capture different amounts of heat
+- For example methane traps much more than carbon dioxide
+- Just like our energy units, we can use an equivalent amount CO~2~eq
+
+
+## Warming contribution (CO~2~eq) by gas
+![](../figures/IPCC-2007-TS2b.png)
+
+## Warming contribution (CO~2~eq) by sector
+![](../figures/IPCC-2007-TS1b.png)
+
+
+## Oil use is for Transportation
+- Transportation is the largest consumer of petroleum
+
+<!--
+get the IPCC graph on carbon by sector and place here
+-->
+
+## Energy consumption
+| Transport | Efficacy (kWh/100 person km) |
+|-----------|------------------------------|
+| Car     |   68 |
+| Bus     |   19 |
+| Rail    |    6 |
+| Air     |   51 |
+| Sea     |   57 |
+| Bicycle |  2.4 |
+
+Source: MacKay
+
+
+## Rational Middle Video
+[Getting to Go](http://rationalmiddle.com/movie/getting-to-go-tackling-the-future-of-transportation/)
+
+## Percent of Oil Consumption by Vehicle Type
+![Rational Middle](../figures/RMES_Transportation-Consumption-by-Vehicle-Type.jpeg)
+
+## CAFE Standards
+- Corporate Average Fuel Economy
+
+| Year | Passenger Car Milage |
+|------|--------|
+| 1978 | 18.0   |
+| 1990 | 27.5   |
+| 2010 | 27.5   |
+| 2014 | 28/36  |
+| 2020 | 36/49  |
+| 2025 | 46/60  |
+
+Source: Wikipedia/NHTSA
+
+## Brainstorm session
+- How do we reduce transportation emissions?
+
+## Electric cars
+- What impacts are reduced?
+- What impacts stay the same?
+
+## Mass Transit
+- What impacts are reduced?
+- What impacts stay the same?
+
+## Telecommuting
+- What impacts are reduced?
+- What impacts stay the same?
+
+<!--
+- 13 million barrels per day for tran
+- 60% vehicles, 16% freight, 10% aircraft, 2% rail
+- CAFE standards
+- 35 mpg up to 50 mpg
+
+
+- getting to go
+- chapter 1, where we are
+- chapter 2,
+- chapter 3, compressed natural gas
+- chapter 4, electric motor
+- chapter 5, where are we going
+
+- break into groups
+- are efficiency regulations good?
+- how do we avoid trips?
+- what are the other benefits of CAFE standards?
+- transitions - what happens to the incumbents, who benefits?, who
+  loses?
+
+- efficiency vs avoiding miles
+
+- car technology - technological solution
+- mass transit - social solution
+
+-->
+
+
+## ENSP 330, Lecture 17
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 14 Oct 2014
+
+<!--
+# TODO
+- add outline 2 moodle thing
+-->
+
+## Announcements
+- Sustainability Day Passports
+- [Water Resources Institute](http://wri.csusb.edu/epa-csuInternshipProg.html)
+- Wednesday night films for credit
+- Anyone watch Disruption?
+
+## Learning Objectives
+- Review Semester
+- Prepare for midterm
+
+## Midterm
+- First hour cheat sheet only
+- Second hour open notes
+- Closed internet (personal cloud storage excepted)
+
+## Transportation reading
+- SFpark Real time parking prices
+- London congestion charge
+- Social justice and equity concerns
+
+## Conference
+- We Care Solar
+- Battery rental programs
+
+
+
+## Review
+<!-- look at syllabus so far -->
+<!-- what are the main themes -->
+<!-- make list of conversions in google doc? -->
+<!-- how is a solar pv and solar thermal different -->
+<!-- how is nuclear and coal different? -->
+
+
+
+
+## ENSP 330, Lecture 18, Midterm
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 16 Oct 2014
+
+## Announcements
+- Midterm today
+
+## ENSP 330, Lecture 19, Transitions
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 21 Oct 2014
+
+## Announcements
+- Model UN class Professor Boaz
+- [Water Resources Institute](http://wri.csusb.edu/epa-csuInternshipProg.html)
+- Wednesday night films for credit
+- Anyone watch Disruption?
+- Sustainability Day
+- Sustainability Day Passport
+
+## Upcoming Assignments
+- Tue 21 Oct 2014, Project: Outline 2
+- Thu 23 Oct 2014, Homework: HW1M
+- Thu 23 Oct 2014, Reading: Pacala and Socolow Wedges
+- Tue 28 Oct 2014, Homework: HW2M
+- Tue 28 Oct 2014, Reading: HK-09 Global Warming and Thermal Pollution
+
+
+## SSU Energy Facts
+- SSU uses 16.5 million kWh electricity per year (Barron, 2013)
+- SSU pays from 0.115 to 0.135 USD per kWh
+- SSU uses 800,000 therms of natural gas per year
+- SSU pays 0.85 USD per therm
+- PV solar arrays on campus Salazar 96 kWpeak, Rec Center 57 kWpeak, 3 kWpeak ETC (Jenks, 2013)
+- SSU has 230,000 kWh per year solar production on campus
+
+## Guiding Questions
+- What transitions do we want to create in our energy system?
+- Why is a transition necessary?
+- What are the goals of this transition?
+- What are the tools we have to create it?
+- What constraints to we have?
+
+<!--
+# why
+- climate
+- health
+- water impacts
+# goals
+- reduce carbon emissions
+- reduce harmful pollutants
+- reduce health impacts
+# tools
+- consumer choice
+- lifestyle decisions
+- 6% per year
+- policy
+- AB32 Assembly Bill 32 Global Warming Solutions Act of 2006
+- reduce CA GHG to 1990 levels by 2020
+- California Energy Code
+- elections
+# constraints
+- politics
+- economic growth
+- existing infrastructure
+-->
+
+## ENSP 330, Lecture 20, Transitions
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 23 Oct 2014
+
+## Announcements
+- Syllabus changes
+- [Sonoma Clean Power communications](https://sonomacleanpower.org/about-scp/job-announcements/)
+- [CPUC internships](http://www.cpuc.ca.gov/PUC/energy/Resources/Ed_internjobs.htm)
+- Sustainability Day (metrics, breadth vs depth)
+
+## Learning Objectives
+- Understand the potential for existing technologies to solve energy
+  problems
+
+<!-- we are laying the groundwork for you to have real influence -->
+<!-- this means increasing your sophistication -->
+
+## Pacala and Socolow
+- Authors demonstrate solving climate problem with existing technologies
+- Hoping to settle debate on whether current technologies are sufficient
+- This is clearly stated in the introduction
+
+
+## Pacala and Socolow
+- What carbon level do the authors want us to stay under?
+- Describe a wedge in your own words
+- Which of the wedges suggested is most appealing to you and why?
+- This paper is ten years old now, are there any new wedges we could
+  add?
+
+<!-- to understand this model, we look at stocks and flows -->
+
+## Levels vs rates of emissions
+- Bathtub model
+- Stocks and flows
+- Flow is the bathtub faucet (and drain)
+- Stocks is the level of the bathtub water
+
+## Bathtub model of carbon flows
+![CMI Princeton](../figures/CMI-bathtub-flows.pdf)
+
+## Bathtub model of carbon stocks
+![CMI Princeton](../figures/CMI-bathub-stocks.pdf)
+
+## Carbon dioxide stabilization
+![Robert A. Rohde / Global Warming Art](../figures/CO2-stabilization-gwa.png)
+
+## Carbon Emissions Trajectories
+![Pacala and Socolow, Figure 1A](../figures/wedges1A.pdf)
+
+## Simplified Trajectories
+![Pacala and Socolow, Figure 1B](../figures/wedges1B.pdf)
+
+
+## Carbon levels
+
+| Time period   | Carbon concentration (ppm) |
+|---------------|----------------------------|
+| Preindustrial | 280                        |
+| 2004          | 375                        |
+| 2014          | 400                        |
+
+We hope to remain under 500 ppm to avoid serious disruption.
+
+## Carbon rates
+- 7 billion tons of carbon per year
+- (7 GtC/year)
+
+## What is Business as Usual (BAU)?
+- Prediction by using historical rates
+- 1.5% annual emissions growth
+
+## Wedges
+A wedge is a technology that reduces emissions by 1 GtC/year within 50
+years.
+
+What are the units of area of a wedge?
+
+## How do we calculate if a wedge is feasible?
+- We can create a sample wedge from the conversion of all coal plants to
+  natural gas
+- How do we calculate the reduction in emissions from this change?
+
+
+## ENSP 330, Lecture 21, Energy and Climate
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 28 Oct 2014
+
+## Announcements
+- [CPUC internships](http://www.cpuc.ca.gov/PUC/energy/Resources/Ed_internjobs.htm)
+- [Transportation Scholarships](http://www.wtsinternational.org/sanfrancisco/2014-2015-chapter-scholarship-applications-released-/)
+- [Mickey Leland Energy Fellowship](http://energy.gov/fe/about-us/students-and-teachers/mickey-leland-energy-fellowship)
+- I'm looking for teaching assistant for ENSP 200
+
+## Upcoming Deadlines
+
+
+## Learning Objectives
+- Understand mechanisms and consequences of climate change
+
+## Climate science questions
+- Is the climate changing?
+- Is human activity responsible?
+- What will the future impacts be?
+- What can we do?
+
+
+
+
+# Climate Change Mechanism
+
+## Energy Balance
+![](../figures/solar_energy_budget.png)
+
+## Radiation Balance
+- The earth absorbs the sun's radiation at visible wavelengths
+- The earth radiates radiation at longer wavelengths
+
+## Blackbody Spectra
+![](../figures/blackbody-spectrum.png)
+
+## Carbon dioxide
+- Increases in the carbon dioxide in the atmosphere are observable
+- Carbon is attributed to fossil fuels through radiocarbon measurements
+
+## Keeling Curve
+![IPCC AR5](../figures/atmospheric-co2-ipcc.pdf)
+
+## CO~2~ Variation
+![Robert A. Rohde / Global Warming Art](../figures/CO2-variations-gwa.png)
+
+## Hockey stick graph
+![](../figures/mbh1998.pdf)
+
+
+## Global temperature
+![World Meteorological Organization](../figures/global-temperature-WMO.png)
+
+## "Complete" Temperature Record
+![Robert A. Rohde / Global Warming Art](../figures/paleotemps-wikipedia.png)
+
+
+
+## Historical Temperature Data
+- How do we know the ancient temperatures?
+- We can measure the effects of temperatures through proxy measurements
+
+## Proxy data
+- Ice
+- Oxygen-18
+- Pollen
+- Volcanic ash
+- Tree rings
+
+## Questions
+- How does current climate compare to past climate?
+- Is our warming unusual or related to natural variation?
+- What if it has been this warm before without anthropogenic CO2?
+
+
+
+## Sea Level Measurements
+![](../figures/global-sea-level.png)
+
+
+## Observed surface temperature changes
+![IPCC AR5](../figures/global-temperature-change-ipcc.pdf)
+
+## Ocean Acidity
+![IPCC AR5](../figures/ocean-co2-ph-ipcc.pdf)
+
+## Sea Level Projections
+![Robert A. Rohde / Global Warming Art](../figures/sea-level-projections-gwa.png)
+
+## Vulnerable Areas of US
+![Robert A. Rohde / Global Warming Art](../figures/sea-level-risks-gwa.png)
+
+## Future Impacts
+- Extrapolation
+- Linear trends
+
+## Current trends
+- Temperature
+- Sea level
+
+
+<!--
+http://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change?language=en
+-->
+
+# Climate Change Consequences
+
+## Climate change effects
+- Mean temperature change of a few degrees
+- Sea Level rise
+
+
+
+## Climate Dice
+- Small changes in mean temperature (1-2 C) don't describe increased
+  extremes
+- Distributions suggest much more warm weather
+
+## Distributions
+- When we shift the average temperature we also shift the extremes
+- Cold extremes become less likely
+- Hot extremes become more likely
+
+## Climate dice
+- James Hansen
+- We can think of a weather pattern as a given die
+- Climate change loads the die and changes the likelihood of
+  different results for each roll of the die
+
+## Warm anomalies
+- A shift in the average temperature increases the likelihood of very
+  hot weather
+
+## Summer temperature anomalies
+![](../figures/hansen-shifting-anomalies.png)
+
+
+# How will we respond?
+
+## Insurance
+- Even though risk is uncertain, we protect ourselves.
+- Auto insurance
+- Fire insurance
+
+## What will the future impacts be?
+- Predictions based on computer climate models
+- Confidence in models is increasing
+
+## What can we do?
+- Mitigation
+- Adaptation
+- (Geoengineering)
+
+## Mitigation
+- Actions that seek to reduce carbon emissions and avoid climate change
+
+## Adaptation
+- Actions that seek to minimize the affects of climate change
+
+
+## Benefits and costs
+- To pursue a plan, the benefits should outweigh the costs
+
+## Learning more
+- GEOG 352 Climate Change and Society
+- GEOG 372 Global Climate Change
+- ECON 381 Natural Resource and Environmental Economics
+- Economics of Climate Change Experimental Class?
 
