@@ -21,7 +21,7 @@ problem and that I was practicing with my calculator
 to be sure I got it correct in the future.
 
 In another problem, I might have misunderstood the difference between
-power and energy or series and parallel.  In this case, I would say that
+power and energy.  In this case, I would say that
 I had a conceptual problem distinguishing between power and energy and
 that I've been studying the difference and creating a list of examples
 of each.
@@ -34,7 +34,8 @@ stress in this class, the method you used to get an answer is as
 important as the answer.
 
 Please make this easy to evaluate by clearly indicating which problem you are
-describing and what your original score was.
+describing and what your original score was.  Typeset your response and
+staple it to your original problem set and turn it in.
 
 <!--
 clearly indicate how many points you lost and the points you are
