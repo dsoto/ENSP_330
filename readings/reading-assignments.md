@@ -59,4 +59,5 @@ relevant to the class material.
 - [embedded food energy michigan](http://css.snre.umich.edu/css_doc/CSS00-04.pdf)
 - [black lung evidence suppression](http://www.publicintegrity.org/2013/10/29/13585/coal-industrys-go-law-firm-withheld-evidence-black-lung-expense-sick-miners)
 - [mulvaney PV pollution](http://spectrum.ieee.org/green-tech/solar/solar-energy-isnt-always-as-green-as-you-think)
+- [Sonoma County GHG Action Plan](http://www.sonoma-county.org/gs/pdf/GHG_Action_Plan.pdf)
 
