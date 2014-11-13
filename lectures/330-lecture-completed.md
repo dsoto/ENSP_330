@@ -3196,3 +3196,86 @@ http://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change?l
 
 
 
+
+## ENSP 330, Lecture 24, Energy and Human Health
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 06 Nov 2014
+
+## Announcements
+- Added link to lecture slides
+- First draft feedback due tonight
+- Signup sheet
+
+## Learning Objectives
+- Understand pollution effects on human health
+- Climate effects on human health
+
+## Review
+- The majority of world energy is created by burning carbon
+- Burning carbon creates carbon dioxide, particulates, and other
+  pollutants
+
+## Particulate effects
+- Particulate or soot
+- Small size allows penetration deep in lungs
+- Causes asthma, bronchitis
+- PM10 particles between 2.5 and 10 microns in diameter
+- PM2.5 particles less than 2.5 microns
+
+## Particulate
+![EPA](../figures/pm25-EPA.jpg)
+
+
+## Biomass cooking
+- 2 in 5 persons rely on biomass for cooking
+- Biomass cooking exposes women and children to smoke
+
+## Biomass burning in developing world
+![](../figures/three_stone-1.jpg)
+
+## Possible solutions
+- Clean cookstoves are engineered to burn more cleanly
+- Changing to natural gas or biogas would avoid particulate
+
+## Flame-based lighting
+![Kerosene Lamp Pelengana, Mali](../figures/pelengana-lantern.jpg)
+
+## Premature deaths from smoke and disease
+![IEA WEO 2011](../figures/smoke-deaths.pdf)
+
+
+## Coal particulates
+- Burning coal creates particulate
+- Mining coal also exposes humans to dangerous particulates
+
+## Black lung
+- Pneumoconiosis
+- Prolonged exposure to coal dust causes scarring of lung tissue
+- After a period of decreased incidence of black lung, we are back to
+  high levels of diagnosis
+- Black lung can be prevented through dust control technologies
+
+## Black lung evidence suppression
+- Investigations have revealed a pattern of withholding evidence in
+  black lung cases
+
+## Heat wave deaths
+- CDC reports that heat waves are the leading cause of weather-related
+  deaths
+- Currently about 660 people die each year from heat waves
+- A warming climate will mean more heat waves and higher death rates
+- Estimates range from 2x to 10x increases
+
+## NAACP coal blooded
+- Report surveyed almost 400 coal plants and graded them based on
+  human health impacts and social justice
+
+## Discussion
+- What was your reaction to the reading?
+- What actions do you believe we should take?
+- Did anyone look at the full report for more detail?
+
+## Amory Lovins
+- TED talk
+- http://www.ted.com/talks/amory_lovins_a_50_year_plan_for_energy
+
