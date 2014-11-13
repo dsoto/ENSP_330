@@ -3030,3 +3030,169 @@ http://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change?l
 - ECON 381 Natural Resource and Environmental Economics
 - Economics of Climate Change Experimental Class?
 
+## ENSP 330, Lecture 22, Energy and Water
+### Professor Daniel Soto, Sonoma State University
+### Thursday, 30 Oct 2014
+
+## Announcements
+- Example project on Moodle
+- Quiz today
+- [Transportation Competition](http://fuelsinstitute.org/2014FutureofTransportationCaseCompetition.shtm)
+
+## Learning Objectives
+- Sea level rise
+- Energy and cooling water resources
+
+## Fixed and growth mindsets
+- [Dweck, Mindsets](https://www.youtube.com/watch?v=WvIBG98wj0Q)
+- [Dweck, Power of Yet](https://www.youtube.com/watch?v=J-swZaKN2Ic)
+
+<!--
+- water is cheap
+- consevration doesn't save much money
+- what about avoided infrastructure costs?
+-->
+
+## Energy and water
+- Too many intersections to cover today
+- Spills: Oil spills, coal ash spills, chemical spills
+- Cooling: Water is needed to cool our power plants
+- Pumping: Energy is needed to move our water
+
+# Energy and Water: Spills
+
+## Elk River Spill
+![](../figures/elk-river-spill-map.jpg)
+
+## Elk River Spill
+- Coal processing chemical leaks into river and contaminates water
+  supply
+- 300,000 Charleston area residents without water January 2014
+
+## Kingston Ash Spill
+![](../figures/kingston-spill.jpg)
+
+## Kingston Fossil Plant
+- 1 billion gallons of coal ash slurry released in December 2008
+- 300 acres of land covered by ash
+- These coal ash ponds exist around many coal plants
+
+## Opportunity
+- Can you create monitoring systems and laws that better protect our
+  water and land from spills?
+- Can we use coal ash for a useful purpose like concrete?
+- Can we reduce our use of coal?
+
+# Energy and Water: Cooling
+
+## Energy and Water - Cooling
+- Power plants rely on water for cooling
+- 41% of the freshwater we withdraw is used for power plants
+- Some plants take cold water from rivers and return warmer water to the
+  river, disrupting wildlife
+- When this is too warm, we must shut down plants
+
+## Hot weather shuts down power plants
+![](../figures/water-energy-ucs.png)
+
+# Energy and Water: Pumping
+
+## Energy and Water - Pumping
+- 20% of California electricity use for water-related use
+- 32% of natural gas used for water-related use
+
+<!-- - we cut hot water with cold water -->
+<!-- - we move water up a mountain -->
+
+##
+![](../figures/water-related-energy-use-kqed.jpg)
+
+
+## Discussion
+- What intersections and solutions exist?
+- What barriers exist?
+
+
+## ENSP 330, Lecture 23, Energy and Agriculture
+### Professor Daniel Soto, Sonoma State University
+### Tuesday, 04 Nov 2014
+
+## Announcements
+- Presentation Signups
+- Reading assigment Thursday
+- Project feedback due Thursday
+
+## Learning Objectives
+- Understand links between energy, climate, and agriculture
+
+## Energy related to US Food Production
+![Heller and Keoleian](../figures/food-energy-michigan.png)
+
+## Agricultural emissions from land use
+- Soil contains twice as much carbon as the atmosphere
+- Soil carbon loss
+- Forest clearing practices
+
+
+## Agricultural Water Use
+- Water pumping is energy intensive
+- Agriculture uses 80% of California water
+- In Gujarat, India, falling water tables have led to electricity demand
+  that are greater than crop values
+
+## Food Transportation
+- Food often travels long distances creating carbon emissions
+- However, transport is only about 20% of food related carbon emissions
+
+## Food refrigeration
+- Cold storage and lighting and stores is also a significant energy use
+
+<!-- reference, Cuellar and Webber Env Sci Tech -->
+
+## Fertilizer
+- Energy used to manufacture and apply fertilizer
+- Fertilizer runoff disrupts ecosystems
+- Dead zone in Gulf of Mexico is most famous
+
+
+## Biofuels
+- First generation based on edible sugars, starches, or oils
+- Second generation based on inedible cellulose (wood, straw)
+- Third generation based on algae growth
+
+## Biofuels
+- Issues of competition between energy needs and nutritional needs
+- Ethanol has affected corn prices
+- Lots of issues between renewable fuel standards and food prices
+
+## Innovations
+- Marin Carbon Project
+- Uses compost to enhance carbon sequestration in the soil
+- Has demonstration farms in Marin
+- Currently evaluating the efficacy of carbon storage in soil
+
+## Natural Capitalism
+- Wind driven silo drying and cooling
+- Solar food dryers
+- LED lighting for chickens
+- High efficiency greenhouses
+
+
+## Discussion
+- What are the avenues for improvement?
+- Are there hard and soft paths for agriculture?
+- External inputs of energy and nutrients
+- Natural inputs from sun and rain
+- What metrics can we create to improve our food production system?
+
+
+<!--
+## NC10
+- 40% processing, packaging and distribution
+- 40% refrigeration and cooking
+- 20% on the farm (one-half) chemicals
+## MacKay 13
+-->
+
+
+
