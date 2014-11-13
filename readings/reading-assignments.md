@@ -6,7 +6,7 @@ or argument provided is compelling.  You may also discuss the
 implications of the issue discussed in the article.    How would this
 issue affect human, the economy, or the environment?  Be clear in the
 introduction about what your goal is in your essay.  Each assignment is
-worth up to 10 points.
+worth up to 4 points.
 
 - Your essay should be structured as a critique of the article and
   should make an argument
